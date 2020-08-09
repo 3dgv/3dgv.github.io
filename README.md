@@ -55,7 +55,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td>Talk title<br>Xin Tong<br>MSRA</td>
+      <td>Something cool about computational photometry or computer vision or computer graphics<br>Xin Tong<br>MSRA</td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
