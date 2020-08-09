@@ -39,15 +39,15 @@
 <table>
   <tbody>
     <tr>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>TUM<br>Angela Dai</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>NUS<br>Angela Yao</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>Technical University of Munich<br>Angela Dai</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>National University of Singapore<br>Angela Yao</td>
       <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>Berkeley<br>Angjoo Kanazawa</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>USTC<br>Juyong Zhang</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>University of Science and Technology of China<br>Juyong Zhang</td>
     </tr>
     <tr align="center">
       <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>UT Austin<br>Qixing Huang</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>CVUT<br>Torsten Sattler</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>SFU<br>Yasutaka Furukawa</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>Czech Technical University in Prague<br>Torsten Sattler</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>Simon Fraser University<br>Yasutaka Furukawa</td>
     </tr>
   </tbody>
 </table>        
@@ -56,15 +56,15 @@
 <table>
   <tbody>
     <tr>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>CVUT<br>Baoquan Chen</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>CVUT<br>Jana Košecká</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>CVUT<br>Jitendra Malik</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>CVUT<br>Leo Guibas</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>Peking University<br>Baoquan Chen</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>George Mason University<br>Jana Košecká</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>Berkeley<br>Jitendra Malik</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>Stanford<br>Leo Guibas</td>
     </tr>
     <tr>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>CVUT<br>Lourdes Agapito</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>CVUT<br>Michael Black</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>CVUT<br>Richard Hartley</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>University College London<br>Lourdes Agapito</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>Max Planck Institute<br>Michael Black</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>Australian National University<br>Richard Hartley</td>
     </tr>
   </tbody>
 </table>
