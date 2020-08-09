@@ -1,4 +1,3 @@
-<br>
 <h1>3DGV: Seminar on 3D Geometry & Vision</h1>
 3DGV is a virtual seminar series on Geometry Processing and 3D Computer Vision. Seminars take place every Wednesday, cycling through three different time zones (America, Asia, and Europe).
 
