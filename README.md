@@ -93,7 +93,7 @@
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/07 12:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/07 13:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>10/07 10:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>France</td>  <td>10/07 04:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>10/07 03:00 Wed</td></tr>
@@ -109,7 +109,7 @@
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/14 20:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/14 21:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>10/14 18:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>France</td>  <td>10/14 12:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>10/14 11:00 Wed</td></tr>
@@ -125,7 +125,7 @@
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/22 04:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/22 05:00 Thu</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>10/22 02:00 Thu</td></tr>
             <tr style="background-color:#e2e2df"><td>France</td>  <td>10/21 20:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>10/21 19:00 Wed</td></tr>
@@ -141,10 +141,10 @@
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/28 12:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/28 13:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>10/28 10:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>10/28 04:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>10/28 03:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>10/28 03:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>10/28 02:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>10/27 22:00 Tue</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>10/27 19:00 Tue</td></tr>
           </tbody>
@@ -157,8 +157,8 @@
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/04 20:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/04 18:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/04 22:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/04 19:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>France</td>  <td>11/04 12:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/04 11:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/04 06:00 Wed</td></tr>
@@ -173,8 +173,8 @@
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/19 04:00 Thu</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/19 02:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/19 06:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/19 03:00 Thu</td></tr>
             <tr style="background-color:#e2e2df"><td>France</td>  <td>11/18 20:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/18 19:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/18 14:00 Wed</td></tr>
@@ -189,12 +189,12 @@
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/25 12:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/25 13:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/25 10:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>11/25 04:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/25 03:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/24 22:00 Tue</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>11/24 19:00 Tue</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>11/25 03:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/25 02:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/24 21:00 Tue</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>11/24 18:00 Tue</td></tr>
           </tbody>
         </table>
       </td>
@@ -205,8 +205,8 @@
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>12/02 20:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>12/02 18:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>12/02 22:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>12/02 19:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>France</td>  <td>12/02 12:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>12/02 11:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>12/02 06:00 Wed</td></tr>
@@ -221,8 +221,8 @@
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>12/17 04:00 Thu</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>12/17 02:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>12/17 06:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>12/17 03:00 Thu</td></tr>
             <tr style="background-color:#e2e2df"><td>France</td>  <td>12/16 20:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>12/16 19:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>12/16 14:00 Wed</td></tr>
