@@ -55,6 +55,182 @@
         </table>
       </td>
     </tr>
+    <tr valign="middle">
+      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td>Talk title<br>Name<br>Affiliation</td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr><td>Sydney</td>  <td>09/23 20:00 Wed</td></tr>
+            <tr><td>Beijing</td> <td>09/23 18:00 Wed</td></tr>
+            <tr><td>Germany</td> <td>09/23 12:00 Wed</td></tr>
+            <tr><td>UK</td>      <td>09/23 11:00 Wed</td></tr>
+            <tr><td>Eastern</td> <td>09/23 06:00 Wed</td></tr>
+            <tr><td>Pacific</td> <td>09/23 03:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr valign="middle">
+      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td>Talk title<br>Tom Funkhouser<br>Google</td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr><td>Sydney</td>  <td>10/01 04:00 Thu</td></tr>
+            <tr><td>Beijing</td> <td>10/01 02:00 Thu</td></tr>
+            <tr><td>Germany</td> <td>09/30 20:00 Wed</td></tr>
+            <tr><td>UK</td>      <td>09/30 19:00 Wed</td></tr>
+            <tr><td>Eastern</td> <td>09/30 14:00 Wed</td></tr>
+            <tr><td>Pacific</td> <td>09/30 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr valign="middle">
+      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td>Talk title<br>Gim Hee Lee<br>NUS</td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr><td>Sydney</td>  <td>10/07 12:00 Wed</td></tr>
+            <tr><td>Beijing</td> <td>10/07 10:00 Wed</td></tr>
+            <tr><td>Germany</td> <td>10/07 04:00 Wed</td></tr>
+            <tr><td>UK</td>      <td>10/07 03:00 Wed</td></tr>
+            <tr><td>Eastern</td> <td>10/06 22:00 Tue</td></tr>
+            <tr><td>Pacific</td> <td>10/06 19:00 Tue</td></tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr valign="middle">
+      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td>Talk title<br>Name<br>Affiliation</td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr><td>Sydney</td>  <td>10/14 20:00 Wed</td></tr>
+            <tr><td>Beijing</td> <td>10/14 18:00 Wed</td></tr>
+            <tr><td>Germany</td> <td>10/14 12:00 Wed</td></tr>
+            <tr><td>UK</td>      <td>10/14 11:00 Wed</td></tr>
+            <tr><td>Eastern</td> <td>10/14 06:00 Wed</td></tr>
+            <tr><td>Pacific</td> <td>10/14 03:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr valign="middle">
+      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td>Talk title<br>Georgia Gkioxari<br>FAIR</td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr><td>Sydney</td>  <td>10/22 04:00 Thu</td></tr>
+            <tr><td>Beijing</td> <td>10/22 02:00 Thu</td></tr>
+            <tr><td>Germany</td> <td>10/21 20:00 Wed</td></tr>
+            <tr><td>UK</td>      <td>10/21 19:00 Wed</td></tr>
+            <tr><td>Eastern</td> <td>10/21 14:00 Wed</td></tr>
+            <tr><td>Pacific</td> <td>10/21 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr valign="middle">
+      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td>Talk title<br>Jiajun Wu<br>Stanford</td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr><td>Sydney</td>  <td>10/28 12:00 Wed</td></tr>
+            <tr><td>Beijing</td> <td>10/28 10:00 Wed</td></tr>
+            <tr><td>Germany</td> <td>10/28 04:00 Wed</td></tr>
+            <tr><td>UK</td>      <td>10/28 03:00 Wed</td></tr>
+            <tr><td>Eastern</td> <td>10/27 22:00 Tue</td></tr>
+            <tr><td>Pacific</td> <td>10/27 19:00 Tue</td></tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr valign="middle">
+      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td>Talk title<br>Name<br>Affiliation</td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr><td>Sydney</td>  <td>11/04 20:00 Wed</td></tr>
+            <tr><td>Beijing</td> <td>11/04 18:00 Wed</td></tr>
+            <tr><td>Germany</td> <td>11/04 12:00 Wed</td></tr>
+            <tr><td>UK</td>      <td>11/04 11:00 Wed</td></tr>
+            <tr><td>Eastern</td> <td>11/04 06:00 Wed</td></tr>
+            <tr><td>Pacific</td> <td>11/04 03:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr valign="middle">
+      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td>Talk title<br>Name<br>Affiliation</td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr><td>Sydney</td>  <td>11/19 04:00 Thu</td></tr>
+            <tr><td>Beijing</td> <td>11/19 02:00 Thu</td></tr>
+            <tr><td>Germany</td> <td>11/18 20:00 Wed</td></tr>
+            <tr><td>UK</td>      <td>11/18 19:00 Wed</td></tr>
+            <tr><td>Eastern</td> <td>11/18 14:00 Wed</td></tr>
+            <tr><td>Pacific</td> <td>11/18 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr valign="middle">
+      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td>Talk title<br>Hui Huang<br>Shenzhen University</td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr><td>Sydney</td>  <td>11/25 12:00 Wed</td></tr>
+            <tr><td>Beijing</td> <td>11/25 10:00 Wed</td></tr>
+            <tr><td>Germany</td> <td>11/25 04:00 Wed</td></tr>
+            <tr><td>UK</td>      <td>11/25 03:00 Wed</td></tr>
+            <tr><td>Eastern</td> <td>11/24 22:00 Tue</td></tr>
+            <tr><td>Pacific</td> <td>11/24 19:00 Tue</td></tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr valign="middle">
+      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td>Talk title<br>Name<br>Affiliation</td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr><td>Sydney</td>  <td>12/02 20:00 Wed</td></tr>
+            <tr><td>Beijing</td> <td>12/02 18:00 Wed</td></tr>
+            <tr><td>Germany</td> <td>12/02 12:00 Wed</td></tr>
+            <tr><td>UK</td>      <td>12/02 11:00 Wed</td></tr>
+            <tr><td>Eastern</td> <td>12/02 06:00 Wed</td></tr>
+            <tr><td>Pacific</td> <td>12/02 03:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr valign="middle">
+      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td>Talk title<br>Name<br>Affiliation</td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr><td>Sydney</td>  <td>12/17 04:00 Thu</td></tr>
+            <tr><td>Beijing</td> <td>12/17 02:00 Thu</td></tr>
+            <tr><td>Germany</td> <td>12/16 20:00 Wed</td></tr>
+            <tr><td>UK</td>      <td>12/16 19:00 Wed</td></tr>
+            <tr><td>Eastern</td> <td>12/16 14:00 Wed</td></tr>
+            <tr><td>Pacific</td> <td>12/16 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
   </tbody>
 </table>
 
