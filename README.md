@@ -90,15 +90,15 @@
 <table border="0" cellpading="0" cellspacing="0">
   <tbody>
     <tr>
-      <td><img src="./images/angela_dai.jpg" height="200" /><br>TUM<br>Angela Dai</td>
-      <td><img src="./images/angela_yao.jpg" height="200"/><br>NUS<br>Angela Yao</td>
-      <td><img src="./images/angjoo_kanazawa.jpg" height="200"/><br>Berkeley<br>Angjoo Kanazawa</td>
-      <td><img src="./images/juyong_zhang.png" height="200"/><br>USTC<br>Juyong Zhang</td>
+      <td><a href="https://www.3dunderstanding.org/"><img src="./images/angela_dai.jpg" height="200" /><br>TUM<br>Angela Dai</a></td>
+      <td><a href="https://www.comp.nus.edu.sg/cs/bio/ayao/"><img src="./images/angela_yao.jpg" height="200"/><br>NUS<br>Angela Yao</a></td>
+      <td><a href="https://people.eecs.berkeley.edu/~kanazawa/"><img src="./images/angjoo_kanazawa.jpg" height="200"/><br>Berkeley<br>Angjoo Kanazawa</a></td>
+      <td><a href="http://staff.ustc.edu.cn/~juyong/"><img src="./images/juyong_zhang.png" height="200"/><br>USTC<br>Juyong Zhang</a></td>
     </tr>
     <tr>
-      <td><img src="./images/qixing_huang.jpg" height="200"/><br>UT Austin<br>Qixing Huang</td>
-      <td><img src="./images/torsten_sattler.png" height="200"/><br>CVUT<br>Torsten Sattler</td>
-      <td><img src="./images/yasutaka_furukawa.jpg" height="200"/><br>SFU<br>Yasutaka Furukawa</td>
+      <td><a href="https://www.cs.utexas.edu/~huangqx/"><img src="./images/qixing_huang.jpg" height="200"/><br>UT Austin<br>Qixing Huang</a></td>
+      <td><a href=""><img src="./images/torsten_sattler.png" height="200"/><br>CVUT<br>Torsten Sattler</a></td>
+      <td><a href="https://www.cs.sfu.ca/~furukawa"><img src="./images/yasutaka_furukawa.jpg" height="200"/><br>SFU<br>Yasutaka Furukawa</a></td>
     </tr>
   </tbody>
 </table>        
@@ -107,15 +107,15 @@
 <table border="0" cellpading="0" cellspacing="0">
   <tbody>
     <tr>
-      <td><img src="./images/baoquan_chen.jpg" height="200"/><br>Peking University<br>Baoquan Chen</td>
-      <td><img src="./images/jana_kosecka.jpg" height="200"/><br>GMU<br>Jana Košecká</td>
-      <td><img src="./images/jitendra_malik.gif" height="200"/><br>Berkeley<br>Jitendra Malik</td>
-      <td><img src="./images/leo_guibas.jpg" height="200"/><br>Stanford<br>Leo Guibas</td>
+      <td><a href="https://cfcs.pku.edu.cn/baoquan/"><img src="./images/baoquan_chen.jpg" height="200"/><br>Peking University<br>Baoquan Chen</a></td>
+      <td><a href="https://cs.gmu.edu/~kosecka/"><img src="./images/jana_kosecka.jpg" height="200"/><br>GMU<br>Jana Košecká</a></td>
+      <td><a href="https://people.eecs.berkeley.edu/~malik/"><img src="./images/jitendra_malik.gif" height="200"/><br>Berkeley<br>Jitendra Malik</a></td>
+      <td><a href="https://geometry.stanford.edu/member/guibas/"><img src="./images/leo_guibas.jpg" height="200"/><br>Stanford<br>Leo Guibas</a></td>
     </tr>
     <tr>
-      <td><img src="./images/lourdes_agapito.jpg" height="200"/><br>UCL<br>Lourdes Agapito</td>
-      <td><img src="./images/michael_black.jpg" height="200"/><br>MPI<br>Michael Black</td>
-      <td><img src="./images/richard_hartley.jpg" height="200"/><br>ANU<br>Richard Hartley</td>
+      <td><a href="http://www0.cs.ucl.ac.uk/staff/L.Agapito/"><img src="./images/lourdes_agapito.jpg" height="200"/><br>UCL<br>Lourdes Agapito</a></td>
+      <td><a href="https://ps.is.mpg.de/~black"><img src="./images/michael_black.jpg" height="200"/><br>MPI<br>Michael Black</a></td>
+      <td><a href="http://users.cecs.anu.edu.au/~hartley/"><img src="./images/richard_hartley.jpg" height="200"/><br>ANU<br>Richard Hartley</a></td>
     </tr>
   </tbody>
 </table>
