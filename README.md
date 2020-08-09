@@ -11,23 +11,26 @@
       <td valign="top"><img src="thumbnail.jpg" width="480"/></td>
       <td valign="top">Date. Hours in diff time zones</td>
     </tr>
-  </tbody>
-</table>
-
-<table border="0" cellpading="0" cellspacing="0">
-  <tbody>
     <tr valign="top">
       <td><img src="thumbnail.jpg" width="480"/></td>
       <td>Date. Hours in diff time zones</td>
     </tr>
-  </tbody>
-</table>
-
-<table border="0" cellpading="0" cellspacing="0">
-  <tbody>
     <tr valign="top">
       <td><img src="thumbnail.jpg" width="480"/></td>
-      <td>Date. Hours in diff time zones. beijing, sydney, pacific, eastern, germany, and etc.</td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>Sydney</td><td></td>
+              <td>Beijing</td><td></td>
+              <td>Germany</td><td>09/02 12:00</td>
+              <td>UK</td><td></td>
+              <td>Eastern</td><td></td>
+              <td>Pacific</td><td></td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
     </tr>
   </tbody>
 </table>
