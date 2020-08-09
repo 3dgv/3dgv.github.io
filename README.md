@@ -80,7 +80,7 @@
     <tr>
       <td><img src="./images/baoquan_chen.jpg" height="200"/><br>Peking University<br>Baoquan Chen</td>
       <td><img src="./images/jana_kosecka.jpg" height="200"/><br>GMU<br>Jana Košecká</td>
-      <td><img src="./images/jiendra_malik.gif" height="200"/><br>Berkeley<br>Jitendra Malik</td>
+      <td><img src="./images/jitendra_malik.gif" height="200"/><br>Berkeley<br>Jitendra Malik</td>
       <td><img src="./images/leo_guibas.jpg" height="200"/><br>Stanford<br>Leo Guibas</td>
     </tr>
     <tr>
