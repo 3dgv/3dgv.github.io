@@ -7,23 +7,23 @@
 <h2 style="color:black;">Upcoming Talks</h2>
 <table>
   <tbody>
-    <tr valign="middle" style="background-color:#EEFFFF">
+    <tr valign="middle" style="background-color:#F0FFFF">
       <td style="width:40%"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td style="width:20%">Talk title<br>Name<br>Affiliation</td>
       <td style="width:40%">
         <table>
           <tbody>
-            <tr style="background-color:#FFFFEE"><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
-            <tr style="background-color:#FFFFEE"><td>Beijing</td> <td>09/02 18:00 Wed</td></tr>
-            <tr style="background-color:#EEFFFF"><td>Germany</td> <td>09/02 12:00 Wed</td></tr>
-            <tr style="background-color:#EEFFFF"><td>UK</td>      <td>09/02 11:00 Wed</td></tr>
-            <tr style="background-color:#FFEEFF"><td>Eastern</td> <td>09/02 06:00 Wed</td></tr>
-            <tr style="background-color:#FFEEFF"><td>Pacific</td> <td>09/02 03:00 Wed</td></tr>
+            <tr style="background-color:#FFFFF0"><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
+            <tr style="background-color:#FFFFF0"><td>Beijing</td> <td>09/02 18:00 Wed</td></tr>
+            <tr style="background-color:#F0EFFFF"><td>Germany</td> <td>09/02 12:00 Wed</td></tr>
+            <tr style="background-color:#F0FFFF"><td>UK</td>      <td>09/02 11:00 Wed</td></tr>
+            <tr style="background-color:#FFF0FF"><td>Eastern</td> <td>09/02 06:00 Wed</td></tr>
+            <tr style="background-color:#FFF0FF"><td>Pacific</td> <td>09/02 03:00 Wed</td></tr>
           </tbody>
         </table>
       </td>
     </tr>
-    <tr valign="middle" style="background-color:#FFEEFF">
+    <tr valign="middle" style="background-color:#FFF0FF">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td>Talk title<br>Name<br>Affiliation</td>
       <td>
@@ -39,7 +39,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle" style="background-color:#FFFFEE">
+    <tr valign="middle" style="background-color:#FFFFF0">
       <td><img src="./images/xin_tong.jpg" width="200"/></td>
       <td>Talk title<br>Xin Tong<br>MSRA</td>
       <td>
