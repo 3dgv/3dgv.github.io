@@ -8,24 +8,46 @@
 <table border="0" cellpading="0" cellspacing="0">
   <tbody>
     <tr>
-      <td valign="top"><img src="thumbnail.jpg" width="480"/></td>
-      <td valign="top">Date. Hours in diff time zones</td>
-    </tr>
-    <tr valign="top">
-      <td><img src="thumbnail.jpg" width="480"/></td>
-      <td>Date. Hours in diff time zones</td>
-    </tr>
-    <tr valign="top">
       <td><img src="thumbnail.jpg" width="480"/></td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
-            <tr><td>Sydney</td><td></td></tr>
-            <tr><td>Beijing</td><td></td></tr>
-            <tr><td>Germany</td><td>09/02 12:00</td></tr>
-            <tr><td>UK</td><td></td></tr>
-            <tr><td>Eastern</td><td></td></tr>
-            <tr><td>Pacific</td><td></td></tr>
+            <tr><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
+            <tr><td>Beijing</td> <td>09/02 18:00 Wed</td></tr>
+            <tr><td>Germany</td> <td>09/02 12:00 Wed</td></tr>
+            <tr><td>UK</td>      <td>09/02 11:00 Wed</td></tr>
+            <tr><td>Eastern</td> <td>09/02 06:00 Wed</td></tr>
+            <tr><td>Pacific</td> <td>09/02 03:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="thumbnail.jpg" width="480"/></td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
+            <tr><td>Beijing</td> <td>09/02 18:00 Wed</td></tr>
+            <tr><td>Germany</td> <td>09/02 12:00 Wed</td></tr>
+            <tr><td>UK</td>      <td>09/02 11:00 Wed</td></tr>
+            <tr><td>Eastern</td> <td>09/02 06:00 Wed</td></tr>
+            <tr><td>Pacific</td> <td>09/02 03:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="thumbnail.jpg" width="480"/></td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
+            <tr><td>Beijing</td> <td>09/02 18:00 Wed</td></tr>
+            <tr><td>Germany</td> <td>09/02 12:00 Wed</td></tr>
+            <tr><td>UK</td>      <td>09/02 11:00 Wed</td></tr>
+            <tr><td>Eastern</td> <td>09/02 06:00 Wed</td></tr>
+            <tr><td>Pacific</td> <td>09/02 03:00 Wed</td></tr>
           </tbody>
         </table>
       </td>
@@ -39,15 +61,15 @@
 <table border="0" cellpading="0" cellspacing="0">
   <tbody>
     <tr>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="200"/><br>TUM<br>Angela Dai</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="200"/><br>NUS<br>Angela Yao</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="200"/><br>Berkeley<br>Angjoo Kanazawa</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="200"/><br>USTC<br>Juyong Zhang</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200"/><br>TUM<br>Angela Dai</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200"/><br>NUS<br>Angela Yao</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200"/><br>Berkeley<br>Angjoo Kanazawa</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200"/><br>USTC<br>Juyong Zhang</td>
     </tr>
-    <tr align="center">
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="200"/><br>UT Austin<br>Qixing Huang</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="200"/><br>CVUT<br>Torsten Sattler</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="200"/><br>SFU<br>Yasutaka Furukawa</td>
+    <tr>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200"/><br>UT Austin<br>Qixing Huang</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200"/><br>CVUT<br>Torsten Sattler</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200"/><br>SFU<br>Yasutaka Furukawa</td>
     </tr>
   </tbody>
 </table>        
@@ -56,15 +78,15 @@
 <table border="0" cellpading="0" cellspacing="0">
   <tbody>
     <tr>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="200"/><br>Peking University<br>Baoquan Chen</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="200"/><br>GMU<br>Jana Košecká</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="200"/><br>Berkeley<br>Jitendra Malik</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="200"/><br>Stanford<br>Leo Guibas</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200"/><br>Peking University<br>Baoquan Chen</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200"/><br>GMU<br>Jana Košecká</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200"/><br>Berkeley<br>Jitendra Malik</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200"/><br>Stanford<br>Leo Guibas</td>
     </tr>
     <tr>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="200"/><br>UCL<br>Lourdes Agapito</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="200"/><br>MPI<br>Michael Black</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="200"/><br>ANU<br>Richard Hartley</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200"/><br>UCL<br>Lourdes Agapito</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200"/><br>MPI<br>Michael Black</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200"/><br>ANU<br>Richard Hartley</td>
     </tr>
   </tbody>
 </table>
