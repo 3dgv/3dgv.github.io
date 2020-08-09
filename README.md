@@ -1,5 +1,5 @@
 <h1 style="color:black;">3DGV: Seminar on 3D Geometry & Vision</h1>
-3DGV is a virtual seminar series on Geometry Processing and 3D Computer Vision. Seminars take place every Wednesday, cycling through three different time zones (<font style="background-color:#e2e2df;">Europe</font>, <font style="background-colo:#e2cfc4;">America</font>, and <font style="background-color:#c6def1;">Asia</font>).
+3DGV is a virtual seminar series on Geometry Processing and 3D Computer Vision. Seminars take place every Wednesday, cycling through three different time zones (<font style="background-color:#e2e2df;">Europe</font>, <font style="background-color:#e2cfc4;">America</font>, and <font style="background-color:#c6def1;">Asia</font>).
 
 <a href="join_by_zoom.html" class="button3">Join by Zoom</a>
 <a href="join_by_youtube.html" class="button3">Join by Youtube</a>
@@ -55,7 +55,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle">
+    <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td>Talk title<br>Name<br>Affiliation</td>
       <td>
@@ -71,7 +71,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle">
+    <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/tom_funkhouser.jpg" width="200"/></td>
       <td>Talk title<br>Tom Funkhouser<br>Google</td>
       <td>
@@ -87,7 +87,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle">
+    <tr valign="middle" style="background-color:#c6def1>
       <td><img src="./images/gim_hee_lee.png" width="200"/></td>
       <td>Talk title<br>Gim Hee Lee<br>NUS</td>
       <td>
@@ -103,7 +103,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle">
+    <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td>Talk title<br>Name<br>Affiliation</td>
       <td>
@@ -119,7 +119,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle">
+    <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/georgia_gkioxari.jpg" width="200"/></td>
       <td>Talk title<br>Georgia Gkioxari<br>FAIR</td>
       <td>
@@ -135,7 +135,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle">
+    <tr valign="middle" style="background-color:#c6def1>
       <td><img src="./images/jiajun_wu.jpg" width="200"/></td>
       <td>Talk title<br>Jiajun Wu<br>Stanford</td>
       <td>
@@ -151,7 +151,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle">
+    <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td>Talk title<br>Name<br>Affiliation</td>
       <td>
@@ -167,7 +167,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle">
+    <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/katerina_fragkiadaki.png" width="200"/></td>
       <td>Talk title<br>Katerina Fragkiadaki<br>CMU</td>
       <td>
@@ -183,7 +183,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle">
+    <tr valign="middle" style="background-color:#c6def1>
       <td><img src="./images/hui_huang.jpg" width="200"/></td>
       <td>Talk title<br>Hui Huang<br>Shenzhen University</td>
       <td>
@@ -199,7 +199,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle">
+    <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td>Talk title<br>Name<br>Affiliation</td>
       <td>
@@ -215,7 +215,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle">
+    <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/david_fouhey.jpg" width="200"/></td>
       <td>Talk title<br>David Fouhey<br>University of Michigan</td>
       <td>
