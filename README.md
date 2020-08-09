@@ -8,9 +8,9 @@
 <table border="0" cellpading="0" cellspacing="0">
   <tbody>
     <tr valign="middle">
-      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
-      <td>Talk title<br>Name<br>Affiliation</td>
-      <td>
+      <td style="width:40%"><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td style="width:20%">Talk title<br>Name<br>Affiliation</td>
+      <td style="width:40%">
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
             <tr><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
