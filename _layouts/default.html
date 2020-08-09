@@ -7,43 +7,20 @@
 
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-  <style>
-	  a.button3{
-		  display:inline-block;
-		  padding:0.3em 1.2em;
-		  margin:0 0.3em 0.3em 0;
-		  border-radius:2em;
-		  box-sizing: border-box;
-		  text-decoration:none;
-		  font-family:'Roboto',sans-serif;
-		  font-weight:300;
-		  color:#FFFFFF;
-		  background-color:#4eb5f1;
-		  text-align:center;
-		  transition: all 0.2s;
-	  }
-	  a.button3:hover{
-		  background-color:#4095c6;
-	  }
-	  @media all and (max-width:30em){
-		  a.button3{
-			  display:block;
-			  margin:0.2em auto;
-		  }
-	  }
-  </style>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-	    {% if site.title and site.title != page.title %}
-	    <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-	    {% endif %}
+      {% if site.title and site.title != page.title %}
+      <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+      {% endif %}
+
       {{ content }}
-	    {% if site.github.private != true and site.github.license %}
-	    <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-		    This site is open source. {% github_edit_link "Improve this page" %}.
-	    </div>
-	    {% endif %}
+
+      {% if site.github.private != true and site.github.license %}
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+	This site is open source. {% github_edit_link "Improve this page" %}.
+      </div>
+      {% endif %}
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
