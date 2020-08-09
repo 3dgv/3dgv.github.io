@@ -5,13 +5,13 @@
 <a href="join_by_youtube.html" class="button3">Join by Youtube</a>
 
 <h2 style="color:black;">Upcoming Talks</h2>
-<table border="0" cellpading="0" cellspacing="0" color="white" bordercolor="white" style="border:0;">
+<table>
   <tbody>
     <tr valign="middle">
       <td style="width:40%"><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
       <td style="width:20%">Talk title<br>Name<br>Affiliation</td>
       <td style="width:40%">
-        <table border="0" cellpadding="0" cellspacing="0">
+        <table>
           <tbody>
             <tr><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
             <tr><td>Beijing</td> <td>09/02 18:00 Wed</td></tr>
@@ -27,7 +27,7 @@
       <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
       <td>Talk title<br>Name<br>Affiliation</td>
       <td>
-        <table border="0" cellpadding="0" cellspacing="0">
+        <table>
           <tbody>
             <tr><td>Sydney</td>  <td>09/10 04:00 Thu</td></tr>
             <tr><td>Beijing</td> <td>09/10 02:00 Thu</td></tr>
@@ -43,7 +43,7 @@
       <td><img src="./images/xin_tong.jpg" height="300"/></td>
       <td>Talk title<br>Xin Tong<br>MSRA</td>
       <td>
-        <table border="0" cellpadding="0" cellspacing="0">
+        <table>
           <tbody>
             <tr><td>Sydney</td>  <td>09/16 12:00 Wed</td></tr>
             <tr><td>Beijing</td> <td>09/16 10:00 Wed</td></tr>
@@ -59,7 +59,7 @@
       <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
       <td>Talk title<br>Name<br>Affiliation</td>
       <td>
-        <table border="0" cellpadding="0" cellspacing="0">
+        <table>
           <tbody>
             <tr><td>Sydney</td>  <td>09/23 20:00 Wed</td></tr>
             <tr><td>Beijing</td> <td>09/23 18:00 Wed</td></tr>
@@ -75,7 +75,7 @@
       <td><img src="./images/tom_funkhouser.jpg" height="300"/></td>
       <td>Talk title<br>Tom Funkhouser<br>Google</td>
       <td>
-        <table border="0" cellpadding="0" cellspacing="0">
+        <table>
           <tbody>
             <tr><td>Sydney</td>  <td>10/01 04:00 Thu</td></tr>
             <tr><td>Beijing</td> <td>10/01 02:00 Thu</td></tr>
