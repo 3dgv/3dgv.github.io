@@ -247,7 +247,7 @@
     </tr>
     <tr>
       <td><a href="https://www.cs.utexas.edu/~huangqx/"><img src="./images/qixing_huang.jpg" height="200"/><br>UT Austin<br>Qixing Huang</a></td>
-      <td><a href=""><img src="./images/torsten_sattler.png" height="200"/><br>CVUT<br>Torsten Sattler</a></td>
+      <td><a href="https://scholar.google.com/citations?user=jzx6_ZIAAAAJ&hl=en"><img src="./images/torsten_sattler.png" height="200"/><br>CVUT<br>Torsten Sattler</a></td>
       <td><a href="https://www.cs.sfu.ca/~furukawa"><img src="./images/yasutaka_furukawa.jpg" height="200"/><br>SFU<br>Yasutaka Furukawa</a></td>
     </tr>
   </tbody>
