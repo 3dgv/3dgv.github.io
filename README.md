@@ -1,4 +1,4 @@
-<h1>3DGV: Seminar on 3D Geometry & Vision</h1>
+<h1>3DGV: Virtual Seminar on 3D Geometry & Vision</h1>
 <table style="text-align: left; " border="0" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
