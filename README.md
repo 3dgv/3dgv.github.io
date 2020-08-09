@@ -8,9 +8,9 @@
 <table>
   <tbody>
     <tr valign="middle" style="background-color:#e2e2df">
-      <td style="width:25%"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
+      <td style="width:30%"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td style="width:35%">Talk title<br>Name<br>Affiliation</td>
-      <td style="width:40%">
+      <td style="width:35%">
         <table>
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
