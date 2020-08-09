@@ -39,16 +39,15 @@
 <table>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>TUM<br>Angela Dai</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>NUS<br>Angela Yao</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>Berkeley<br>Angjoo Kanazawa</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>USTC<br>Juyong Zhang</td>
     </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td align="center"><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="80"/><br>Yasutaka Furukawa</td>
+    <tr align="center">
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>UT Austin<br>Qixing Huang</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>CVUT<br>Torsten Sattler</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>SFU<br>Yasutaka Furukawa</td>
     </tr>
   </tbody>
 </table>        
@@ -57,16 +56,15 @@
 <table>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>CVUT<br>Baoquan Chen</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>CVUT<br>Jana Košecká</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>CVUT<br>Jitendra Malik</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>CVUT<br>Leo Guibas</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>CVUT<br>Lourdes Agapito</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>CVUT<br>Michael Black</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>CVUT<br>Richard Hartley</td>
     </tr>
   </tbody>
 </table>
