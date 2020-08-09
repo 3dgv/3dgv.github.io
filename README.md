@@ -8,14 +8,14 @@
 <table>
   <tbody>
     <tr valign="middle" style="background-color:#e2e2df">
-      <td style="width:30%"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
-      <td style="width:30%">Talk title<br>Name<br>Affiliation</td>
+      <td style="width:25%"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
+      <td style="width:25%">Talk title<br>Name<br>Affiliation</td>
       <td style="width:40%">
         <table>
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/02 18:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>Germany</td> <td>09/02 12:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/02 12:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/02 11:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/02 06:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/02 03:00 Wed</td></tr>
@@ -31,7 +31,7 @@
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/10 04:00 Thu</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/10 02:00 Thu</td></tr>
-            <tr style="background-color:#e2e2df"><td>Germany</td> <td>09/09 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/09 20:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/09 19:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/09 14:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/09 11:00 Wed</td></tr>
@@ -47,7 +47,7 @@
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/16 12:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/16 10:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>Germany</td> <td>09/16 04:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/16 04:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/16 03:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/15 22:00 Tue</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/15 19:00 Tue</td></tr>
@@ -63,7 +63,7 @@
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/23 20:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/23 18:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>Germany</td> <td>09/23 12:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/23 12:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/23 11:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/23 06:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/23 03:00 Wed</td></tr>
@@ -79,7 +79,7 @@
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/01 04:00 Thu</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>10/01 02:00 Thu</td></tr>
-            <tr style="background-color:#e2e2df"><td>Germany</td> <td>09/30 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/30 20:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/30 19:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/30 14:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/30 11:00 Wed</td></tr>
@@ -95,7 +95,7 @@
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/07 12:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>10/07 10:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>Germany</td> <td>10/07 04:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>10/07 04:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>10/07 03:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>10/06 22:00 Tue</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>10/06 19:00 Tue</td></tr>
@@ -111,7 +111,7 @@
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/14 20:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>10/14 18:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>Germany</td> <td>10/14 12:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>10/14 12:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>10/14 11:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>10/14 06:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>10/14 03:00 Wed</td></tr>
@@ -127,8 +127,8 @@
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/22 04:00 Thu</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>10/22 02:00 Thu</td></tr>
-            <tr style="background-color:#e2e2df"><td>Germany</td> <td>10/21 20:00 Wed</td></tr>
-            <tr><td>UK</td>      <td>10/21 19:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>10/21 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>10/21 19:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>10/21 14:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>10/21 11:00 Wed</td></tr>
           </tbody>
@@ -143,7 +143,7 @@
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/28 12:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>10/28 10:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>Germany</td> <td>10/28 04:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>10/28 04:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>10/28 03:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>10/27 22:00 Tue</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>10/27 19:00 Tue</td></tr>
@@ -159,7 +159,7 @@
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/04 20:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/04 18:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>Germany</td> <td>11/04 12:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>11/04 12:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/04 11:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/04 06:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>11/04 03:00 Wed</td></tr>
@@ -175,7 +175,7 @@
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/19 04:00 Thu</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/19 02:00 Thu</td></tr>
-            <tr style="background-color:#e2e2df"><td>Germany</td> <td>11/18 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>11/18 20:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/18 19:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/18 14:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>11/18 11:00 Wed</td></tr>
@@ -191,7 +191,7 @@
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/25 12:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/25 10:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>Germany</td> <td>11/25 04:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>11/25 04:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/25 03:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/24 22:00 Tue</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>11/24 19:00 Tue</td></tr>
@@ -207,7 +207,7 @@
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>12/02 20:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>12/02 18:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>Germany</td> <td>12/02 12:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>12/02 12:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>12/02 11:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>12/02 06:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>12/02 03:00 Wed</td></tr>
@@ -223,7 +223,7 @@
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>12/17 04:00 Thu</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>12/17 02:00 Thu</td></tr>
-            <tr style="background-color:#e2e2df"><td>Germany</td> <td>12/16 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>12/16 20:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>12/16 19:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>12/16 14:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>12/16 11:00 Wed</td></tr>
