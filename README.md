@@ -42,7 +42,7 @@
       <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>Technical University of Munich<br>Angela Dai</td>
       <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>National University of Singapore<br>Angela Yao</td>
       <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>Berkeley<br>Angjoo Kanazawa</td>
-      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>University of Science and Technology of China<br>Juyong Zhang</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>USTC<br>Juyong Zhang</td>
     </tr>
     <tr align="center">
       <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" width="160"/><br>UT Austin<br>Qixing Huang</td>
