@@ -23,7 +23,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td>Talk title<br>Name<br>Affiliation</td>
+      <td><b>Talk title</b><br><br>Name<br>Affiliation</td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
@@ -39,7 +39,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td>Talk title<br>Name<br>Affiliation</td>
+      <td><b>Talk title</b><br><br>Name<br>Affiliation</td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/xin_tong.jpg" width="200"/></td>
