@@ -238,9 +238,10 @@
 
 <h2 style="color:black;">Past Talks</h2>
 
-
+<!--
 <h2 style="color:black;">Calendar</h2>
 <iframe src="https://calendar.google.com/calendar/embed?src=3dgv.seminar%40gmail.com&ctz=America%2FVancouver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+-->
 
 <h2 style="color:black;">Organizers</h2>
 <table border="0" cellpading="0" cellspacing="0">
