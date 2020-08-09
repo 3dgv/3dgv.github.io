@@ -55,7 +55,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Something cool about computational photometry or computer vision or computer graphics</b><br><br>Xin Tong<br>MSRA</td>
+      <td><b>Something cool about computational photometry or computer vision or computer graphics</b><br><br>Xin Tong<br>Microsoft Research Asia</td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
@@ -103,7 +103,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Gim Hee Lee<br>NUS</td>
+      <td><b>Talk title</b><br><br>Gim Hee Lee<br>National University of Singapore</td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
@@ -135,7 +135,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Georgia Gkioxari<br>FAIR</td>
+      <td><b>Talk title</b><br><br>Georgia Gkioxari<br>Facebook AI Research</td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/jiajun_wu.jpg" width="200"/></td>
@@ -151,7 +151,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Jiajun Wu<br>Stanford</td>
+      <td><b>Talk title</b><br><br>Jiajun Wu<br>Stanford University</td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
@@ -183,7 +183,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Katerina Fragkiadaki<br>CMU</td>
+      <td><b>Talk title</b><br><br>Katerina Fragkiadaki<br>Carnegie Mellon University</td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/hui_huang.jpg" width="200"/></td>
