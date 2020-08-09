@@ -20,14 +20,12 @@
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
-            <tr>
-              <td>Sydney</td><td></td>
-              <td>Beijing</td><td></td>
-              <td>Germany</td><td>09/02 12:00</td>
-              <td>UK</td><td></td>
-              <td>Eastern</td><td></td>
-              <td>Pacific</td><td></td>
-            </tr>
+            <tr><td>Sydney</td><td></td></tr>
+            <tr><td>Beijing</td><td></td></tr>
+            <tr><td>Germany</td><td>09/02 12:00</td></tr>
+            <tr><td>UK</td><td></td></tr>
+            <tr><td>Eastern</td><td></td></tr>
+            <tr><td>Pacific</td><td></td></tr>
           </tbody>
         </table>
       </td>
