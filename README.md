@@ -1,5 +1,5 @@
 <h1 style="color:black;">3DGV: Seminar on 3D Geometry & Vision</h1>
-3DGV is a virtual seminar series on Geometry Processing and 3D Computer Vision. Seminars take place every Wednesday, cycling through three different time zones (<font color="#F0FFFF">Europe</font>, <font color="#FFF0FF">America</font>, and <font color="#FFFFF0">Asia</font>).
+3DGV is a virtual seminar series on Geometry Processing and 3D Computer Vision. Seminars take place every Wednesday, cycling through three different time zones (<font background-color="#F0FFFF">Europe</font>, <font background-color="#FFF0FF">America</font>, and <font background-color="#FFFFF0">Asia</font>).
 
 <a href="join_by_zoom.html" class="button3">Join by Zoom</a>
 <a href="join_by_youtube.html" class="button3">Join by Youtube</a>
@@ -15,7 +15,7 @@
           <tbody>
             <tr style="background-color:#FFFFF0"><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
             <tr style="background-color:#FFFFF0"><td>Beijing</td> <td>09/02 18:00 Wed</td></tr>
-            <tr style="background-color:#F0EFFFF"><td>Germany</td> <td>09/02 12:00 Wed</td></tr>
+            <tr style="background-color:#F0FFFF"><td>Germany</td> <td>09/02 12:00 Wed</td></tr>
             <tr style="background-color:#F0FFFF"><td>UK</td>      <td>09/02 11:00 Wed</td></tr>
             <tr style="background-color:#FFF0FF"><td>Eastern</td> <td>09/02 06:00 Wed</td></tr>
             <tr style="background-color:#FFF0FF"><td>Pacific</td> <td>09/02 03:00 Wed</td></tr>
