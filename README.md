@@ -1,10 +1,10 @@
-<h1>3DGV: Seminar on 3D Geometry & Vision</h1>
+<h1 style="color:black;">3DGV: Seminar on 3D Geometry & Vision</h1>
 3DGV is a virtual seminar series on Geometry Processing and 3D Computer Vision. Seminars take place every Wednesday, cycling through three different time zones (America, Asia, and Europe).
 
 <a href="join_by_zoom.html" class="button3">Join by Zoom</a>
 <a href="join_by_youtube.html" class="button3">Join by Youtube</a>
 
-<h2>Upcoming Talks</h2>
+<h2 style="color:black;">Upcoming Talks</h2>
 <table border="0" cellpading="0" cellspacing="0">
   <tbody>
     <tr>
@@ -32,9 +32,9 @@
   </tbody>
 </table>
 
-<h2>Past Talks</h2>
+<h2 style="color:black;">Past Talks</h2>
 
-<h2>Organizers</h2>
+<h2 style="color:black;">Organizers</h2>
 <table border="0" cellpading="0" cellspacing="0">
   <tbody>
     <tr>
@@ -51,7 +51,7 @@
   </tbody>
 </table>        
 
-<h2>Senior Supervisors</h2>
+<h2 style="color:black;">Senior Supervisors</h2>
 <table border="0" cellpading="0" cellspacing="0">
   <tbody>
     <tr>
