@@ -4,6 +4,8 @@
 <a href="join_by_zoom.html" class="button3">Join by Zoom</a>
 <a href="join_by_youtube.html" class="button3">Join by Youtube</a>
 
+<iframe src="https://calendar.google.com/calendar/embed?src=3dgv.seminar%40gmail.com&ctz=America%2FVancouver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 <h2 style="color:black;">Upcoming Talks</h2>
 <table>
   <tbody>
