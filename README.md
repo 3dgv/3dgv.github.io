@@ -87,7 +87,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle" style="background-color:#c6def1>
+    <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/gim_hee_lee.png" width="200"/></td>
       <td>Talk title<br>Gim Hee Lee<br>NUS</td>
       <td>
@@ -135,7 +135,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle" style="background-color:#c6def1>
+    <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/jiajun_wu.jpg" width="200"/></td>
       <td>Talk title<br>Jiajun Wu<br>Stanford</td>
       <td>
@@ -183,7 +183,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle" style="background-color:#c6def1>
+    <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/hui_huang.jpg" width="200"/></td>
       <td>Talk title<br>Hui Huang<br>Shenzhen University</td>
       <td>
