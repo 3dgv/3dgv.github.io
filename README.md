@@ -7,23 +7,23 @@
 <h2 style="color:black;">Upcoming Talks</h2>
 <table>
   <tbody>
-    <tr valign="middle" style="background-color:#DDFFFF">
+    <tr valign="middle" style="background-color:#EEFFFF">
       <td style="width:40%"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td style="width:20%">Talk title<br>Name<br>Affiliation</td>
       <td style="width:40%">
         <table>
           <tbody>
-            <tr><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
-            <tr><td>Beijing</td> <td>09/02 18:00 Wed</td></tr>
-            <tr><td>Germany</td> <td>09/02 12:00 Wed</td></tr>
-            <tr><td>UK</td>      <td>09/02 11:00 Wed</td></tr>
-            <tr><td>Eastern</td> <td>09/02 06:00 Wed</td></tr>
-            <tr><td>Pacific</td> <td>09/02 03:00 Wed</td></tr>
+            <tr style="background-color:#FFFFEE"><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
+            <tr style="background-color:#FFFFEE"><td>Beijing</td> <td>09/02 18:00 Wed</td></tr>
+            <tr style="background-color:#EEFFFF"><td>Germany</td> <td>09/02 12:00 Wed</td></tr>
+            <tr style="background-color:#EEFFFF"><td>UK</td>      <td>09/02 11:00 Wed</td></tr>
+            <tr style="background-color:#FFEEFF"><td>Eastern</td> <td>09/02 06:00 Wed</td></tr>
+            <tr style="background-color:#FFEEFF"><td>Pacific</td> <td>09/02 03:00 Wed</td></tr>
           </tbody>
         </table>
       </td>
     </tr>
-    <tr valign="middle" style="background-color:#FFDDFF">
+    <tr valign="middle" style="background-color:#FFEEFF">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td>Talk title<br>Name<br>Affiliation</td>
       <td>
@@ -39,7 +39,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle" style="background-color:#FFFFDD">
+    <tr valign="middle" style="background-color:#FFFFEE">
       <td><img src="./images/xin_tong.jpg" width="200"/></td>
       <td>Talk title<br>Xin Tong<br>MSRA</td>
       <td>
