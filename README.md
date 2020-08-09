@@ -7,17 +7,9 @@
 <h2 style="color:black;">Upcoming Talks</h2>
 <table border="0" cellpading="0" cellspacing="0">
   <tbody>
-    <tr>
-      <td>
-        <table border="0" cellpadding="0" cellspacing="0">
-          <tbody>
-            <tr valign="middle">
-              <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
-              <td>Talk title<br>Name<br>Affiliation</td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
+    <tr valign="middle">
+      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td>Talk title<br>Name<br>Affiliation</td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
@@ -31,18 +23,9 @@
         </table>
       </td>
     </tr>
-    
-    <tr>
-      <td>
-        <table border="0" cellpadding="0" cellspacing="0">
-          <tbody>
-            <tr valign="middle">
-              <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
-              <td>Talk title<br>Name<br>Affiliation</td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
+    <tr valign="middle">
+      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td>Talk title<br>Name<br>Affiliation</td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
@@ -56,18 +39,9 @@
         </table>
       </td>
     </tr>
-
-    <tr>
-      <td>
-        <table border="0" cellpadding="0" cellspacing="0">
-          <tbody>
-            <tr valign="middle">
-              <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
-              <td>Talk title<br>Xin Tong<br>MSRA</td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
+    <tr valign="middle">
+      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td>Talk title<br>Xin Tong<br>MSRA</td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
