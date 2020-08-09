@@ -8,7 +8,7 @@
 <table border="0" cellpading="0" cellspacing="0">
   <tbody>
     <tr>
-      <td valign="top"><img src="thumbnail.jpg" width="320"/></td>
+      <td valign="top"><img src="thumbnail.jpg" width="480"/></td>
       <td valign="top">Date. Hours in diff time zones</td>
     </tr>
   </tbody>
@@ -17,7 +17,7 @@
 <table border="0" cellpading="0" cellspacing="0">
   <tbody>
     <tr valign="top">
-      <td><img src="thumbnail.jpg" width="320"/></td>
+      <td><img src="thumbnail.jpg" width="480"/></td>
       <td>Date. Hours in diff time zones</td>
     </tr>
   </tbody>
@@ -26,8 +26,8 @@
 <table border="0" cellpading="0" cellspacing="0">
   <tbody>
     <tr valign="top">
-      <td><img src="thumbnail.jpg" width="320"/></td>
-      <td>Date. Hours in diff time zones</td>
+      <td><img src="thumbnail.jpg" width="480"/></td>
+      <td>Date. Hours in diff time zones. beijing, sydney, pacific, eastern, germany, and etc.</td>
     </tr>
   </tbody>
 </table>
