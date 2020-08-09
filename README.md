@@ -61,7 +61,7 @@
 <table border="0" cellpading="0" cellspacing="0">
   <tbody>
     <tr>
-      <td><img class="img" src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200" /><br>TUM<br>Angela Dai</td>
+      <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200" /><br>TUM<br>Angela Dai</td>
       <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200"/><br>NUS<br>Angela Yao</td>
       <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200"/><br>Berkeley<br>Angjoo Kanazawa</td>
       <td><img src="https://www2.cs.sfu.ca/~furukawa/newimages/furukawa5.jpg" height="200"/><br>USTC<br>Juyong Zhang</td>
