@@ -8,7 +8,16 @@
 <table border="0" cellpading="0" cellspacing="0">
   <tbody>
     <tr>
-      <td><img src="thumbnail.jpg" width="480"/></td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr valign="middle">
+              <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+              <td>Talk title<br>Name<br>Affiliation</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
@@ -22,32 +31,52 @@
         </table>
       </td>
     </tr>
+    
     <tr>
-      <td><img src="thumbnail.jpg" width="480"/></td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
-            <tr><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
-            <tr><td>Beijing</td> <td>09/02 18:00 Wed</td></tr>
-            <tr><td>Germany</td> <td>09/02 12:00 Wed</td></tr>
-            <tr><td>UK</td>      <td>09/02 11:00 Wed</td></tr>
-            <tr><td>Eastern</td> <td>09/02 06:00 Wed</td></tr>
-            <tr><td>Pacific</td> <td>09/02 03:00 Wed</td></tr>
+            <tr valign="middle">
+              <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+              <td>Talk title<br>Name<br>Affiliation</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr><td>Sydney</td>  <td>09/10 04:00 Thu</td></tr>
+            <tr><td>Beijing</td> <td>09/10 02:00 Thu</td></tr>
+            <tr><td>Germany</td> <td>09/09 20:00 Wed</td></tr>
+            <tr><td>UK</td>      <td>09/09 19:00 Wed</td></tr>
+            <tr><td>Eastern</td> <td>09/09 14:00 Wed</td></tr>
+            <tr><td>Pacific</td> <td>09/09 11:00 Wed</td></tr>
           </tbody>
         </table>
       </td>
     </tr>
+
     <tr>
-      <td><img src="thumbnail.jpg" width="480"/></td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
-            <tr><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
-            <tr><td>Beijing</td> <td>09/02 18:00 Wed</td></tr>
-            <tr><td>Germany</td> <td>09/02 12:00 Wed</td></tr>
-            <tr><td>UK</td>      <td>09/02 11:00 Wed</td></tr>
-            <tr><td>Eastern</td> <td>09/02 06:00 Wed</td></tr>
-            <tr><td>Pacific</td> <td>09/02 03:00 Wed</td></tr>
+            <tr valign="middle">
+              <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+              <td>Talk title<br>Xin Tong<br>MSRA</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr><td>Sydney</td>  <td>09/16 12:00 Wed</td></tr>
+            <tr><td>Beijing</td> <td>09/16 10:00 Wed</td></tr>
+            <tr><td>Germany</td> <td>09/16 04:00 Wed</td></tr>
+            <tr><td>UK</td>      <td>09/16 03:00 Wed</td></tr>
+            <tr><td>Eastern</td> <td>09/15 22:00 Tue</td></tr>
+            <tr><td>Pacific</td> <td>09/15 19:00 Tue</td></tr>
           </tbody>
         </table>
       </td>
