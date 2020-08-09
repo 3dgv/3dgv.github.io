@@ -7,7 +7,7 @@
 <h2 style="color:black;">Upcoming Talks</h2>
 <table>
   <tbody>
-    <tr valign="middle" style="background-color:#E2E2DF">
+    <tr valign="middle" style="background-color:#e2e2df">
       <td style="width:40%"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td style="width:20%">Talk title<br>Name<br>Affiliation</td>
       <td style="width:40%">
@@ -23,7 +23,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle" style="background-color:#FFF0FF">
+    <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td>Talk title<br>Name<br>Affiliation</td>
       <td>
@@ -39,7 +39,7 @@
         </table>
       </td>
     </tr>
-    <tr valign="middle" style="background-color:#FFFFF0">
+    <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/xin_tong.jpg" width="200"/></td>
       <td>Talk title<br>Xin Tong<br>MSRA</td>
       <td>
