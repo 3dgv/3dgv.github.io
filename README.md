@@ -5,7 +5,7 @@
 <a href="join_by_youtube.html" class="button3">Join by Youtube</a>
 
 <h2 style="color:black;">Upcoming Talks</h2>
-<table border="0" cellpading="0" cellspacing="0" border-color="white">
+<table border="0" cellpading="0" cellspacing="0" bordercolor="white">
   <tbody>
     <tr valign="middle">
       <td style="width:40%"><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
