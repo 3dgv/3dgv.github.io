@@ -1,5 +1,5 @@
 <h1 style="color:black;">3DGV: Seminar on 3D Geometry & Vision</h1>
-3DGV is a virtual seminar series on Geometry Processing and 3D Computer Vision. Seminars take place every Wednesday, cycling through three different time zones (<font background-color="#F0FFFF">Europe</font>, <font background-color="#FFF0FF">America</font>, and <font background-color="#FFFFF0">Asia</font>).
+3DGV is a virtual seminar series on Geometry Processing and 3D Computer Vision. Seminars take place every Wednesday, cycling through three different time zones (<font style="background-color:#F0FFFF;">Europe</font>, <font background-color="#FFF0FF">America</font>, and <font background-color="#FFFFF0">Asia</font>).
 
 <a href="join_by_zoom.html" class="button3">Join by Zoom</a>
 <a href="join_by_youtube.html" class="button3">Join by Youtube</a>
@@ -7,18 +7,18 @@
 <h2 style="color:black;">Upcoming Talks</h2>
 <table>
   <tbody>
-    <tr valign="middle" style="background-color:#F0FFFF">
+    <tr valign="middle" style="background-color:#E2E2DF">
       <td style="width:40%"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td style="width:20%">Talk title<br>Name<br>Affiliation</td>
       <td style="width:40%">
         <table>
           <tbody>
-            <tr style="background-color:#FFFFF0"><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
-            <tr style="background-color:#FFFFF0"><td>Beijing</td> <td>09/02 18:00 Wed</td></tr>
-            <tr style="background-color:#F0FFFF"><td>Germany</td> <td>09/02 12:00 Wed</td></tr>
-            <tr style="background-color:#F0FFFF"><td>UK</td>      <td>09/02 11:00 Wed</td></tr>
-            <tr style="background-color:#FFF0FF"><td>Eastern</td> <td>09/02 06:00 Wed</td></tr>
-            <tr style="background-color:#FFF0FF"><td>Pacific</td> <td>09/02 03:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/02 18:00 Wed</td></tr>
+            <tr style="background-color:#E2E2DF"><td>Germany</td> <td>09/02 12:00 Wed</td></tr>
+            <tr style="background-color:#E2E2DF"><td>UK</td>      <td>09/02 11:00 Wed</td></tr>
+            <tr style="background-color:#E2CFC4"><td>Eastern</td> <td>09/02 06:00 Wed</td></tr>
+            <tr style="background-color:#E2CFC4"><td>Pacific</td> <td>09/02 03:00 Wed</td></tr>
           </tbody>
         </table>
       </td>
