@@ -1,4 +1,4 @@
-<h1>3DGV: Virtual Seminar on 3D Geometry & Vision</h1>
+<h1>3DGV: Seminar on 3D Geometry & Vision</h1>
 <table style="text-align: left; " border="0" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
@@ -14,8 +14,8 @@
 <h2>Upcoming Talks</h2>
 <table>
   <tbody>
-    <tr>
-      <td><img src="thumbnail.jpg" width="480"/></td>
+    <tr valign="top">
+      <td><img src="thumbnail.jpg" width="320"/></td>
       <td>Date. Hours in diff time zones</td>
     </tr>
   </tbody>
@@ -23,8 +23,8 @@
 
 <table>
   <tbody>
-    <tr>
-      <td><img src="thumbnail.jpg" width="480"/></td>
+    <tr valign="top">
+      <td><img src="thumbnail.jpg" width="320"/></td>
       <td>Date. Hours in diff time zones</td>
     </tr>
   </tbody>
@@ -32,8 +32,8 @@
 
 <table>
   <tbody>
-    <tr>
-      <td><img src="thumbnail.jpg" width="480"/></td>
+    <tr valign="top">
+      <td><img src="thumbnail.jpg" width="320"/></td>
       <td>Date. Hours in diff time zones</td>
     </tr>
   </tbody>
