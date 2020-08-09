@@ -8,8 +8,8 @@
 <table>
   <tbody>
     <tr valign="middle" style="background-color:#e2e2df">
-      <td style="width:40%"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
-      <td style="width:20%">Talk title<br>Name<br>Affiliation</td>
+      <td style="width:25%"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
+      <td style="width:35%">Talk title<br>Name<br>Affiliation</td>
       <td style="width:40%">
         <table>
           <tbody>
