@@ -7,9 +7,9 @@
 <h2>Upcoming Talks</h2>
 <table>
   <tbody>
-    <tr valign="top">
-      <td><img src="thumbnail.jpg" width="320"/></td>
-      <td>Date. Hours in diff time zones</td>
+    <tr>
+      <td valign="top"><img src="thumbnail.jpg" width="320"/></td>
+      <td valign="top">Date. Hours in diff time zones</td>
     </tr>
   </tbody>
 </table>
