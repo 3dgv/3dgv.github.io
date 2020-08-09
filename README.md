@@ -8,7 +8,7 @@
 <table>
   <tbody>
     <tr valign="middle">
-      <td style="width:40%"><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td style="width:40%"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td style="width:20%">Talk title<br>Name<br>Affiliation</td>
       <td style="width:40%">
         <table>
@@ -24,7 +24,7 @@
       </td>
     </tr>
     <tr valign="middle">
-      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td>Talk title<br>Name<br>Affiliation</td>
       <td>
         <table>
@@ -40,7 +40,7 @@
       </td>
     </tr>
     <tr valign="middle">
-      <td><img src="./images/xin_tong.jpg" height="300"/></td>
+      <td><img src="./images/xin_tong.jpg" width="200"/></td>
       <td>Talk title<br>Xin Tong<br>MSRA</td>
       <td>
         <table>
@@ -56,7 +56,7 @@
       </td>
     </tr>
     <tr valign="middle">
-      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td>Talk title<br>Name<br>Affiliation</td>
       <td>
         <table>
@@ -72,7 +72,7 @@
       </td>
     </tr>
     <tr valign="middle">
-      <td><img src="./images/tom_funkhouser.jpg" height="300"/></td>
+      <td><img src="./images/tom_funkhouser.jpg" width="200"/></td>
       <td>Talk title<br>Tom Funkhouser<br>Google</td>
       <td>
         <table>
@@ -88,7 +88,7 @@
       </td>
     </tr>
     <tr valign="middle">
-      <td><img src="./images/gim_hee_lee.png" height="300"/></td>
+      <td><img src="./images/gim_hee_lee.png" width="200"/></td>
       <td>Talk title<br>Gim Hee Lee<br>NUS</td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
@@ -104,7 +104,7 @@
       </td>
     </tr>
     <tr valign="middle">
-      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td>Talk title<br>Name<br>Affiliation</td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
@@ -120,7 +120,7 @@
       </td>
     </tr>
     <tr valign="middle">
-      <td><img src="./images/georgia_gkioxari.jpg" height="300"/></td>
+      <td><img src="./images/georgia_gkioxari.jpg" width="200"/></td>
       <td>Talk title<br>Georgia Gkioxari<br>FAIR</td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
@@ -136,7 +136,7 @@
       </td>
     </tr>
     <tr valign="middle">
-      <td><img src="./images/jiajun_wu.jpg" height="300"/></td>
+      <td><img src="./images/jiajun_wu.jpg" width="200"/></td>
       <td>Talk title<br>Jiajun Wu<br>Stanford</td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
@@ -152,7 +152,7 @@
       </td>
     </tr>
     <tr valign="middle">
-      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td>Talk title<br>Name<br>Affiliation</td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
@@ -168,7 +168,7 @@
       </td>
     </tr>
     <tr valign="middle">
-      <td><img src="./images/katerina_fragkiadaki.png" height="300"/></td>
+      <td><img src="./images/katerina_fragkiadaki.png" width="200"/></td>
       <td>Talk title<br>Katerina Fragkiadaki<br>CMU</td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
@@ -184,7 +184,7 @@
       </td>
     </tr>
     <tr valign="middle">
-      <td><img src="./images/hui_huang.jpg" height="300"/></td>
+      <td><img src="./images/hui_huang.jpg" width="200"/></td>
       <td>Talk title<br>Hui Huang<br>Shenzhen University</td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
@@ -200,7 +200,7 @@
       </td>
     </tr>
     <tr valign="middle">
-      <td><img src="./images/yasutaka_furukawa.jpg" height="300"/></td>
+      <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td>Talk title<br>Name<br>Affiliation</td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
@@ -216,7 +216,7 @@
       </td>
     </tr>
     <tr valign="middle">
-      <td><img src="./images/david_fouhey.jpg" height="300"/></td>
+      <td><img src="./images/david_fouhey.jpg" width="200"/></td>
       <td>Talk title<br>David Fouhey<br>University of Michigan</td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
