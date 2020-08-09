@@ -10,7 +10,7 @@ How to register for zoom and etc. here.
 <table>
   <tbody>
     <tr valign="middle" style="background-color:#e2e2df">
-      <td style="width:250px"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
+      <td style="width:220px"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
       <td style="width:300px">
         <table>
           <tbody>
@@ -55,7 +55,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td>Something cool about computational photometry or computer vision or computer graphics<br>Xin Tong<br>MSRA</td>
+      <td><b>Something cool about computational photometry or computer vision or computer graphics</b><br>Xin Tong<br>MSRA</td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
