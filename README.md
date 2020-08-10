@@ -199,7 +199,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Hui Huang<br>Shenzhen University</td>
+      <td><b>Reconstructing Transparent Objects</b><br><br>Hui Huang<br>Shenzhen University</td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
