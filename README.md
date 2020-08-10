@@ -105,7 +105,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Gim Hee Lee<br>National University of Singapore</td>
+      <td><b>Non-strongly supervised learning for 3D Vision</b><br><br>Gim Hee Lee<br>National University of Singapore</td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
