@@ -10,8 +10,8 @@ How to register for zoom and etc. here.
 <table>
   <tbody>
     <tr valign="middle" style="background-color:#e2e2df">
-      <td style="width:25%"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
-      <td style="width:35%">
+      <td style="width:25%;"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
+      <td style="width:40%;">
         <table>
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
@@ -23,7 +23,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Name<br>Affiliation</td>
+      <td style="width:35%;"><b>Talk title</b><br><br>Name<br>Affiliation</td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
@@ -199,7 +199,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Hui Huang<br>Shenzhen University</td>
+      <td><b>Reconstructing Transparent Objects</b><br><br>Hui Huang<br>Shenzhen University</td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
