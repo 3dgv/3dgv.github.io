@@ -10,8 +10,8 @@ How to register for zoom and etc. here.
 <table>
   <tbody>
     <tr valign="middle" style="background-color:#e2e2df">
-      <td style="width:220px"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
-      <td style="width:300px">
+      <td style="width:25%"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
+      <td style="width:38%">
         <table>
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
