@@ -57,7 +57,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Something cool about computational photometry or computer vision or computer graphics</b><br><br>Xin Tong<br>Microsoft Research Asia</td>
+      <td><b>Learning the space of 3D shapes: some challenges and our explorationsd</b><br><br>Xin Tong<br>Microsoft Research Asia</td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
