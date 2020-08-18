@@ -174,7 +174,7 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="bafckground-color:white">
       <td></td>
       <td><img src="./images/cvpr2021.jpg" width="200"/></td>
-      <td><img src="./images/cvpr2021-2.png" width="300"/></td>
+      <td><img src="./images/cvpr2021-2.jpg" width="300"/></td>
     </tr>   
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/katerina_fragkiadaki.png" width="200"/></td>
