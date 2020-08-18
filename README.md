@@ -169,7 +169,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><font style="color:red;">Tuesday instead of Wednesday this week.</font><br><b>Talk title</b><br><br>Olga Sorkine-Hornung<br>ETH Zurich</td>
+      <td><font style="color:red;">(Tuesday instead of Wednesday)</font><br><b>Talk title</b><br><br>Olga Sorkine-Hornung<br>ETH Zurich</td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/katerina_fragkiadaki.png" width="200"/></td>
