@@ -12,7 +12,7 @@ How to register for zoom and etc. here.
 <table>
   <tbody>
     <tr valign="middle" style="background-color:#e2e2df">
-      <td style="width:25%;"><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
+      <td style="width:25%;"><img src="./images/marc_pollefeys.jpg" width="200"/></td>
       <td style="width:40%;">
         <table>
           <tbody>
@@ -60,7 +60,7 @@ How to register for zoom and etc. here.
       <td><b>Learning the space of 3D shapes: some challenges and our explorations</b><br><br>Xin Tong<br>Microsoft Research Asia</td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
+      <td><img src="./images/michael_bronstein.jpg" width="200"/></td>
       <td>
         <table>
           <tbody>
