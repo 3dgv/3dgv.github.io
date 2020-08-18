@@ -172,7 +172,8 @@ How to register for zoom and etc. here.
       <td><font style="color:red;">Tuesday instead of Wednesday</font><br><b>Talk title</b><br><br>Olga Sorkine-Hornung<br>ETH Zurich</td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
-      <td><img src="./images/cvpr2021.jpg" height="100"/><img src="./images/deadline.jpg" height="100"/></td>
+      <td><img src="./images/cvpr2021.jpg" width="200"/></td>
+      <td><img src="./images/deadline.jpg" width="100"/></td>
     </tr>   
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/katerina_fragkiadaki.png" width="200"/></td>
@@ -223,7 +224,7 @@ How to register for zoom and etc. here.
       <td><b>Talk title</b><br><br>Andrew Davison<br>Imperial College London</td>
     </tr>
     <tr>
-      <td><img src="./images/neurips.png" height="100"/></td>
+      <td><img src="./images/neurips.png" width="200"/></td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/david_fouhey.jpg" width="200"/></td>
