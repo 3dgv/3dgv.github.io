@@ -25,7 +25,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Talk title</b><br><br>Marc Pollefeys<br>ETH Zurich \& Microsoft</td>
+      <td style="width:35%;"><b>Talk title</b><br><br>Marc Pollefeys<br>ETH Zurich & Microsoft</td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
@@ -73,7 +73,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Michael Bronstein<br>Imperial College London \& University of Lugano \& Twitter</td>
+      <td><b>Talk title</b><br><br>Michael Bronstein<br>Imperial College London & University of Lugano & Twitter</td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/tom_funkhouser.jpg" width="200"/></td>
