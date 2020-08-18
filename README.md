@@ -25,7 +25,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Talk title</b><br><br>Name<br>Affiliation</td>
+      <td style="width:35%;"><b>Talk title</b><br><br>Marc Pollefeys<br>ETH Zurich \& Microsoft</td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
@@ -73,7 +73,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Name<br>Affiliation</td>
+      <td><b>Talk title</b><br><br>Michael Bronstein<br>Imperial College London \& University of Lugano \& Twitter</td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/tom_funkhouser.jpg" width="200"/></td>
@@ -156,20 +156,20 @@ How to register for zoom and etc. here.
       <td><b>Talk title</b><br><br>Jiajun Wu<br>Stanford University</td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
+      <td><img src="./images/olga_sorkine_hornung.jpg" width="200"/></td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/04 22:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/04 19:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>11/04 12:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/04 11:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/04 06:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>11/04 03:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/03 22:00 Tue</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/03 19:00 Tue</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>11/03 12:00 Tue</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/03 11:00 Tue</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/03 06:00 Tue</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>11/03 03:00 Tue</td></tr>
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Name<br>Affiliation</td>
+      <td><b>Talk title</b><br><br>Olga Sorkine-Hornung<br>ETH Zurich</td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/katerina_fragkiadaki.png" width="200"/></td>
@@ -204,7 +204,7 @@ How to register for zoom and etc. here.
       <td><b>Reconstructing Transparent Objects</b><br><br>Hui Huang<br>Shenzhen University</td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
+      <td><img src="./images/andrew_davison.jpg" width="200"/></td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
@@ -217,7 +217,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Name<br>Affiliation</td>
+      <td><b>Talk title</b><br><br>Andrew Davison<br>Imperial College London</td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/david_fouhey.jpg" width="200"/></td>
