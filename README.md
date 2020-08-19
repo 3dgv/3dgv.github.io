@@ -28,7 +28,7 @@ How to register for zoom and etc. here.
       <td style="width:35%;"><b>Talk title</b><br><br>Marc Pollefeys<br>ETH Zurich & Microsoft</td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
-      <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
+      <td><!--<img src="./images/yasutaka_furukawa.jpg" width="200"/>--></td>
       <td>
         <table>
           <tbody>
@@ -108,7 +108,7 @@ How to register for zoom and etc. here.
       <td><b>Non-strongly supervised learning for 3D Vision</b><br><br>Gim Hee Lee<br>National University of Singapore</td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="./images/yasutaka_furukawa.jpg" width="200"/></td>
+      <td><!--<img src="./images/yasutaka_furukawa.jpg" width="200"/>--></td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
