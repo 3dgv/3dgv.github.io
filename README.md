@@ -251,7 +251,7 @@ How to register for zoom and etc. here.
 <h2 style="color:black;">Past Talks</h2>
 
 <h2 style="color:black;">Calendar</h2>
-<iframe src="https://calendar.google.com/calendar/embed?src=3dgv.seminar%40gmail.com&ctz=America%2FVancouver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23795548&amp;ctz=America%2FVancouver&amp;src=M2Rndi5zZW1pbmFyQGdtYWlsLmNvbQ&amp;color=%23039BE5&amp;showTitle=1&amp;mode=AGENDA" style="border:solid 1px #777" width="500" height="500" frameborder="0" scrolling="no"></iframe>
 
 <h2 style="color:black;">Organizers</h2>
 <table border="0" cellpading="0" cellspacing="0">
