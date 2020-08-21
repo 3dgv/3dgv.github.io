@@ -250,8 +250,9 @@ How to register for zoom and etc. here.
 
 <h2 style="color:black;">Past Talks</h2>
 
-<h2 style="color:black;">Calendar</h2>
-<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23795548&amp;ctz=America%2FVancouver&amp;src=M2Rndi5zZW1pbmFyQGdtYWlsLmNvbQ&amp;color=%23039BE5&amp;showTitle=1&amp;mode=AGENDA" style="border:solid 1px #777" width="500" height="500" frameborder="0" scrolling="no"></iframe>
+<h2 style="color:black;">Calendar (time zone conversion)</h2>
+
+<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FVancouver&amp;src=M2Rndi5zZW1pbmFyQGdtYWlsLmNvbQ&amp;color=%23039BE5&amp;showTitle=1&amp;mode=AGENDA" style="border:solid 1px #777" width="500" height="500" frameborder="0" scrolling="no"></iframe>
 
 <h2 style="color:black;">Organizers</h2>
 <table border="0" cellpading="0" cellspacing="0">
@@ -288,7 +289,5 @@ How to register for zoom and etc. here.
 </table>
 
 <hr>
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FVancouver&amp;src=M2Rndi5zZW1pbmFyQGdtYWlsLmNvbQ&amp;color=%23039BE5&amp;showTitle=1" style="border:solid 1px #777" width="400" height="600" frameborder="0" scrolling="no"></iframe>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScaSLm3y0prj-PRM5htvsZ3R-6fUuTI3acBwAjSB0VisdzMFQ/viewform?embedded=true" width="640" height="407" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
