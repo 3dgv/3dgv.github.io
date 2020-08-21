@@ -289,4 +289,6 @@ How to register for zoom and etc. here.
 
 <hr>
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FVancouver&amp;src=M2Rndi5zZW1pbmFyQGdtYWlsLmNvbQ&amp;color=%23039BE5&amp;showTitle=1" style="border:solid 1px #777" width="400" height="600" frameborder="0" scrolling="no"></iframe>
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScaSLm3y0prj-PRM5htvsZ3R-6fUuTI3acBwAjSB0VisdzMFQ/viewform?embedded=true" width="640" height="407" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
