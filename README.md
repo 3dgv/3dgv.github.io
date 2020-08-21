@@ -28,7 +28,7 @@ How to register for zoom and etc. here.
       <td style="width:35%;"><b>Talk title</b><br><br>Marc Pollefeys<br>ETH Zurich & Microsoft</td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
-      <td><!--<img src="./images/yasutaka_furukawa.jpg" width="200"/>--></td>
+      <td><img src="./images/katerina_fragkiadaki.png" width="200"/></td>
       <td>
         <table>
           <tbody>
@@ -41,7 +41,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Name<br>Affiliation</td>
+      <td><b>Talk title</b><br><br>Katerina Fragkiadaki<br>Carnegie Mellon University</td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/xin_tong.jpg" width="200"/></td>
@@ -177,7 +177,7 @@ How to register for zoom and etc. here.
       <td><img src="./images/cvpr2021-2.jpg" width="300"/></td>
     </tr>   
     <tr valign="middle" style="background-color:#e2cfc4">
-      <td><img src="./images/katerina_fragkiadaki.png" width="200"/></td>
+      <td><img src="" width="200"/></td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
@@ -190,7 +190,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Katerina Fragkiadaki<br>Carnegie Mellon University</td>
+      <td><b>Talk title</b><br><br>Name<br>Affiliation</td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/hui_huang.jpg" width="200"/></td>
