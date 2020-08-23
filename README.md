@@ -177,7 +177,7 @@ How to register for zoom and etc. here.
       <td><img src="./images/cvpr2021-2.jpg" width="300"/></td>
     </tr>   
     <tr valign="middle" style="background-color:#e2cfc4">
-      <td><img src="" width="200"/></td>
+      <td><img src="./images/david_fouhey.jpg" width="200"/></td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
@@ -190,7 +190,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Name<br>Affiliation</td>
+      <td><b>Talk title</b><br><br>David Fouhey<br>University of Michigan</td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/hui_huang.jpg" width="200"/></td>
@@ -230,7 +230,7 @@ How to register for zoom and etc. here.
       <td><img src="./images/neurips-2.png" width="200"/></td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
-      <td><img src="./images/david_fouhey.jpg" width="200"/></td>
+      <td><img src="" width="200"/></td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
@@ -243,7 +243,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>David Fouhey<br>University of Michigan</td>
+      <td><b>Talk title</b><br><br>Name<br>Affiliation</td>
     </tr>
   </tbody>
 </table>
