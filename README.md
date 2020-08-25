@@ -25,7 +25,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Talk title</b><br><br>Marc Pollefeys<br>ETH Zurich & Microsoft</td>
+      <td style="width:35%;"><b>Talk title</b><br><br><a href="https://people.inf.ethz.ch/pomarc/">Marc Pollefeys<br>ETH Zurich & Microsoft</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/katerina_fragkiadaki.png" width="200"/></td>
@@ -41,7 +41,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Katerina Fragkiadaki<br>Carnegie Mellon University</td>
+      <td><b>Talk title</b><br><br><a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki<br>Carnegie Mellon University</a></td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/xin_tong.jpg" width="200"/></td>
@@ -57,7 +57,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Learning the space of 3D shapes: some challenges and our explorations</b><br><br>Xin Tong<br>Microsoft Research Asia</td>
+      <td><b>Learning the space of 3D shapes: some challenges and our explorations</b><br><br><a href="http://www.xtong.info/">Xin Tong<br>Microsoft Research Asia</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/michael_bronstein.jpg" width="200"/></td>
@@ -73,7 +73,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Michael Bronstein<br>Imperial College London & University of Lugano & Twitter</td>
+      <td><b>Talk title</b><br><br>Michael Bronstein<br><a href="https://www.imperial.ac.uk/people/m.bronstein">Imperial College London & University of Lugano & Twitter</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/tom_funkhouser.jpg" width="200"/></td>
@@ -89,7 +89,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Tom Funkhouser<br>Google</td>
+      <td><b>Talk title</b><br><br><a href="https://www.cs.princeton.edu/~funk/">Tom Funkhouser<br>Google</a></td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/gim_hee_lee.png" width="200"/></td>
@@ -105,7 +105,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Non-strongly supervised learning for 3D Vision</b><br><br>Gim Hee Lee<br>National University of Singapore</td>
+      <td><b>Non-strongly supervised learning for 3D Vision</b><br><br><a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee<br>National University of Singapore</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/niloy_mitra.jpg" width="200"/></td>
@@ -121,7 +121,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Niloy Mitra<br>University College London</td>
+      <td><b>Talk title</b><br><br><a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra<br>University College London</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/georgia_gkioxari.jpg" width="200"/></td>
@@ -137,7 +137,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Georgia Gkioxari<br>Facebook AI Research</td>
+      <td><b>Talk title</b><br><br><a href="https://gkioxari.github.io/">Georgia Gkioxari<br>Facebook AI Research</a></td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/jiajun_wu.jpg" width="200"/></td>
@@ -153,7 +153,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Jiajun Wu<br>Stanford University</td>
+      <td><b>Talk title</b><br><br><a href="https://jiajunwu.com/">Jiajun Wu<br>Stanford University</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/olga_sorkine_hornung.jpg" width="200"/></td>
@@ -169,7 +169,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><font style="color:red;">Tuesday instead of Wednesday</font><br><b>Talk title</b><br><br>Olga Sorkine-Hornung<br>ETH Zurich</td>
+      <td><font style="color:red;">Tuesday instead of Wednesday</font><br><b>Talk title</b><br><br><a href="https://igl.ethz.ch/people/sorkine/">Olga Sorkine-Hornung<br>ETH Zurich</a></td>
     </tr>
     <tr valign="middle" style="bafckground-color:white">
       <td></td>
@@ -190,7 +190,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>David Fouhey<br>University of Michigan</td>
+      <td><b>Talk title</b><br><br><a href="https://web.eecs.umich.edu/~fouhey/">David Fouhey<br>University of Michigan</a></td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/hui_huang.jpg" width="200"/></td>
@@ -206,7 +206,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Reconstructing Transparent Objects</b><br><br>Hui Huang<br>Shenzhen University</td>
+      <td><b>Reconstructing Transparent Objects</b><br><br><a href="https://vcc.tech/~huihuang">Hui Huang<br>Shenzhen University</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/andrew_davison.jpg" width="200"/></td>
@@ -222,7 +222,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Andrew Davison<br>Imperial College London</td>
+      <td><b>Talk title</b><br><br><a href="https://www.doc.ic.ac.uk/~ajd/">Andrew Davison<br>Imperial College London</a></td>
     </tr>
     <tr valign="middle" style="background-color:white">
       <td></td>
