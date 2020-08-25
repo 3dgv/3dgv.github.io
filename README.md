@@ -108,7 +108,7 @@ How to register for zoom and etc. here.
       <td><b>Non-strongly supervised learning for 3D Vision</b><br><br>Gim Hee Lee<br>National University of Singapore</td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
-      <td><!--<img src="./images/yasutaka_furukawa.jpg" width="200"/>--></td>
+      <td><img src="./images/niloy_mitra.jpg" width="200"/></td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
@@ -121,7 +121,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Name<br>Affiliation</td>
+      <td><b>Talk title</b><br><br>Niloy Mitra<br>University College London</td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/georgia_gkioxari.jpg" width="200"/></td>
