@@ -73,7 +73,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br>Michael Bronstein<br><a href="https://www.imperial.ac.uk/people/m.bronstein">Imperial College London & University of Lugano & Twitter</a></td>
+      <td><b>Talk title</b><br><br><a href="https://www.imperial.ac.uk/people/m.bronstein">Michael Bronstein<br>Imperial College London & University of Lugano & Twitter</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/tom_funkhouser.jpg" width="200"/></td>
