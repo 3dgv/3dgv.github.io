@@ -6,8 +6,8 @@
 How to register for zoom and etc. here.
 <a href="join_by_zoom.html" class="button3">Join by Zoom</a>
 -->
-<!-- <a href="join_youtube.html" class="button3">Join Youtube</a>-->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eS-BMGIVp2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://youtu.be/eS-BMGIVp2o" class="button3">Join Youtube</a>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/eS-BMGIVp2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 <h2 style="color:black;">Upcoming Talks</h2>
 <table>
