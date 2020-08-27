@@ -122,7 +122,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br><a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra<br>University College London</a></td>
+      <td><b>Talk title</b><br><br><a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra<br>University College London & Adobe Research</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/georgia_gkioxari.jpg" width="200"/></td>
