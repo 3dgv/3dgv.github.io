@@ -230,7 +230,7 @@ How to register for zoom and etc. here.
       <td><img src="./images/neurips-2.png" width="200"/></td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
-      <td><!--<img src="" width="200"/>--></td>
+      <td><img src="./images/leo_guibas.jpg" width="200"/></td>
       <td>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
@@ -243,7 +243,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><!--<b>Talk title</b><br><br>Name<br>Affiliation--></td>
+      <td><b>Talk title</b><br><br><a href="https://geometry.stanford.edu/member/guibas/">Leo Guibas<br>Stanford University</a></td>
     </tr>
   </tbody>
 </table>
