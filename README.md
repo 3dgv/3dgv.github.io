@@ -42,7 +42,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br><a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki<br>Carnegie Mellon University</a></td>
+      <td><b>3D Vision with 3D View-Predictive Neural Scene representations</b><br><br><a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki<br>Carnegie Mellon University</a></td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/xin_tong.jpg" width="200"/></td>
