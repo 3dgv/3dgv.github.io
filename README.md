@@ -170,7 +170,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><font style="color:red;">Tuesday instead of Wednesday</font><br><b>Talk title</b><br><br><a href="https://igl.ethz.ch/people/sorkine/">Olga Sorkine-Hornung<br>ETH Zurich</a></td>
+      <td><font style="color:red;">Tuesday instead of Wednesday</font><br><b>Shape Deformation for 3D Modeling and Learning</b><br><br><a href="https://igl.ethz.ch/people/sorkine/">Olga Sorkine-Hornung<br>ETH Zurich</a></td>
     </tr>
     <tr valign="middle" style="bafckground-color:white">
       <td></td>
