@@ -37,7 +37,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Talk title</b><br><br><a href="https://people.inf.ethz.ch/pomarc/">Marc Pollefeys<br>ETH Zurich & Microsoft</a></td>
+      <td style="width:35%;"><b>3D Geometric Vision</b><br><br><a href="https://people.inf.ethz.ch/pomarc/">Marc Pollefeys<br>ETH Zurich & Microsoft</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/katerina_fragkiadaki.png" width="200"/></td>
