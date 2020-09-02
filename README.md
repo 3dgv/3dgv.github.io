@@ -26,7 +26,7 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2e2df">
       <td style="width:25%;"><a href="https://people.inf.ethz.ch/pomarc/"><img src="./images/marc_pollefeys.jpg" width="200"/></a></td>
       <td style="width:75%;" colspan="2">
-        <iframe width="460" height="258" src="https://www.youtube.com/embed/eS-BMGIVp2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="350" src="https://www.youtube.com/embed/eS-BMGIVp2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
 <!--
       <td style="width:40%;">
@@ -48,7 +48,7 @@ How to register for zoom and etc. here.
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/katerina_fragkiadaki.png" width="200"/></td>
-      <td>
+      <td style="width:40%;">
         <table>
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/10 04:00 Thu</td></tr>
@@ -60,7 +60,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>3D Vision with 3D View-Predictive Neural Scene representations</b><br><br><a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki<br>Carnegie Mellon University</a></td>
+      <td style="width:35%;"><b>3D Vision with 3D View-Predictive Neural Scene representations</b><br><br><a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki<br>Carnegie Mellon University</a></td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/xin_tong.jpg" width="200"/></td>
