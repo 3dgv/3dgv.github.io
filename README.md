@@ -26,7 +26,7 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2e2df">
       <td style="width:25%;"><a href="https://people.inf.ethz.ch/pomarc/"><img src="./images/marc_pollefeys.jpg" width="200"/></a></td>
       <td style="width:75%;" colspan="2">
-        <iframe width="560" height="350" src="https://www.youtube.com/embed/eS-BMGIVp2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="600" height="375" src="https://www.youtube.com/embed/eS-BMGIVp2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
 <!--
       <td style="width:40%;">
