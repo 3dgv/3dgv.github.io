@@ -1,7 +1,7 @@
 <table>
   <tbody>
     <tr valign="middle">
-      <td style="width:40%;"><img src="./images/3dgv_logo.jpg" width="200"/></td>
+      <td style="width:40%;"><img src="./images/3dgv_logo.jpg" width="320"/></td>
       <td style="width:60%;">3DGV is a virtual seminar series on Geometry Processing and 3D Computer Vision. Seminars take place every Wednesday, cycling through three different time zones (<font style="background-color:#e2e2df;">Europe</font>, <font style="background-color:#e2cfc4;">America</font>, and <font style="background-color:#c6def1;">Asia</font>). We show seminar hours in six different time zones in the following table. Please <a href="https://calendar.google.com/calendar/ical/3dgv.seminar%40gmail.com/public/basic.ics">add this to your calendar</a> to know hours in your time-zone.
 </td>
     </tr>
