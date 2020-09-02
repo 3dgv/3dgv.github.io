@@ -37,7 +37,11 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>3D Geometric Vision</b><br><br><a href="https://people.inf.ethz.ch/pomarc/">Marc Pollefeys<br>ETH Zurich & Microsoft</a></td>
+      <td style="width:35%;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eS-BMGIVp2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--
+<b>3D Geometric Vision</b><br><br><a href="https://people.inf.ethz.ch/pomarc/">Marc Pollefeys<br>ETH Zurich & Microsoft</a></td>
+-->
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/katerina_fragkiadaki.png" width="200"/></td>
