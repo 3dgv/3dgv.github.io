@@ -19,7 +19,7 @@ How to register for zoom and etc. here.
 -->
 <p style="text-align:center;">
 <!--  <a href="https://youtu.be/eS-BMGIVp2o" class="button3">Join Youtube Live</a> -->
-<a href="https://youtu.be/gv4ZS2CRXgU" class="button3">Join Youtube Live</a>
+<a href="https://www.youtube.com/watch?v=3UZMNkJthR0" class="button3">Join Youtube Live</a>
 <!--  <a href="" class="button3">Youtube link will be available here right before the seminar start.</a>-->
 </p>
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/eS-BMGIVp2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
