@@ -82,7 +82,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Learning the space of 3D shapes: some challenges and our explorations</b><br><br><a href="http://www.xtong.info/">Xin Tong<br>Microsoft Research Asia</a></td>
+      <td><b>Learning the space of 3D shapes: some challenges and our explorations</b><br><br><a href="http://www.xtong.info/">Xin Tong<br>Microsoft Research Asia</a><br>Panelists: <a href="https://cseweb.ucsd.edu/~haosu/">Hao Su (UCSD)</a> and <a href="http://www.cad.zju.edu.cn/home/xzhou/">Xiaowei Zhou (Zhejiang)</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/michael_bronstein.jpg" width="200"/></td>
