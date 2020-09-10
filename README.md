@@ -54,7 +54,9 @@ How to register for zoom and etc. here.
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/katerina_fragkiadaki.png" width="200"/><br>
-        Panelists: <a href="http://saurabhg.web.illinois.edu/">Saurabh Gupta (UIUC)</a> and <a href="https://www.cs.utexas.edu/~yukez/">Yuke Zhu (UT-Austin)</a>
+        [ Panelists ] <br>
+        <a href="http://saurabhg.web.illinois.edu/">Saurabh Gupta (UIUC)</a><br>
+        <a href="https://www.cs.utexas.edu/~yukez/">Yuke Zhu (UT-Austin)</a>
         </td>
       <td style="width:75%;" colspan="2">
         <iframe width="600" height="375" src="https://www.youtube.com/embed/3UZMNkJthR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
