@@ -54,6 +54,10 @@ How to register for zoom and etc. here.
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/katerina_fragkiadaki.png" width="200"/></td>
+      <td style="width:75%;" colspan="2">
+        <iframe width="600" height="375" src="https://www.youtube.com/embed/3UZMNkJthR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+      <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -67,6 +71,7 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>3D Vision with 3D View-Predictive Neural Scene representations</b><br><br><a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki<br>Carnegie Mellon University</a><br><br>Panelists: <a href="http://saurabhg.web.illinois.edu/">Saurabh Gupta (UIUC)</a> and <a href="https://www.cs.utexas.edu/~yukez/">Yuke Zhu (UT-Austin)</a></td>
+-->
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/xin_tong.jpg" width="200"/></td>
