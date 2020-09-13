@@ -79,7 +79,7 @@ How to register for zoom and etc. here.
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/xin_tong.jpg" width="200"/></td>
-      <td>
+      <td style="width:40%;">
         <table>
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/16 12:00 Wed</td></tr>
@@ -95,7 +95,7 @@ How to register for zoom and etc. here.
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/michael_bronstein.jpg" width="200"/></td>
-      <td>
+      <td style="width:40%;">
         <table>
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/23 20:00 Wed</td></tr>
@@ -111,7 +111,7 @@ How to register for zoom and etc. here.
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/tom_funkhouser.jpg" width="200"/></td>
-      <td>
+      <td style="width:40%;">
         <table>
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/01 04:00 Thu</td></tr>
@@ -127,7 +127,7 @@ How to register for zoom and etc. here.
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/gim_hee_lee.png" width="200"/></td>
-      <td>
+      <td style="width:40%;">
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/07 13:00 Wed</td></tr>
@@ -143,7 +143,7 @@ How to register for zoom and etc. here.
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/niloy_mitra.jpg" width="200"/></td>
-      <td>
+      <td style="width:40%;">
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/14 21:00 Wed</td></tr>
@@ -159,7 +159,7 @@ How to register for zoom and etc. here.
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/georgia_gkioxari.jpg" width="200"/></td>
-      <td>
+      <td style="width:40%;">
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/22 05:00 Thu</td></tr>
@@ -175,7 +175,7 @@ How to register for zoom and etc. here.
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/jiajun_wu.jpg" width="200"/></td>
-      <td>
+      <td style="width:40%;">
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/28 13:00 Wed</td></tr>
@@ -191,7 +191,7 @@ How to register for zoom and etc. here.
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/olga_sorkine_hornung.jpg" width="200"/></td>
-      <td>
+      <td style="width:40%;">
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/03 22:00 <font style="color:red;">Tue</font></td></tr>
@@ -212,7 +212,7 @@ How to register for zoom and etc. here.
     </tr>   
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/david_fouhey.jpg" width="200"/></td>
-      <td>
+      <td style="width:40%;">
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/19 06:00 Thu</td></tr>
@@ -228,7 +228,7 @@ How to register for zoom and etc. here.
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/hui_huang.jpg" width="200"/></td>
-      <td>
+      <td style="width:40%;">
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/25 13:00 Wed</td></tr>
@@ -244,7 +244,7 @@ How to register for zoom and etc. here.
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/andrew_davison.jpg" width="200"/></td>
-      <td>
+      <td style="width:40%;">
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>12/02 22:00 Wed</td></tr>
@@ -265,7 +265,7 @@ How to register for zoom and etc. here.
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/leo_guibas.jpg" width="200"/></td>
-      <td>
+      <td style="width:40%;">
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>12/17 06:00 Thu</td></tr>
