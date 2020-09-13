@@ -31,7 +31,7 @@ How to register for zoom and etc. here.
   <tbody>
     <tr valign="middle" style="background-color:#e2e2df">
       <td style="width:25%;"><a href="https://people.inf.ethz.ch/pomarc/"><img src="./images/marc_pollefeys.jpg" width="200"/></a></td>
-      <td style="width:75%;" colspan="2">
+      <td style="width:70%;" colspan="2">
         <iframe width="600" height="375" src="https://www.youtube.com/embed/eS-BMGIVp2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
 <!--
@@ -58,7 +58,7 @@ How to register for zoom and etc. here.
         <a href="http://saurabhg.web.illinois.edu/">Saurabh Gupta</a><br>(UIUC)<br>
         <a href="https://www.cs.utexas.edu/~yukez/">Yuke Zhu</a><br>(UT-Austin)
         </td>
-      <td style="width:75%;" colspan="2">
+      <td style="width:70%;" colspan="2">
         <iframe width="600" height="375" src="https://www.youtube.com/embed/3UZMNkJthR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <!--
@@ -79,7 +79,7 @@ How to register for zoom and etc. here.
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/xin_tong.jpg" width="200"/></td>
-      <td style="width:55%;">
+      <td style="width:40%;">
         <table>
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/16 12:00 Wed</td></tr>
