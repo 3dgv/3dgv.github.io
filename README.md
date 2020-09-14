@@ -79,7 +79,7 @@ How to register for zoom and etc. here.
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/xin_tong.jpg" width="200"/></td>
-      <td style="width:600;">
+      <td style="width:40%;">
         <table>
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/16 12:00 Wed</td></tr>
@@ -95,7 +95,7 @@ How to register for zoom and etc. here.
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/michael_bronstein.jpg" width="200"/></td>
-      <td style="width:40%;">
+      <td>
         <table>
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/23 20:00 Wed</td></tr>
