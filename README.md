@@ -80,7 +80,7 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#c6def1">
       <td style="width:25%;"><img src="./images/xin_tong.jpg" width="200"/></td>
       <td style="width:40%;">
-        <table>
+        <table cellpadding="0" cellspacing="0">
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/16 12:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/16 10:00 Wed</td></tr>
