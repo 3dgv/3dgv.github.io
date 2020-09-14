@@ -78,7 +78,7 @@ How to register for zoom and etc. here.
 -->
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
-      <td style="width:25%;"><img src="./images/xin_tong.jpg" width="200"/></td>
+      <td style><img src="./images/xin_tong.jpg" width="200"/></td>
       <td style="width:40%;">
         <table>
           <tbody>
