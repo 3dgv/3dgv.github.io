@@ -277,7 +277,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Talk title</b><br><br><a href="https://geometry.stanford.edu/member/guibas/">Leo Guibas<br>Stanford University</a>< style="width:35%;"/td>
+      <td style="width:35%;"><b>Talk title</b><br><br><a href="https://geometry.stanford.edu/member/guibas/">Leo Guibas<br>Stanford University</a></td>
     </tr>
   </tbody>
 </table>
