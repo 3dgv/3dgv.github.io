@@ -107,7 +107,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br><a href="https://www.imperial.ac.uk/people/m.bronstein">Michael Bronstein<br>Imperial College London & University of Lugano & Twitter</a></td>
+      <td style="width:35%;"><b>Talk title</b><br><br><a href="https://www.imperial.ac.uk/people/m.bronstein">Michael Bronstein<br>Imperial College London & University of Lugano & Twitter</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/tom_funkhouser.jpg" width="200"/></td>
@@ -123,7 +123,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br><a href="https://www.cs.princeton.edu/~funk/">Tom Funkhouser<br>Google</a></td>
+      <td style="width:35%;"><b>Talk title</b><br><br><a href="https://www.cs.princeton.edu/~funk/">Tom Funkhouser<br>Google</a></td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/gim_hee_lee.png" width="200"/></td>
@@ -139,7 +139,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Non-strongly supervised learning for 3D Vision</b><br><br><a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee<br>National University of Singapore</a></td>
+      <td style="width:35%;"><b>Non-strongly supervised learning for 3D Vision</b><br><br><a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee<br>National University of Singapore</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/niloy_mitra.jpg" width="200"/></td>
@@ -155,7 +155,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Deep 3D Generative Modeling</b><br><br><a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra<br>University College London & Adobe Research</a></td>
+      <td style="width:35%;"><b>Deep 3D Generative Modeling</b><br><br><a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra<br>University College London & Adobe Research</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/georgia_gkioxari.jpg" width="200"/></td>
@@ -171,7 +171,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br><a href="https://gkioxari.github.io/">Georgia Gkioxari<br>Facebook AI Research</a></td>
+      <td style="width:35%;"><b>Talk title</b><br><br><a href="https://gkioxari.github.io/">Georgia Gkioxari<br>Facebook AI Research</a></td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/jiajun_wu.jpg" width="200"/></td>
@@ -187,7 +187,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br><a href="https://jiajunwu.com/">Jiajun Wu<br>Stanford University</a></td>
+      <td style="width:35%;"><b>Talk title</b><br><br><a href="https://jiajunwu.com/">Jiajun Wu<br>Stanford University</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/olga_sorkine_hornung.jpg" width="200"/></td>
@@ -203,7 +203,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><font style="color:red;">Tuesday instead of Wednesday</font><br><b>Shape Deformation for 3D Modeling and Learning</b><br><br><a href="https://igl.ethz.ch/people/sorkine/">Olga Sorkine-Hornung<br>ETH Zurich</a></td>
+      <td style="width:35%;"><font style="color:red;">Tuesday instead of Wednesday</font><br><b>Shape Deformation for 3D Modeling and Learning</b><br><br><a href="https://igl.ethz.ch/people/sorkine/">Olga Sorkine-Hornung<br>ETH Zurich</a></td>
     </tr>
     <tr valign="middle" style="bafckground-color:white">
       <td></td>
@@ -224,7 +224,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br><a href="https://web.eecs.umich.edu/~fouhey/">David Fouhey<br>University of Michigan</a></td>
+      <td style="width:35%;"><b>Talk title</b><br><br><a href="https://web.eecs.umich.edu/~fouhey/">David Fouhey<br>University of Michigan</a></td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/hui_huang.jpg" width="200"/></td>
@@ -240,7 +240,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Reconstructing Transparent Objects</b><br><br><a href="https://vcc.tech/~huihuang">Hui Huang<br>Shenzhen University</a></td>
+      <td style="width:35%;"><b>Reconstructing Transparent Objects</b><br><br><a href="https://vcc.tech/~huihuang">Hui Huang<br>Shenzhen University</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/andrew_davison.jpg" width="200"/></td>
@@ -256,7 +256,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br><a href="https://www.doc.ic.ac.uk/~ajd/">Andrew Davison<br>Imperial College London</a></td>
+      <td style="width:35%;"><b>Talk title</b><br><br><a href="https://www.doc.ic.ac.uk/~ajd/">Andrew Davison<br>Imperial College London</a></td>
     </tr>
     <tr valign="middle" style="background-color:white">
       <td></td>
@@ -277,7 +277,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td><b>Talk title</b><br><br><a href="https://geometry.stanford.edu/member/guibas/">Leo Guibas<br>Stanford University</a></td>
+      <td style="width:35%;"><b>Talk title</b><br><br><a href="https://geometry.stanford.edu/member/guibas/">Leo Guibas<br>Stanford University</a>< style="width:35%;"/td>
     </tr>
   </tbody>
 </table>
