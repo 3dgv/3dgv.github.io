@@ -78,7 +78,15 @@ How to register for zoom and etc. here.
 -->
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
-      <td style><img src="./images/xin_tong.jpg" width="200"/></td>
+      <td style><img src="./images/xin_tong.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="https://cseweb.ucsd.edu/~haosu/">Hao Su (UCSD)</a><br>
+        <a href="http://www.cad.zju.edu.cn/home/xzhou/">Xiaowei Zhou (Zhejiang)</a>
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/KqBcbaRh2HQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+      <!--      
       <td style="width:40%;">
         <table>
           <tbody>
@@ -92,6 +100,7 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Learning the space of 3D shapes: some challenges and our explorations</b><br><br><a href="http://www.xtong.info/">Xin Tong<br>Microsoft Research Asia</a><br><br>Panelists: <a href="https://cseweb.ucsd.edu/~haosu/">Hao Su (UCSD)</a> and <a href="http://www.cad.zju.edu.cn/home/xzhou/">Xiaowei Zhou (Zhejiang)</a></td>
+       -->
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/michael_bronstein.jpg" width="200"/></td>
