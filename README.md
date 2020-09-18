@@ -18,11 +18,9 @@ How to register for zoom and etc. here.
 <a href="join_by_zoom.html" class="button3">Join by Zoom</a>
 -->
 <p style="text-align:center;">
-<!--  <a href="https://youtu.be/eS-BMGIVp2o" class="button3">Join Youtube Live</a> -->
-<a href="https://www.youtube.com/watch?v=KqBcbaRh2HQ" class="button3">Join Youtube Live</a>
+<a href="https://youtu.be/2Z4L2I59AKo" class="button3">Join Youtube Live</a>
 <!--  <a href="" class="button3">Youtube link will be available here right before the seminar start.</a>-->
 </p>
-<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/eS-BMGIVp2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 <!--
 <h2 style="color:black;">Talks</h2>
@@ -116,7 +114,8 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Talk title</b><br><br><a href="https://www.imperial.ac.uk/people/m.bronstein">Michael Bronstein<br>Imperial College London & University of Lugano & Twitter</a></td>
+      <td style="width:35%;"><b>Geometric Deep Learning for 3D Shape Analysis and Synthesis</b><br><br><a href="https://www.imperial.ac.uk/people/m.bronstein">Michael Bronstein<br>Imperial College London & University of Lugano & Twitter</a><br><br>
+        Panelists: <a href="http://virtualhumans.mpi-inf.mpg.de/">Gerard Pons-Moll (MPI)</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/tom_funkhouser.jpg" width="200"/></td>
