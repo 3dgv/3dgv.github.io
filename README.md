@@ -115,7 +115,7 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Geometric Deep Learning for 3D Shape Analysis and Synthesis</b><br><br><a href="https://www.imperial.ac.uk/people/m.bronstein">Michael Bronstein<br>Imperial College London & University of Lugano & Twitter</a><br><br>
-        Panelists: <a href="http://virtualhumans.mpi-inf.mpg.de/">Gerard Pons-Moll (MPI)</a></td>
+        Panelists: <a href="http://virtualhumans.mpi-inf.mpg.de/">Gerard Pons-Moll (MPI)</a> and <a href="http://www.lix.polytechnique.fr/~maks/">Maks Ovsjanikov (Ecole Polytechnique)</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/tom_funkhouser.jpg" width="200"/></td>
