@@ -101,7 +101,15 @@ How to register for zoom and etc. here.
        -->
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="./images/michael_bronstein.jpg" width="200"/></td>
+      <td><img src="./images/michael_bronstein.jpg" width="200"/><br>
+      [ Panelists ] <br>
+        <a href="http://virtualhumans.mpi-inf.mpg.de/">Gerard Pons-Moll (MPI)</a><br>
+        <a href="http://www.lix.polytechnique.fr/~maks/">Maks Ovsjanikov (Ecole Polytechnique)</a>
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/2Z4L2I59AKo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+      <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -116,6 +124,7 @@ How to register for zoom and etc. here.
       </td>
       <td style="width:35%;"><b>Geometric Deep Learning for 3D Shape Analysis and Synthesis</b><br><br><a href="https://www.imperial.ac.uk/people/m.bronstein">Michael Bronstein<br>Imperial College London & University of Lugano & Twitter</a><br><br>
         Panelists: <a href="http://virtualhumans.mpi-inf.mpg.de/">Gerard Pons-Moll (MPI)</a> and <a href="http://www.lix.polytechnique.fr/~maks/">Maks Ovsjanikov (Ecole Polytechnique)</a></td>
+-->
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/tom_funkhouser.jpg" width="200"/></td>
