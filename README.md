@@ -141,7 +141,7 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Learning Implicit 3D Shape Representations</b><br><br><a href="https://www.cs.princeton.edu/~funk/">Tom Funkhouser<br>Google</a><br><br>
-      Panelists: <a href="http://web.stanford.edu/~gordonwz/">Gordon Wetzstein (Stanford)</a> and <a href="https://www2.cs.sfu.ca/~haoz/">Richard Zhang (SFU)</a>
+      [ Panelists ]<br><a href="http://web.stanford.edu/~gordonwz/">Gordon Wetzstein (Stanford)</a><br><a href="https://www2.cs.sfu.ca/~haoz/">Richard Zhang (SFU)</a>
       </td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
