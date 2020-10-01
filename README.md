@@ -128,7 +128,8 @@ How to register for zoom and etc. here.
     </tr> 
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/tom_funkhouser.jpg" width="200"/><br><br>
-      [ Panelists ]<br><a href="http://web.stanford.edu/~gordonwz/">Gordon Wetzstein (Stanford)</a> and <a href="https://www2.cs.sfu.ca/~haoz/">Richard Zhang (SFU)</a>
+      [ Panelists ]<br><a href="http://web.stanford.edu/~gordonwz/">Gordon Wetzstein (Stanford)</a><br>
+        <a href="https://www2.cs.sfu.ca/~haoz/">Richard Zhang (SFU)</a>
       </td>
       <td colspan="2">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/-C9_KggRJ-g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
