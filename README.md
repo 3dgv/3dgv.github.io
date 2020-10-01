@@ -18,7 +18,7 @@ How to register for zoom and etc. here.
 <a href="join_by_zoom.html" class="button3">Join by Zoom</a>
 -->
 <p style="text-align:center;">
-<a href="https://www.youtube.com/watch?v=FlF03usvIoQ" class="button3">Join Youtube Live</a>
+<a href="" class="button3">Join Youtube Live</a>
 <!--  <a href="" class="button3">Youtube link will be available here right before the seminar start.</a>-->
 </p>
 
@@ -125,9 +125,15 @@ How to register for zoom and etc. here.
       <td style="width:35%;"><b>Geometric Deep Learning for 3D Shape Analysis and Synthesis</b><br><br><a href="https://www.imperial.ac.uk/people/m.bronstein">Michael Bronstein<br>Imperial College London & University of Lugano & Twitter</a><br><br>
         Panelists: <a href="http://virtualhumans.mpi-inf.mpg.de/">Gerard Pons-Moll (MPI)</a> and <a href="http://www.lix.polytechnique.fr/~maks/">Maks Ovsjanikov (Ecole Polytechnique)</a></td>
 -->
-    </tr>
+    </tr> 
     <tr valign="middle" style="background-color:#e2cfc4">
-      <td><img src="./images/tom_funkhouser.jpg" width="200"/></td>
+      <td><img src="./images/tom_funkhouser.jpg" width="200"/><br><br>
+      [ Panelists ]<br><a href="http://web.stanford.edu/~gordonwz/">Gordon Wetzstein (Stanford)</a> and <a href="https://www2.cs.sfu.ca/~haoz/">Richard Zhang (SFU)</a>
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/-C9_KggRJ-g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+      <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -143,6 +149,7 @@ How to register for zoom and etc. here.
       <td style="width:35%;"><b>Learning Implicit 3D Shape Representations</b><br><br><a href="https://www.cs.princeton.edu/~funk/">Tom Funkhouser<br>Google</a><br><br>
       [ Panelists ]<br><a href="http://web.stanford.edu/~gordonwz/">Gordon Wetzstein (Stanford)</a><br><a href="https://www2.cs.sfu.ca/~haoz/">Richard Zhang (SFU)</a>
       </td>
+      -->
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/gim_hee_lee.png" width="200"/></td>
