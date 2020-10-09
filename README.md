@@ -152,6 +152,13 @@ How to register for zoom and etc. here.
       </td>
       -->
     </tr>
+    <tr valign="middle" style="background-color:#e2cfc4">
+      <td><img src="./images/gim_hee_lee.png" width="200"/>
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Pp63AodqEBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+    <!--   
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/gim_hee_lee.png" width="200"/></td>
       <td style="width:40%;">
@@ -167,6 +174,7 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Non-strongly supervised learning for 3D Vision</b><br><br><a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee<br>National University of Singapore</a></td>
+    -->
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/niloy_mitra.jpg" width="200"/></td>
