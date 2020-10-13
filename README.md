@@ -190,7 +190,9 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Deep 3D Generative Modeling</b><br><br><a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra<br>University College London & Adobe Research</a></td>
+      <td style="width:35%;"><b>Deep 3D Generative Modeling</b><br><br><a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra<br>University College London & Adobe Research</a><br><br>
+           [ Panelists ]<br><a href="http://www.cvlibs.net/">Andreas Geiger (Tübingen/MPI)</a><br><a href="https://kevinkaixu.net/">Kevin Xu (NUDT)</a>
+       </td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/georgia_gkioxari.jpg" width="200"/></td>
@@ -206,7 +208,9 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Talk title</b><br><br><a href="https://gkioxari.github.io/">Georgia Gkioxari<br>Facebook AI Research</a></td>
+      <td style="width:35%;"><b>Recognizing Objects and Scenes in 3D</b><br><br><a href="https://gkioxari.github.io/">Georgia Gkioxari<br>Facebook AI Research</a><br><br>
+      [ Panelists ]<br><a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa (Berkeley)</a><br><a href="https://orlitany.github.io/">Or Litany (NVIDIA)</a>
+      </td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/jiajun_wu.jpg" width="200"/></td>
