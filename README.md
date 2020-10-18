@@ -177,7 +177,13 @@ How to register for zoom and etc. here.
     -->
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="./images/niloy_mitra.jpg" width="200"/></td>
+      <td><img src="./images/niloy_mitra.jpg" width="200"/><br><br>
+      [ Panelists ]<br><a href="http://www.cvlibs.net/">Andreas Geiger (Tübingen/MPI)</a><br><a href="https://kevinkaixu.net/">Kevin Xu (NUDT)</a>
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/uJAjduVtaQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>     
+      <!--
       <td style="width:40%;">
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
@@ -193,6 +199,7 @@ How to register for zoom and etc. here.
       <td style="width:35%;"><b>Deep 3D Generative Modeling</b><br><br><a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra<br>University College London & Adobe Research</a><br><br>
            [ Panelists ]<br><a href="http://www.cvlibs.net/">Andreas Geiger (Tübingen/MPI)</a><br><a href="https://kevinkaixu.net/">Kevin Xu (NUDT)</a>
        </td>
+    -->
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="./images/georgia_gkioxari.jpg" width="200"/></td>
