@@ -202,7 +202,13 @@ How to register for zoom and etc. here.
     -->
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
-      <td><img src="./images/georgia_gkioxari.jpg" width="200"/></td>
+      <td><img src="./images/georgia_gkioxari.jpg" width="200"/><br><br>
+      [ Panelists ]<br><a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa (Berkeley)</a><br><a href="https://orlitany.github.io/">Or Litany (NVIDIA)</a>
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/gXLpy3jd2mQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>     
+      <!--
       <td style="width:40%;">
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
@@ -218,6 +224,7 @@ How to register for zoom and etc. here.
       <td style="width:35%;"><b>Recognizing Objects and Scenes in 3D</b><br><br><a href="https://gkioxari.github.io/">Georgia Gkioxari<br>Facebook AI Research</a><br><br>
       [ Panelists ]<br><a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa (Berkeley)</a><br><a href="https://orlitany.github.io/">Or Litany (NVIDIA)</a>
       </td>
+-->
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/jiajun_wu.jpg" width="200"/></td>
