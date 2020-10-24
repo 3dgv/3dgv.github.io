@@ -241,7 +241,7 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Surfaces, Objects, Procedures: Integrating Learning and Graphics for 3D Scene Understanding</b><br><br><a href="https://jiajunwu.com/">Jiajun Wu<br>Stanford University</a><br><br>
-        [ Panelists ]<br><a href="https://www.cs.columbia.edu/~shurans/">Shuran Song (Columbia)</a></td>
+        [ Panelists ]<br><a href="https://www.cs.columbia.edu/~shurans/">Shuran Song (Columbia)</a><br><a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri(Adobe Research and IIT Bombay)</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/olga_sorkine_hornung.jpg" width="200"/></td>
