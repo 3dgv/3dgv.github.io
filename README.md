@@ -227,7 +227,13 @@ How to register for zoom and etc. here.
 -->
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
-      <td><img src="./images/jiajun_wu.jpg" width="200"/></td>
+      <td><img src="./images/jiajun_wu.jpg" width="200"/><br><br>
+      [ Panelists ]<br><a href="https://www.cs.columbia.edu/~shurans/">Shuran Song (Columbia)</a><br><a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri (Adobe Research and IIT Bombay)</a>
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/-ltAta-No7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+      <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -242,6 +248,7 @@ How to register for zoom and etc. here.
       </td>
       <td style="width:35%;"><b>Surfaces, Objects, Procedures: Integrating Learning and Graphics for 3D Scene Understanding</b><br><br><a href="https://jiajunwu.com/">Jiajun Wu<br>Stanford University</a><br><br>
         [ Panelists ]<br><a href="https://www.cs.columbia.edu/~shurans/">Shuran Song (Columbia)</a><br><a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri (Adobe Research and IIT Bombay)</a></td>
+-->
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="./images/olga_sorkine_hornung.jpg" width="200"/></td>
