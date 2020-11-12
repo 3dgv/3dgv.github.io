@@ -286,7 +286,9 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Talk title</b><br><br><a href="https://web.eecs.umich.edu/~fouhey/">David Fouhey<br>University of Michigan</a></td>
+      <td style="width:35%;"><b>Building 3D Representations of Scenes from One Or Two Ordinary Images</b><br><br><a href="https://web.eecs.umich.edu/~fouhey/">David Fouhey<br>University of Michigan</a><br><br>
+      [ Panelists ]<br><a href="https://people.cs.umass.edu/~kalo/">Vangelis Kalogerakis (UMASS)</a><br><a href="https://dhoiem.cs.illinois.edu/">Derek Hoiem (UIUC)</a>
+      </td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/hui_huang.jpg" width="200"/></td>
