@@ -251,7 +251,13 @@ How to register for zoom and etc. here.
 -->
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="./images/olga_sorkine_hornung.jpg" width="200"/></td>
+      <td><img src="./images/olga_sorkine_hornung.jpg" width="200"/><br><br>
+        [ Panelists ]<br><a href="https://ls7-gv.cs.tu-dortmund.de/"> Mario Botsch (TU Dortmund)</a>
+      </td>
+     <td colspan="2">
+       The recording not available.        
+      </td>
+      <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -266,6 +272,7 @@ How to register for zoom and etc. here.
       </td>
       <td style="width:35%;"><font style="color:red;">The recording is not available as announced.</font><br><b>Shape Deformation for 3D Modeling and Learning</b><br><br><a href="https://igl.ethz.ch/people/sorkine/">Olga Sorkine-Hornung<br>ETH Zurich</a><br>
         [ Panelists ]<br><a href="https://ls7-gv.cs.tu-dortmund.de/"> Mario Botsch (TU Dortmund)</a></td>
+-->
     </tr>
     <tr valign="middle" style="bafckground-color:white">
       <td></td>
