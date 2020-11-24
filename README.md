@@ -319,7 +319,7 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Reconstructing Transparent Objects</b><br><br><a href="https://vcc.tech/~huihuang">Hui Huang<br>Shenzhen University</a><br><br>
-        [ Panelists ]<br><a href="http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm">Weiwei Xu</a>
+        [ Panelists ]<br><a href="http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm">Weiwei Xu (Zhejiang)</a>
       </td>
     </tr>
     <tr valign="middle" style="background-color:white">
