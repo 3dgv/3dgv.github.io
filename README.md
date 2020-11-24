@@ -273,7 +273,13 @@ How to register for zoom and etc. here.
       <td><img src="./images/cvpr2021-2.jpg" width="300"/></td>
     </tr>   
     <tr valign="middle" style="background-color:#e2cfc4">
-      <td><img src="./images/david_fouhey.jpg" width="200"/></td>
+      <td><img src="./images/david_fouhey.jpg" width="200"/><br><br>
+     [ Panelists ]<br><a href="https://people.cs.umass.edu/~kalo/">Vangelis Kalogerakis (UMASS)</a><br><a href="https://dhoiem.cs.illinois.edu/">Derek Hoiem (UIUC)</a>
+      </td>
+     <td colspan="2">
+        <iframe width="560" height="315" src="https://youtu.be/2rIE01g9WcM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+      <!--
       <td style="width:40%;">
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
@@ -289,6 +295,7 @@ How to register for zoom and etc. here.
       <td style="width:35%;"><b>Building 3D Representations of Scenes from One Or Two Ordinary Images</b><br><br><a href="https://web.eecs.umich.edu/~fouhey/">David Fouhey<br>University of Michigan</a><br><br>
       [ Panelists ]<br><a href="https://people.cs.umass.edu/~kalo/">Vangelis Kalogerakis (UMASS)</a><br><a href="https://dhoiem.cs.illinois.edu/">Derek Hoiem (UIUC)</a>
       </td>
+      -->
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="./images/hui_huang.jpg" width="200"/></td>
