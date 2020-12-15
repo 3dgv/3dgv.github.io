@@ -305,7 +305,13 @@ How to register for zoom and etc. here.
       -->
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
-      <td><img src="./images/hui_huang.jpg" width="200"/></td>
+      <td><img src="./images/hui_huang.jpg" width="200"/><br><br>
+              [ Panelists ]<br><a href="http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm">Weiwei Xu (Zhejiang)</a>
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/3LwpNMRhbH4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+<!--
       <td style="width:40%;">
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
@@ -321,6 +327,7 @@ How to register for zoom and etc. here.
       <td style="width:35%;"><b>Reconstructing Transparent Objects</b><br><br><a href="https://vcc.tech/~huihuang">Hui Huang<br>Shenzhen University</a><br><br>
         [ Panelists ]<br><a href="http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm">Weiwei Xu (Zhejiang)</a>
       </td>
+-->
     </tr>
     <tr valign="middle" style="background-color:white">
       <td></td>
