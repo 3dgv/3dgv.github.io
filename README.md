@@ -371,7 +371,9 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Talk title</b><br><br><a href="https://geometry.stanford.edu/member/guibas/">Leo Guibas<br>Stanford University</a></td>
+      <td style="width:35%;"><b>Joint Learning over Geometric Data</b><br><br><a href="https://geometry.stanford.edu/member/guibas/">Leo Guibas<br>Stanford University</a><br>
+        [ Panelists ]<br><a href="https://jiajunwu.com/">Jiajun Wu (Stanford)</a>
+      </td>
     </tr>
   </tbody>
 </table>
