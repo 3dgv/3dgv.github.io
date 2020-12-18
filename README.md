@@ -401,6 +401,7 @@ How to register for zoom and etc. here.
     <tr>
       <td><a href="https://www.cs.utexas.edu/~huangqx/"><img src="./images/qixing_huang.jpg" height="200"/><br>UT Austin<br>Qixing Huang</a></td>
       <td><a href="https://scholar.google.com/citations?user=jzx6_ZIAAAAJ&hl=en"><img src="./images/torsten_sattler.jpg" height="200"/><br>CIIRC, CVUT<br>Torsten Sattler</a></td>
+      <td><a href="https://xueyuhanlang.github.io/"><img src="./images/yang_liu.jpg" height="200"/><br>MSRA<br>Yang Liu</a></td>
       <td><a href="https://www.cs.sfu.ca/~furukawa"><img src="./images/yasutaka_furukawa.jpg" height="200"/><br>SFU<br>Yasutaka Furukawa</a></td>
     </tr>
   </tbody>
