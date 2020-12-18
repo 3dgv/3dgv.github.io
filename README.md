@@ -356,9 +356,15 @@ How to register for zoom and etc. here.
       <td></td>
       <td><img src="./images/neurips.png" width="200"/></td>
       <td><img src="./images/neurips-2.png" width="200"/></td>
-    </tr>
+    </tr>    
     <tr valign="middle" style="background-color:#e2cfc4">
-      <td><img src="./images/leo_guibas.jpg" width="200"/></td>
+      <td><img src="./images/leo_guibas.jpg" width="200"/><br><br>
+      [ Panelists ]<br><a href="https://jiajunwu.com/">Jiajun Wu (Stanford)</a>
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/OXc25WXFIE0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+      <!--    
       <td style="width:40%;">
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody>
@@ -374,6 +380,7 @@ How to register for zoom and etc. here.
       <td style="width:35%;"><b>Joint Learning over Geometric Data</b><br><br><a href="https://geometry.stanford.edu/member/guibas/">Leo Guibas<br>Stanford University</a><br><br>
         [ Panelists ]<br><a href="https://jiajunwu.com/">Jiajun Wu (Stanford)</a>
       </td>
+-->
     </tr>
   </tbody>
 </table>
