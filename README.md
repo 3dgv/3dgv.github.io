@@ -66,7 +66,12 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
-    </tr>
+    </tr>    
+    <tr valign="middle" style="background-color:white">
+      <td></td>
+      <td><img src="" width="200"/></td>
+      <td><img src="" width="200"/></td>
+    </tr>    
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="" width="200"/><br>
         [ Panelists ] <br>
