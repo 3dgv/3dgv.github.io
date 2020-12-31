@@ -89,14 +89,15 @@ How to register for zoom and etc. here.
 </table>
  
 
-
-<script src="jquery.js"></script> <script> $(function(){ $("#includedContent").load("2020-fall-schedule.html"); });
-  
-<script type="text/javascript">
-$(document).ready(function(e) {
-    $('#header').load('2020-fall-schedule.html',function(){alert('loaded')});
+<script src="/jquery.js"></script> 
+<script> 
+$(function(){
+$("#Content").load("2020-fall-schedule.html"); 
 });
-</script>
+</script> 
+<div id="Content"></div>
+
+
 
 
 <h2 style="color:black;">Past talks</h2>
