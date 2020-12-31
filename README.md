@@ -93,7 +93,7 @@ How to register for zoom and etc. here.
 
 
 
-
+<h2 style="color:black;">Past talks</h2>
 <table cellpadding="0" cellspacing="0">
   <tbody>
     <tr valign="middle" style="background-color:#e2e2df">
