@@ -90,8 +90,11 @@ How to register for zoom and etc. here.
  
 
 
-<iframe src="2020-fall-schedule.html"></iframe>
-
+<script type="text/javascript">
+$(document).ready(function(e) {
+    $('#header').load('2020-fall-schedule.html',function(){alert('loaded')});
+});
+</script>
 
 
 <h2 style="color:black;">Past talks</h2>
