@@ -37,8 +37,8 @@ How to register for zoom and etc. here.
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>01/13 20:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>01/13 18:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>01/13 22:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>01/13 19:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>France</td>  <td>01/13 12:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>01/13 11:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>01/13 06:00 Wed</td></tr>
@@ -58,8 +58,8 @@ How to register for zoom and etc. here.
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>01/21 04:00 Thu</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>01/21 02:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>01/21 06:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>01/21 03:00 Thu</td></tr>
             <tr style="background-color:#e2e2df"><td>France</td>  <td>01/20 20:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>01/20 19:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>01/20 14:00 Wed</td></tr>
@@ -85,9 +85,9 @@ How to register for zoom and etc. here.
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/03 12:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/03 10:00 Wed</td></tr>
-            <tr style="backgrond-color:#e2e2df"><td>France</td>   <td>02/03 04:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/03 14:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/03 11:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>02/03 04:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>02/03 03:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>02/02 22:00 Tue</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>02/02 19:00 Tue</td></tr>
@@ -106,8 +106,8 @@ How to register for zoom and etc. here.
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/10 20:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/10 18:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/10 22:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/10 19:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>France</td>  <td>02/10 12:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>02/10 11:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>02/10 06:00 Wed</td></tr>
@@ -127,8 +127,8 @@ How to register for zoom and etc. here.
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/18 04:00 Thu</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/18 02:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/18 06:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/18 03:00 Thu</td></tr>
             <tr style="background-color:#e2e2df"><td>France</td>  <td>02/17 20:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>02/17 19:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>02/17 14:00 Wed</td></tr>
@@ -148,8 +148,8 @@ How to register for zoom and etc. here.
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/24 12:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/24 10:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/24 14:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/24 11:00 Wed</td></tr>
             <tr style="backgrond-color:#e2e2df"><td>France</td>   <td>02/24 04:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>02/24 03:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>02/23 22:00 Tue</td></tr>
@@ -169,8 +169,8 @@ How to register for zoom and etc. here.
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>03/03 20:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>03/03 18:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>03/03 22:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>03/03 19:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>France</td>  <td>03/03 12:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>03/03 11:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>03/03 06:00 Wed</td></tr>
@@ -190,8 +190,8 @@ How to register for zoom and etc. here.
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>03/11 04:00 Thu</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>03/11 02:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>03/11 06:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>03/11 03:00 Thu</td></tr>
             <tr style="background-color:#e2e2df"><td>France</td>  <td>03/10 20:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>03/10 19:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>03/10 14:00 Wed</td></tr>
@@ -217,12 +217,12 @@ How to register for zoom and etc. here.
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>03/24 12:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>03/24 10:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>03/24 14:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>03/24 11:00 Wed</td></tr>
             <tr style="backgrond-color:#e2e2df"><td>France</td>   <td>03/24 04:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>03/24 03:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>03/23 22:00 Tue</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>03/23 19:00 Tue</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>03/23 23:00 Tue</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>03/23 20:00 Tue</td></tr>
           </tbody>
         </table>
       </td>
@@ -238,7 +238,7 @@ How to register for zoom and etc. here.
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>03/31 20:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>03/31 21:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>03/31 18:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>France</td>  <td>03/31 12:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>03/31 11:00 Wed</td></tr>
@@ -280,12 +280,12 @@ How to register for zoom and etc. here.
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>04/14 12:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>04/14 10:00 Wed</td></tr>
-            <tr style="backgrond-color:#e2e2df"><td>France</td>   <td>04/14 04:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>04/14 03:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>04/13 22:00 Tue</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>04/13 19:00 Tue</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>04/14 13:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>04/14 11:00 Wed</td></tr>
+            <tr style="backgrond-color:#e2e2df"><td>France</td>   <td>04/14 05:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>04/14 04:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>04/13 23:00 Tue</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>04/13 20:00 Tue</td></tr>
           </tbody>
         </table>
       </td>
