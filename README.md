@@ -396,10 +396,13 @@ How to register for zoom and etc. here.
       <td><a href="https://www.3dunderstanding.org/"><img src="./images/angela_dai.jpg" height="200" /><br>TUM<br>Angela Dai</a></td>
       <td><a href="https://www.comp.nus.edu.sg/cs/bio/ayao/"><img src="./images/angela_yao.jpg" height="200"/><br>NUS<br>Angela Yao</a></td>
       <td><a href="https://people.eecs.berkeley.edu/~kanazawa/"><img src="./images/angjoo_kanazawa.jpg" height="200"/><br>Berkeley<br>Angjoo Kanazawa</a></td>
-      <td><a href="http://staff.ustc.edu.cn/~juyong/"><img src="./images/juyong_zhang.png" height="200"/><br>USTC<br>Juyong Zhang</a></td>
     </tr>
     <tr>
-      <td><a href="https://www.cs.utexas.edu/~huangqx/"><img src="./images/qixing_huang.jpg" height="200"/><br>UT Austin<br>Qixing Huang</a></td>
+      <td><a href="https://jiajunwu.com/"><img src="./images/jiajun_wu.jpg" height="200"/><br>Stanford<br>Jiajun Wu</a></td>
+      <td><a href="http://staff.ustc.edu.cn/~juyong/"><img src="./images/juyong_zhang.png" height="200"/><br>USTC<br>Juyong Zhang</a></td>
+      <td><a href="https://www.cs.utexas.edu/~huangqx/"><img src="./images/qixing_huang.jpg" height="200"/><br>UT Austin<br>Qixing Huang</a></td>      
+    </tr>
+    <tr>
       <td><a href="https://scholar.google.com/citations?user=jzx6_ZIAAAAJ&hl=en"><img src="./images/torsten_sattler.jpg" height="200"/><br>CIIRC, CVUT<br>Torsten Sattler</a></td>
       <td><a href="https://xueyuhanlang.github.io/"><img src="./images/yang_liu.jpg" height="200"/><br>MSRA<br>Yang Liu</a></td>
       <td><a href="https://www.cs.sfu.ca/~furukawa"><img src="./images/yasutaka_furukawa.jpg" height="200"/><br>SFU<br>Yasutaka Furukawa</a></td>
