@@ -90,9 +90,7 @@ How to register for zoom and etc. here.
  
 
 
-<object data="2020-fall-schedule.html">
-  Your browser does not support the object tag.
-</object>
+<iframe src="2020-fall-schedule.html"></iframe>
 
 
 
