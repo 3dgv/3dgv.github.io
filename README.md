@@ -45,7 +45,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.niessnerlab.org/">Matthias Niessner<br>TUM</a></td>
     </tr>
     
     <tr valign="middle" style="background-color:#e2cfc4">
@@ -66,7 +66,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://cseweb.ucsd.edu/~haosu/">Hao Su<br>UCSD</a></td>
     </tr>    
     
     <tr valign="middle" style="background-color:white">
