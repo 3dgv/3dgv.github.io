@@ -114,7 +114,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://ps.is.mpg.de/~stang">Siyu Tang<br>ETH</a></td>
     </tr>
     
     <tr valign="middle" style="background-color:#e2cfc4">
@@ -135,7 +135,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://dritchie.github.io/">Daniel Ritchie<br>Brown</a></td>
     </tr>    
     
     <tr valign="middle" style="background-color:#c6def1">
@@ -309,7 +309,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="">Andreas Geiger<br>Tübingen/MPI</a></td>
     </tr>    
   </tbody>
 </table>
