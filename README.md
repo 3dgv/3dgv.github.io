@@ -28,7 +28,7 @@ How to register for zoom and etc. here.
 <table cellpadding="0" cellspacing="0">
   <tbody>
     <tr valign="middle" style="background-color:#e2e2df">
-      <td style="width:25%;"><a href="https://people.inf.ethz.ch/pomarc/"><img src="./images/marc_pollefeys.jpg" width="200"/></a></td>
+      <td style="width:25%;"><a href=""><img src="" width="200"/></a></td>
       <td style="width:40%;">
         <table>
           <tbody>
@@ -42,14 +42,14 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;">
-      <b>3D Geometric Vision</b><br><br><a href="https://people.inf.ethz.ch/pomarc/">Marc Pollefeys<br>ETH Zurich & Microsoft</a>
+      <b>Title</b><br><br><a href="">Name<br>Affiliation</a>
       </td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
-      <td><img src="./images/katerina_fragkiadaki.png" width="200"/><br>
+      <td><img src="" width="200"/><br>
         [ Panelists ] <br>
-        <a href="http://saurabhg.web.illinois.edu/">Saurabh Gupta</a><br>(UIUC)<br>
-        <a href="https://www.cs.utexas.edu/~yukez/">Yuke Zhu</a><br>(UT-Austin)
+        <a href="">Name</a><br>(Affiliation)<br>
+        <a href="">Name</a><br>(Affiliation)
         </td>
       <td style="width:40%;">
         <table>
@@ -63,13 +63,13 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>3D Vision with 3D View-Predictive Neural Scene representations</b><br><br><a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki<br>Carnegie Mellon University</a><br><br>Panelists: <a href="http://saurabhg.web.illinois.edu/">Saurabh Gupta (UIUC)</a> and <a href="https://www.cs.utexas.edu/~yukez/">Yuke Zhu (UT-Austin)</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a><br><br>Panelists: <a href="">Name (Affiliation)</a> and <a href="">Name (Affiliation)</a></td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
-      <td style><img src="./images/xin_tong.jpg" width="200"/><br>
+      <td style><img src="" width="200"/><br>
         [ Panelists ] <br>
-        <a href="https://cseweb.ucsd.edu/~haosu/">Hao Su (UCSD)</a><br>
-        <a href="http://www.cad.zju.edu.cn/home/xzhou/">Xiaowei Zhou (Zhejiang)</a>
+        <a href="">Name (Affiliation)</a><br>
+        <a href="">Name (Affiliation)</a>
       </td>
       <td style="width:40%;">
         <table>
@@ -83,7 +83,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Learning the space of 3D shapes: some challenges and our explorations</b><br><br><a href="http://www.xtong.info/">Xin Tong<br>Microsoft Research Asia</a><br><br>Panelists: <a href="https://cseweb.ucsd.edu/~haosu/">Hao Su (UCSD)</a> and <a href="http://www.cad.zju.edu.cn/home/xzhou/">Xiaowei Zhou (Zhejiang)</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a><br><br>Panelists: <a href="">Name (Affiliation)</a> and <a href="">Name (Affiliation)</a></td>
     </tr>
   </tbody>
 </table>
