@@ -45,9 +45,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;">
-      <b>Title</b><br><br><a href="">Name<br>Affiliation</a>
-      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="" width="200"/><br>
@@ -67,7 +65,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a><br><br>Panelists: <a href="">Name (Affiliation)</a> and <a href="">Name (Affiliation)</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="" width="200"/><br>
@@ -87,7 +85,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a><br><br>Panelists: <a href="">Name (Affiliation)</a> and <a href="">Name (Affiliation)</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
     </tr>
   </tbody>
 </table>
