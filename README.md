@@ -28,7 +28,11 @@ How to register for zoom and etc. here.
 <table cellpadding="0" cellspacing="0">
   <tbody>
     <tr valign="middle" style="background-color:#e2e2df">
-      <td style="width:25%;"><a href=""><img src="" width="200"/></a></td>
+      <td><img src="" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a><br>(Affiliation)<br>
+        <a href="">Name</a><br>(Affiliation)
+      </td>
       <td style="width:40%;">
         <table>
           <tbody>
@@ -50,7 +54,7 @@ How to register for zoom and etc. here.
         [ Panelists ] <br>
         <a href="">Name</a><br>(Affiliation)<br>
         <a href="">Name</a><br>(Affiliation)
-        </td>
+      </td>
       <td style="width:40%;">
         <table>
           <tbody>
@@ -66,10 +70,10 @@ How to register for zoom and etc. here.
       <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a><br><br>Panelists: <a href="">Name (Affiliation)</a> and <a href="">Name (Affiliation)</a></td>
     </tr>
     <tr valign="middle" style="background-color:#c6def1">
-      <td style><img src="" width="200"/><br>
+      <td><img src="" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name (Affiliation)</a><br>
-        <a href="">Name (Affiliation)</a>
+        <a href="">Name</a><br>(Affiliation)<br>
+        <a href="">Name</a><br>(Affiliation)
       </td>
       <td style="width:40%;">
         <table>
@@ -89,13 +93,7 @@ How to register for zoom and etc. here.
 </table>
  
 
-<script src="/jquery.js"></script> 
-<script> 
-$(function(){
-$("#Content").load("2020-fall-schedule.html"); 
-});
-</script> 
-<div id="Content"></div>
+
 
 
 
