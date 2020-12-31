@@ -31,8 +31,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/matthias-niessner.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a><br>(Affiliation)<br>
-        <a href="">Name</a><br>(Affiliation)
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
       </td>
       <td style="width:40%;">
         <table>
@@ -52,8 +52,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="images/hao_su.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a><br>(Affiliation)<br>
-        <a href="">Name</a><br>(Affiliation)
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
       </td>
       <td style="width:40%;">
         <table>
@@ -79,8 +79,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a><br>(Affiliation)<br>
-        <a href="">Name</a><br>(Affiliation)
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
       </td>
       <td style="width:40%;">
         <table>
@@ -100,8 +100,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/siyu_tang.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a><br>(Affiliation)<br>
-        <a href="">Name</a><br>(Affiliation)
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
       </td>
       <td style="width:40%;">
         <table>
@@ -121,8 +121,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="images/daniel_ritchie.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a><br>(Affiliation)<br>
-        <a href="">Name</a><br>(Affiliation)
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
       </td>
       <td style="width:40%;">
         <table>
@@ -142,8 +142,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a><br>(Affiliation)<br>
-        <a href="">Name</a><br>(Affiliation)
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
       </td>
       <td style="width:40%;">
         <table>
@@ -163,8 +163,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a><br>(Affiliation)<br>
-        <a href="">Name</a><br>(Affiliation)
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
       </td>
       <td style="width:40%;">
         <table>
@@ -184,8 +184,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a><br>(Affiliation)<br>
-        <a href="">Name</a><br>(Affiliation)
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
       </td>
       <td style="width:40%;">
         <table>
@@ -211,8 +211,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a><br>(Affiliation)<br>
-        <a href="">Name</a><br>(Affiliation)
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
       </td>
       <td style="width:40%;">
         <table>
@@ -232,8 +232,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a><br>(Affiliation)<br>
-        <a href="">Name</a><br>(Affiliation)
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
       </td>
       <td style="width:40%;">
         <table>
@@ -253,8 +253,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a><br>(Affiliation)<br>
-        <a href="">Name</a><br>(Affiliation)
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
       </td>
       <td style="width:40%;">
         <table>
@@ -274,8 +274,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a><br>(Affiliation)<br>
-        <a href="">Name</a><br>(Affiliation)
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
       </td>
       <td style="width:40%;">
         <table>
@@ -295,8 +295,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/andreas_geiger.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a><br>(Affiliation)<br>
-        <a href="">Name</a><br>(Affiliation)
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
       </td>
       <td style="width:40%;">
         <table>
