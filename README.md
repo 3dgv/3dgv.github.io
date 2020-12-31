@@ -90,6 +90,8 @@ How to register for zoom and etc. here.
  
 
 
+<script src="jquery.js"></script> <script> $(function(){ $("#includedContent").load("2020-fall-schedule.html"); });
+  
 <script type="text/javascript">
 $(document).ready(function(e) {
     $('#header').load('2020-fall-schedule.html',function(){alert('loaded')});
