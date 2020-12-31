@@ -69,7 +69,7 @@ How to register for zoom and etc. here.
     </tr>    
     <tr valign="middle" style="background-color:white">
       <td></td>
-      <td><img src="" width="200"/></td>
+      <td><img src="images/break.jpg" width="200"/></td>
       <td><img src="" width="200"/></td>
     </tr>    
     <tr valign="middle" style="background-color:#c6def1">
