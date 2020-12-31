@@ -454,6 +454,10 @@ How to register for zoom and etc. here.
   </tbody>
 </table>
 
+
+
+
+
 <h2 style="color:black;">Calendar (time zone conversion)</h2>
 
 <iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FVancouver&amp;src=M2Rndi5zZW1pbmFyQGdtYWlsLmNvbQ&amp;color=%23039BE5&amp;showTitle=1&amp;mode=AGENDA" style="border:solid 1px #777" width="500" height="500" frameborder="0" scrolling="no"></iframe>
