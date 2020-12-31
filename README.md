@@ -29,6 +29,75 @@ How to register for zoom and etc. here.
   <tbody>
     <tr valign="middle" style="background-color:#e2e2df">
       <td style="width:25%;"><a href="https://people.inf.ethz.ch/pomarc/"><img src="./images/marc_pollefeys.jpg" width="200"/></a></td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/02 20:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/02 18:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/02 12:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/02 11:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/02 06:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/02 03:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;">
+      <b>3D Geometric Vision</b><br><br><a href="https://people.inf.ethz.ch/pomarc/">Marc Pollefeys<br>ETH Zurich & Microsoft</a>
+      </td>
+    </tr>
+    <tr valign="middle" style="background-color:#e2cfc4">
+      <td><img src="./images/katerina_fragkiadaki.png" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="http://saurabhg.web.illinois.edu/">Saurabh Gupta</a><br>(UIUC)<br>
+        <a href="https://www.cs.utexas.edu/~yukez/">Yuke Zhu</a><br>(UT-Austin)
+        </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/10 04:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/10 02:00 Thu</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/09 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/09 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/09 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/09 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>3D Vision with 3D View-Predictive Neural Scene representations</b><br><br><a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki<br>Carnegie Mellon University</a><br><br>Panelists: <a href="http://saurabhg.web.illinois.edu/">Saurabh Gupta (UIUC)</a> and <a href="https://www.cs.utexas.edu/~yukez/">Yuke Zhu (UT-Austin)</a></td>
+    </tr>
+    <tr valign="middle" style="background-color:#c6def1">
+      <td style><img src="./images/xin_tong.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="https://cseweb.ucsd.edu/~haosu/">Hao Su (UCSD)</a><br>
+        <a href="http://www.cad.zju.edu.cn/home/xzhou/">Xiaowei Zhou (Zhejiang)</a>
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/16 12:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/16 10:00 Wed</td></tr>
+            <tr style="backgrond-color:#e2e2df"><td>France</td>   <td>09/16 04:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/16 03:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/15 22:00 Tue</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/15 19:00 Tue</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Learning the space of 3D shapes: some challenges and our explorations</b><br><br><a href="http://www.xtong.info/">Xin Tong<br>Microsoft Research Asia</a><br><br>Panelists: <a href="https://cseweb.ucsd.edu/~haosu/">Hao Su (UCSD)</a> and <a href="http://www.cad.zju.edu.cn/home/xzhou/">Xiaowei Zhou (Zhejiang)</a></td>
+    </tr>
+  </tbody>
+</table>
+ 
+
+
+
+
+
+
+<table cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td style="width:25%;"><a href="https://people.inf.ethz.ch/pomarc/"><img src="./images/marc_pollefeys.jpg" width="200"/></a></td>
       <td colspan="2">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/eS-BMGIVp2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
