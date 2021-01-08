@@ -37,12 +37,12 @@ How to register for zoom and etc. here.
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>01/13 22:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>01/13 19:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>01/13 12:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>01/13 11:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>01/13 06:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>01/13 03:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>01/13 21:30 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>01/13 18:30 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>01/13 11:30 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>01/13 10:30 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>01/13 05:30 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>01/13 02:30 Wed</td></tr>
           </tbody>
         </table>
       </td>
@@ -140,7 +140,7 @@ How to register for zoom and etc. here.
     </tr>    
     
     <tr valign="middle" style="background-color:#c6def1">
-      <td><img src="" width="200"/><br>
+      <td><img src="images/takeo_igarashi.jpg" width="200"/><br>
         [ Panelists ] <br>
         <a href="">Name</a>(Affiliation)<br>
         <a href="">Name</a>(Affiliation)
@@ -157,7 +157,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
+      <td style="width:35%;"><b>Human-in-the-loop Computational Design</b><br><br><a href="https://www-ui.is.s.u-tokyo.ac.jp/~takeo/">Takeo Igarashi<br>U Tokyo</a></td>
     </tr>
     
     <tr valign="middle" style="background-color:#e2e2df">
@@ -182,7 +182,7 @@ How to register for zoom and etc. here.
     </tr>
     
     <tr valign="middle" style="background-color:#e2cfc4">
-      <td><img src="" width="200"/><br>
+      <td><img src="images/noah_snavely.jpg" width="200"/><br>
         [ Panelists ] <br>
         <a href="">Name</a>(Affiliation)<br>
         <a href="">Name</a>(Affiliation)
@@ -199,7 +199,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="http://www.cs.cornell.edu/~snavely/">Noah Snavely<br>Cornell Tech and Google Research</a></td>
     </tr>    
     
     <tr valign="middle" style="background-color:white">
@@ -209,7 +209,7 @@ How to register for zoom and etc. here.
     </tr>
     
     <tr valign="middle" style="background-color:#c6def1">
-      <td><img src="" width="200"/><br>
+      <td><img src="images/tat_jun_chin.png" width="200"/><br>
         [ Panelists ] <br>
         <a href="">Name</a>(Affiliation)<br>
         <a href="">Name</a>(Affiliation)
@@ -226,7 +226,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://cs.adelaide.edu.au/~tjchin">Tat-Jun Chin<br>U Adelaide</a></td>
     </tr>
     
     <tr valign="middle" style="background-color:#e2e2df">
@@ -247,11 +247,11 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.doc.ic.ac.uk/~ajd/">Andrew Davison<br>Imperial College London</a></td>
     </tr>
     
     <tr valign="middle" style="background-color:#e2cfc4">
-      <td><img src="" width="200"/><br>
+      <td><img src="images/shuran_song.jpg" width="200"/><br>
         [ Panelists ] <br>
         <a href="">Name</a>(Affiliation)<br>
         <a href="">Name</a>(Affiliation)
@@ -268,11 +268,11 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.cs.columbia.edu/~shurans/">Shuran Song<br>Columbia</a></td>
     </tr>    
     
     <tr valign="middle" style="background-color:#c6def1">
-      <td><img src="" width="200"/><br>
+      <td><img src="images/siddhartha_chaudhuri.jpg" width="200"/><br>
         [ Panelists ] <br>
         <a href="">Name</a>(Affiliation)<br>
         <a href="">Name</a>(Affiliation)
@@ -289,7 +289,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri<br>IIT Bombay & Adobe Research</a></td>
     </tr>
     
     <tr valign="middle" style="background-color:#e2e2df">
