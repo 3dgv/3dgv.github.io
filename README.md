@@ -31,7 +31,7 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/matthias-niessner.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra (UCL)<br>        
+        <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra (UCL)</a><br>
       </td>
       <td style="width:40%;">
         <table>
