@@ -329,7 +329,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Yaron Lipman<br>Weizmann Institute of Science</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="http://www.wisdom.weizmann.ac.il/~ylipman/">Yaron Lipman<br>Weizmann Institute of Science</a></td>
     </tr>  
   </tbody>
 </table>
