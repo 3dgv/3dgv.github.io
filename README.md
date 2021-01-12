@@ -18,7 +18,7 @@ How to register for zoom and etc. here.
 <a href="join_by_zoom.html" class="button3">Join by Zoom</a>
 -->
 <p style="text-align:center;">
-<a href="https://youtu.be/OXc25WXFIE0" class="button3">Join Youtube Live</a>
+<a href="https://youtu.be/ZhV1Tg_7gww" class="button3">Join Youtube Live</a>
 <!--  <a href="" class="button3">Youtube link will be available here right before the seminar start.</a>-->
 </p>
 
@@ -31,8 +31,7 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/matthias-niessner.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra (UCL)<br>        
       </td>
       <td style="width:40%;">
         <table>
@@ -46,7 +45,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.niessnerlab.org/">Matthias Niessner<br>TUM</a></td>
+      <td style="width:35%;"><b>Learning Non-Rigid Reconstruction</b><br><br><a href="https://www.niessnerlab.org/">Matthias Niessner<br>TUM</a></td>
     </tr>
     
     <tr valign="middle" style="background-color:#e2cfc4">
