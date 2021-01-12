@@ -149,7 +149,7 @@ How to register for zoom and etc. here.
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/24 14:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/24 11:00 Wed</td></tr>
-            <tr style="backgrond-color:#e2e2df"><td>France</td>   <td>02/24 04:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>   <td>02/24 04:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>02/24 03:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>02/23 22:00 Tue</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>02/23 19:00 Tue</td></tr>
@@ -218,7 +218,7 @@ How to register for zoom and etc. here.
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>03/24 14:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>03/24 11:00 Wed</td></tr>
-            <tr style="backgrond-color:#e2e2df"><td>France</td>   <td>03/24 04:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>   <td>03/24 04:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>03/24 03:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>03/23 23:00 Tue</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>03/23 20:00 Tue</td></tr>
@@ -281,7 +281,7 @@ How to register for zoom and etc. here.
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>04/14 13:00 Wed</td></tr>
             <tr style="background-color:#c6def1"><td>Beijing</td> <td>04/14 11:00 Wed</td></tr>
-            <tr style="backgrond-color:#e2e2df"><td>France</td>   <td>04/14 05:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>   <td>04/14 05:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>04/14 04:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>04/13 23:00 Tue</td></tr>
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>04/13 20:00 Tue</td></tr>
