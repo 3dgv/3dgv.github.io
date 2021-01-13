@@ -93,7 +93,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Ligang Liu<br>USTC</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu<br>USTC</a></td>
     </tr>
 
     <tr valign="middle" style="background-color:#e2e2df">
