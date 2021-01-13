@@ -76,7 +76,7 @@ How to register for zoom and etc. here.
     </tr>    
     
     <tr valign="middle" style="background-color:#c6def1">
-      <td><img src="" width="200"/><br>
+      <td><img src="images/ligang_liu.png" width="200"/><br>
         [ Panelists ] <br>
         <a href="">Name</a>(Affiliation)<br>
         <a href="">Name</a>(Affiliation)
@@ -93,7 +93,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="">Ligang Liu<br>USTC</a></td>
     </tr>
 
     <tr valign="middle" style="background-color:#e2e2df">
