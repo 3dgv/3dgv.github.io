@@ -34,7 +34,7 @@ How to register for zoom and etc. here.
         <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra (UCL)</a><br>
       </td>
       <td colspan="2">
-        <iframe width="560" height="315" src="https://youtu.be/ZhV1Tg_7gww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZhV1Tg_7gww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
     <!--      
       <td style="width:40%;">
