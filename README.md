@@ -18,7 +18,7 @@ How to register for zoom and etc. here.
 <a href="join_by_zoom.html" class="button3">Join by Zoom</a>
 -->
 <p style="text-align:center;">
-<a href="https://youtu.be/qNSUTtq2LRI" class="button3">Join Youtube Live</a>
+<a href="https://youtu.be/MArIHoX3jQ8" class="button3">Join Youtube Live</a>
 <!--  <a href="" class="button3">Youtube link will be available here right before the seminar start.</a>-->
 </p>
 
