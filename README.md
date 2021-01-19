@@ -18,7 +18,7 @@ How to register for zoom and etc. here.
 <a href="join_by_zoom.html" class="button3">Join by Zoom</a>
 -->
 <p style="text-align:center;">
-<a href="https://youtu.be/ZhV1Tg_7gww" class="button3">Join Youtube Live</a>
+<a href="https://youtu.be/qNSUTtq2LRI" class="button3">Join Youtube Live</a>
 <!--  <a href="" class="button3">Youtube link will be available here right before the seminar start.</a>-->
 </p>
 
@@ -56,7 +56,7 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="images/hao_su.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="http://shubhtuls.github.io/">Shubham Tulsiani</a>(FAIR)
+        <a href="http://shubhtuls.github.io/">Shubham Tulsiani</a> (FAIR)
       </td>
       <td style="width:40%;">
         <table>
