@@ -56,8 +56,7 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="images/hao_su.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="http://shubhtuls.github.io/">Shubham Tulsiani</a>(FAIR)
       </td>
       <td style="width:40%;">
         <table>
