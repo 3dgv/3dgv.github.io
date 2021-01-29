@@ -51,13 +51,16 @@ How to register for zoom and etc. here.
       </td>
       <td style="width:35%;"><b>Learning Non-Rigid Reconstruction</b><br><br><a href="https://www.niessnerlab.org/">Matthias Niessner<br>TUM</a></td>
 -->
-    </tr>
-    
+    </tr>    
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="images/hao_su.jpg" width="200"/><br>
         [ Panelists ] <br>
         <a href="http://shubhtuls.github.io/">Shubham Tulsiani</a> (FAIR)
       </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/MArIHoX3jQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+<!--      
       <td style="width:40%;">
         <table>
           <tbody>
@@ -71,6 +74,7 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Compositional Generalizability for Geometry and Policy Learning</b><br><br><a href="https://cseweb.ucsd.edu/~haosu/">Hao Su<br>UCSD</a></td>
+-->
     </tr>    
     
     <tr valign="middle" style="background-color:white">
