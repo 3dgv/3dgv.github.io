@@ -86,8 +86,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="images/ligang_liu.png" width="200"/><br>
         [ Panelists ] <br>
-        <a href="https://kevinkaixu.net/">Kai Xu</a>(NUDT)<br>
-        <a href="https://sites.google.com/site/panjia/home">Jia Pan</a>(HKU)
+        <a href="https://kevinkaixu.net/">Kai Xu</a> (NUDT)<br>
+        <a href="https://sites.google.com/site/panjia/home">Jia Pan</a> (HKU)
       </td>
       <td style="width:40%;">
         <table>
