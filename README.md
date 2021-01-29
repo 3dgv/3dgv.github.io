@@ -86,8 +86,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="images/ligang_liu.png" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="https://kevinkaixu.net/">Kai Xu</a>(NUDT)<br>
+        <a href="https://sites.google.com/site/panjia/home">Jia Pan</a>(HKU)
       </td>
       <td style="width:40%;">
         <table>
@@ -101,7 +101,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu<br>USTC</a></td>
+      <td style="width:35%;"><b>Robot-oriented Geometry Processing</b><br><br><a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu<br>USTC</a></td>
     </tr>
 
     <tr valign="middle" style="background-color:#e2e2df">
