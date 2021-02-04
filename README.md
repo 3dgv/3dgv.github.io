@@ -89,6 +89,11 @@ How to register for zoom and etc. here.
         <a href="https://kevinkaixu.net/">Kai Xu</a> (NUDT)<br>
         <a href="https://sites.google.com/site/panjia/home">Jia Pan</a> (HKU)
       </td>
+      
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/RqSkp-HPSac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+      <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -102,6 +107,7 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Robot-oriented Geometry Processing</b><br><br><a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu<br>USTC</a></td>
+      -->
     </tr>
 
     <tr valign="middle" style="background-color:#e2e2df">
