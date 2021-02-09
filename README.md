@@ -114,6 +114,7 @@ How to register for zoom and etc. here.
       <td><img src="images/siyu_tang.jpg" width="200"/><br>
         [ Panelists ] <br>
         <a href="http://virtualhumans.mpi-inf.mpg.de/">Gerard Pons-Moll (MPI)</a><br>
+        <a href="https://ait.ethz.ch/">Otmar Hilliges (ETH)</a><br>        
       </td>
       <td style="width:40%;">
         <table>
