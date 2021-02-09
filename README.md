@@ -113,8 +113,7 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/siyu_tang.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="http://virtualhumans.mpi-inf.mpg.de/">Gerard Pons-Moll (MPI)</a><br>
       </td>
       <td style="width:40%;">
         <table>
@@ -128,7 +127,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://ps.is.mpg.de/~stang">Siyu Tang<br>ETH</a></td>
+      <td style="width:35%;"><b>Generating People Interacting with 3D Scenes and Objects</b><br><br><a href="https://ps.is.mpg.de/~stang">Siyu Tang<br>ETH</a></td>
     </tr>
     
     <tr valign="middle" style="background-color:#e2cfc4">
