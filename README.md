@@ -116,6 +116,10 @@ How to register for zoom and etc. here.
         <a href="http://virtualhumans.mpi-inf.mpg.de/">Gerard Pons-Moll (MPI)</a><br>
         <a href="https://ait.ethz.ch/">Otmar Hilliges (ETH)</a><br>        
       </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/4mjj6DRmKg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+    <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -129,6 +133,7 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Generating People Interacting with 3D Scenes and Objects</b><br><br><a href="https://ps.is.mpg.de/~stang">Siyu Tang<br>ETH</a></td>
+      -->
     </tr>
     
     <tr valign="middle" style="background-color:#e2cfc4">
@@ -332,7 +337,14 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Title</b><br><br><a href="">Andreas Geiger<br>Tübingen/MPI</a></td>
-    </tr>   
+    </tr>
+        
+    <tr valign="middle" style="background-color:white">
+      <td></td>
+      <td><img src="images/break.jpg" width="200"/></td>
+      <td><img src="images/break.jpg" width="200"/></td>
+    </tr>    
+    
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/yaron_lipman.jpg" width="200"/><br>
         [ Panelists ] <br>
