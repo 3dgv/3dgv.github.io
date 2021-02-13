@@ -134,8 +134,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="images/daniel_ritchie.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra</a>(UCL)<br>
+        <a href="https://paulguerrero.net/">Paul Guerrero</a>(Adobe Research)
       </td>
       <td style="width:40%;">
         <table>
@@ -173,6 +173,7 @@ How to register for zoom and etc. here.
       <td style="width:35%;"><b>Human-in-the-loop Computational Design</b><br><br><a href="https://www-ui.is.s.u-tokyo.ac.jp/~takeo/">Takeo Igarashi<br>U Tokyo</a></td>
     </tr>
     
+    <!--
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="" width="200"/><br>
         [ Panelists ] <br>
@@ -193,6 +194,13 @@ How to register for zoom and etc. here.
       </td>
       <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
     </tr>
+    -->
+    
+   <tr valign="middle" style="background-color:white">
+      <td></td>
+      <td><img src="images/break.jpg" width="200"/></td>
+      <td><img src="images/break.jpg" width="200"/></td>
+    </tr>        
     
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="images/noah_snavely.jpg" width="200"/><br>
@@ -266,8 +274,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="images/shuran_song.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="https://web.eecs.umich.edu/~fouhey/">David Fouhey</a>(Michigan)<br>
+        <a href="https://www.cs.cmu.edu/~dpathak/">Deepak Pathak</a>(CMU)
       </td>
       <td style="width:40%;">
         <table>
