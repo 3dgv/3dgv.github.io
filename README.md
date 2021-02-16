@@ -154,7 +154,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://dritchie.github.io/">Daniel Ritchie<br>Brown</a></td>
+      <td style="width:35%;"><b> Neurosymbolic generative models for structured visual content</b><br><br><a href="https://dritchie.github.io/">Daniel Ritchie<br>Brown</a></td>
     </tr>    
     
     <tr valign="middle" style="background-color:#c6def1">
