@@ -18,7 +18,7 @@ How to register for zoom and etc. here.
 <a href="join_by_zoom.html" class="button3">Join by Zoom</a>
 -->
 <p style="text-align:center;">
-<a href="https://youtu.be/XPJhe7hy_vc" class="button3">Join Youtube Live</a>
+<a href="https://youtu.be/7CLILIhGRlk" class="button3">Join Youtube Live</a>
 <!--  <a href="" class="button3">Youtube link will be available here right before the seminar start.</a>-->
 </p>
 
@@ -160,8 +160,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="images/takeo_igarashi.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu</a>(USTC)<br>
+        <a href="https://songpenghit.github.io/">Peng Song</a>(SUTD)
       </td>
       <td style="width:40%;">
         <table>
