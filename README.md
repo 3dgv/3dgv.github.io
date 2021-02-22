@@ -139,8 +139,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="images/daniel_ritchie.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra</a>(UCL)<br>
-        <a href="https://paulguerrero.net/">Paul Guerrero</a>(Adobe Research)
+        <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra</a> (UCL)<br>
+        <a href="https://paulguerrero.net/">Paul Guerrero</a> (Adobe Research)
       </td>
       <td colspan="2">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/XPJhe7hy_vc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -166,8 +166,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="images/takeo_igarashi.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu</a>(USTC)<br>
-        <a href="https://songpenghit.github.io/">Peng Song</a>(SUTD)
+        <a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu</a> (USTC)<br>
+        <a href="https://songpenghit.github.io/">Peng Song</a> (SUTD)
       </td>
       <td style="width:40%;">
         <table>
