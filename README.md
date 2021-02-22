@@ -142,6 +142,11 @@ How to register for zoom and etc. here.
         <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra</a>(UCL)<br>
         <a href="https://paulguerrero.net/">Paul Guerrero</a>(Adobe Research)
       </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/XPJhe7hy_vc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+      
+      <!--    
       <td style="width:40%;">
         <table>
           <tbody>
@@ -155,6 +160,7 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b> Neurosymbolic generative models for structured visual content</b><br><br><a href="https://dritchie.github.io/">Daniel Ritchie<br>Brown</a></td>
+      -->
     </tr>    
     
     <tr valign="middle" style="background-color:#c6def1">
