@@ -401,7 +401,7 @@ How to register for zoom and etc. here.
     </tr>  
     
     <tr valign="middle" style="background-color:#e2cfc4">
-      <td><img src="images/shuran_song.jpg" width="200"/><br>
+      <td><img src="images/saurabh_gupta.png" width="200"/><br>
         [ Panelists ] <br>
         <a href="">Name</a>(Affiliation)<br>
         <a href="">Name</a>(Affiliation)
