@@ -349,12 +349,35 @@ How to register for zoom and etc. here.
       </td>
       <td style="width:35%;"><b>Title</b><br><br><a href="">Andreas Geiger<br>Tübingen/MPI</a></td>
     </tr>
-        
+    
+    
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/gul_varol.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>04/21 20:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>04/21 18:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>04/21 12:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>04/21 11:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>04/21 06:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>04/21 03:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.robots.ox.ac.uk/~gul/">Gül Varol<br>École des Ponts ParisTech</a></td>
+    </tr>
+<!--
     <tr valign="middle" style="background-color:white">
       <td></td>
       <td><img src="images/break.jpg" width="200"/></td>
       <td><img src="images/break.jpg" width="200"/></td>
     </tr>    
+-->
     
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/yaron_lipman.jpg" width="200"/><br>
