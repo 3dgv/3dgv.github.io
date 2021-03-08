@@ -360,12 +360,12 @@ How to register for zoom and etc. here.
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>04/21 20:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>04/21 18:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>04/21 12:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>04/21 11:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>04/21 06:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>04/21 03:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>04/28 20:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>04/28 18:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>04/28 12:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>04/28 11:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>04/28 06:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>04/28 03:00 Wed</td></tr>
           </tbody>
         </table>
       </td>
@@ -399,6 +399,28 @@ How to register for zoom and etc. here.
       </td>
       <td style="width:35%;"><b>Title</b><br><br><a href="http://www.wisdom.weizmann.ac.il/~ylipman/">Yaron Lipman<br>Weizmann Institute of Science</a></td>
     </tr>  
+    
+    <tr valign="middle" style="background-color:#e2cfc4">
+      <td><img src="images/shuran_song.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>5/12 04:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>5/12 02:00 Thu</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>5/12 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>5/12 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>5/12 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>5/12 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://saurabhg.web.illinois.edu/">Saurabh Gupta<br>UIUC</a></td>
+    </tr>    
+    
   </tbody>
 </table>
  
