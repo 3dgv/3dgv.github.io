@@ -169,6 +169,10 @@ How to register for zoom and etc. here.
         <a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu</a> (USTC)<br>
         <a href="https://songpenghit.github.io/">Peng Song</a> (SUTD)
       </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/7CLILIhGRlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+    <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -182,6 +186,7 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Human-in-the-loop Computational Design</b><br><br><a href="https://www-ui.is.s.u-tokyo.ac.jp/~takeo/">Takeo Igarashi<br>U Tokyo</a></td>
+      -->
     </tr>
     
     <!--
@@ -216,8 +221,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="images/noah_snavely.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="https://pratulsrinivasan.github.io/">Pratul Srinivasan</a>(Google Research)<br>
+        <a href="http://szeliski.org/RichardSzeliski.htm">Rick Szeliski</a>(Facebook)
       </td>
       <td style="width:40%;">
         <table>
@@ -231,7 +236,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="http://www.cs.cornell.edu/~snavely/">Noah Snavely<br>Cornell Tech and Google Research</a></td>
+      <td style="width:35%;"><b>The Plenoptic Camera</b><br><br><a href="http://www.cs.cornell.edu/~snavely/">Noah Snavely<br>Cornell Tech and Google Research</a></td>
     </tr>    
     
     <tr valign="middle" style="background-color:white">
