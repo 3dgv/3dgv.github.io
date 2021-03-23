@@ -262,7 +262,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>End-to-End Geometric Vision</b><br><br><a href="https://cs.adelaide.edu.au/~tjchin">Tat-Jun Chin<br>U Adelaide</a></td>
+      <td style="width:35%;"><b>End-to-End Learnable Geometric Vision</b><br><br><a href="https://cs.adelaide.edu.au/~tjchin">Tat-Jun Chin<br>U Adelaide</a></td>
     </tr>
     
     <tr valign="middle" style="background-color:#e2e2df">
