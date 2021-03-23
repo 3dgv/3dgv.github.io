@@ -211,7 +211,7 @@ How to register for zoom and etc. here.
       <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
     </tr>
     -->
-    
+        
    <tr valign="middle" style="background-color:white">
       <td></td>
       <td><img src="images/break.jpg" width="200"/></td>
@@ -224,6 +224,12 @@ How to register for zoom and etc. here.
         <a href="https://pratulsrinivasan.github.io/">Pratul Srinivasan</a>(Google Research)<br>
         <a href="http://szeliski.org/RichardSzeliski.htm">Rick Szeliski</a>(Facebook)
       </td>
+      
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ToyBeaOUUFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+
+      <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -235,8 +241,9 @@ How to register for zoom and etc. here.
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>03/10 11:00 Wed</td></tr>
           </tbody>
         </table>
-      </td>
+      </td>      
       <td style="width:35%;"><b>The Plenoptic Camera</b><br><br><a href="http://www.cs.cornell.edu/~snavely/">Noah Snavely<br>Cornell Tech and Google Research</a></td>
+      -->
     </tr>    
     
     <tr valign="middle" style="background-color:white">
