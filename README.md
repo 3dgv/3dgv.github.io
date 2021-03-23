@@ -248,7 +248,7 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="images/tat_jun_chin.png" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
+        <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a>(NUS)<br>
         <a href="">Name</a>(Affiliation)
       </td>
       <td style="width:40%;">
@@ -263,7 +263,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://cs.adelaide.edu.au/~tjchin">Tat-Jun Chin<br>U Adelaide</a></td>
+      <td style="width:35%;"><b>End-to-End Geometric Vision</b><br><br><a href="https://cs.adelaide.edu.au/~tjchin">Tat-Jun Chin<br>U Adelaide</a></td>
     </tr>
     
     <tr valign="middle" style="background-color:#e2e2df">
