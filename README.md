@@ -248,8 +248,7 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="images/tat_jun_chin.png" width="200"/><br>
         [ Panelists ] <br>
-        <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a>(NUS)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a>(NUS)<br>        
       </td>
       <td style="width:40%;">
         <table>
