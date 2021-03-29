@@ -282,7 +282,7 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/andrew_davison.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Stefan Leutenegger</a>(TUM)
+        <a href="https://mlr.in.tum.de/home">Stefan Leutenegger</a>(TUM)
         <!--<br>
         <a href="">Name</a>(Affiliation)
         -->
