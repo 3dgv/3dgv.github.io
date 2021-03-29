@@ -18,7 +18,7 @@ How to register for zoom and etc. here.
 <a href="join_by_zoom.html" class="button3">Join by Zoom</a>
 -->
 <p style="text-align:center;">
-<a href="https://youtu.be/jt-vjNViRyw" class="button3">Join Youtube Live</a>
+<a href="https://youtu.be/ERCqnJnLH9Y" class="button3">Join Youtube Live</a>
 <!--  <a href="" class="button3">Youtube link will be available here right before the seminar start.</a>-->
 </p>
 
@@ -257,6 +257,12 @@ How to register for zoom and etc. here.
         [ Panelists ] <br>
         <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a>(NUS)<br>        
       </td>
+      
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5buDn153Hog" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+
+<!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -270,13 +276,16 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>End-to-End Learnable Geometric Vision</b><br><br><a href="https://cs.adelaide.edu.au/~tjchin">Tat-Jun Chin<br>U Adelaide</a></td>
+-->
     </tr>
     
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/andrew_davison.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Stefan Leutenegger</a>(TUM)
+        <!--<br>
         <a href="">Name</a>(Affiliation)
+        -->
       </td>
       <td style="width:40%;">
         <table>
@@ -290,7 +299,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.doc.ic.ac.uk/~ajd/">Andrew Davison<br>Imperial College London</a></td>
+      <td style="width:35%;"><b>Representations and Computational Patterns in Spatial AI</b><br><br><a href="https://www.doc.ic.ac.uk/~ajd/">Andrew Davison<br>Imperial College London</a></td>
     </tr>
     
     <tr valign="middle" style="background-color:#e2cfc4">
