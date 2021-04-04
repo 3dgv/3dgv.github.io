@@ -320,7 +320,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.cs.columbia.edu/~shurans/">Shuran Song<br>Columbia</a></td>
+      <td style="width:35%;"><b>Unfolding the Unseen: 3D Perception for Manipulating Deformable Cloth</b><br><br><a href="https://www.cs.columbia.edu/~shurans/">Shuran Song<br>Columbia</a></td>
     </tr>    
     
     <tr valign="middle" style="background-color:#c6def1">
