@@ -8,6 +8,11 @@
   </tbody>
 </table>
 
+<p style="text-align:center;">
+<a href="https://youtu.be/Ek20Zw77QPU" class="button3">Join Youtube Live</a>
+</p>
+
+
 <!--
 <h1 style="color:black;">3DGV: Seminar on 3D Geometry & Vision</h1>
 3DGV is a virtual seminar series on Geometry Processing and 3D Computer Vision. Seminars take place every Wednesday, cycling through three different time zones (<font style="background-color:#e2e2df;">Europe</font>, <font style="background-color:#e2cfc4;">America</font>, and <font style="background-color:#c6def1;">Asia</font>). We show seminar hours in six different time zones in the following table. Please <a href="https://calendar.google.com/calendar/ical/3dgv.seminar%40gmail.com/public/basic.ics">add this to your calendar</a> to know hours in your time-zone.
@@ -17,11 +22,6 @@
 How to register for zoom and etc. here.
 <a href="join_by_zoom.html" class="button3">Join by Zoom</a>
 -->
-<p style="text-align:center;">
-<a href="https://youtu.be/ERCqnJnLH9Y" class="button3">Join Youtube Live</a>
-<!--  <a href="" class="button3">Youtube link will be available here right before the seminar start.</a>-->
-</p>
-
 <!--
 <h2 style="color:black;">Talks</h2>
 -->
@@ -287,6 +287,10 @@ How to register for zoom and etc. here.
         <a href="">Name</a>(Affiliation)
         -->
       </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ERCqnJnLH9Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+<!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -300,6 +304,7 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Representations and Computational Patterns in Spatial AI</b><br><br><a href="https://www.doc.ic.ac.uk/~ajd/">Andrew Davison<br>Imperial College London</a></td>
+-->
     </tr>
     
     <tr valign="middle" style="background-color:#e2cfc4">
