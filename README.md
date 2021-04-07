@@ -331,7 +331,7 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#c6def1">
       <td><img src="images/siddhartha_chaudhuri.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
+        <a href="https://www.microsoft.com/en-us/research/people/sudipsin/">Sudipta Sinha</a>(Microsoft)<br>
         <a href="">Name</a>(Affiliation)
       </td>
       <td style="width:40%;">
@@ -346,7 +346,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri<br>IIT Bombay & Adobe Research</a></td>
+      <td style="width:35%;"><b>Conditional Detailization</b><br><br><a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri<br>IIT Bombay & Adobe Research</a></td>
     </tr>
     
     <tr valign="middle" style="background-color:#e2e2df">
