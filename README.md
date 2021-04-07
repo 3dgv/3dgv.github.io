@@ -332,7 +332,7 @@ How to register for zoom and etc. here.
       <td><img src="images/siddhartha_chaudhuri.jpg" width="200"/><br>
         [ Panelists ] <br>
         <a href="https://www.microsoft.com/en-us/research/people/sudipsin/">Sudipta Sinha</a>(Microsoft)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="http://www.geometrylearning.com/">Lin Gao</a>(Chinese Academy of Sciences)
       </td>
       <td style="width:40%;">
         <table>
