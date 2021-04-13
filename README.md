@@ -335,7 +335,7 @@ How to register for zoom and etc. here.
         <a href="http://www.geometrylearning.com/">Lin Gao</a>(Chinese Academy of Sciences)
       </td>
       <td colspan="2">
-        <iframe width="560" height="315" src="https://youtu.be/lStGrpg-Knc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=lStGrpg-Knc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
 <!--
       <td style="width:40%;">
