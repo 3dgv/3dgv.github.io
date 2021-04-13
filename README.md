@@ -9,7 +9,7 @@
 </table>
 
 <p style="text-align:center;">
-<a href="https://youtu.be/Ek20Zw77QPU" class="button3">Join Youtube Live</a>
+<a href="https://www.youtube.com/watch?v=lStGrpg-Knc" class="button3">Join Youtube Live</a>
 </p>
 
 
