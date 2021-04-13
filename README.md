@@ -334,10 +334,10 @@ How to register for zoom and etc. here.
         <a href="https://www.microsoft.com/en-us/research/people/sudipsin/">Sudipta Sinha</a>(Microsoft)<br>
         <a href="http://www.geometrylearning.com/">Lin Gao</a>(Chinese Academy of Sciences)
       </td>
-      <td colspan="2">
+<!--      <td colspan="2">
         <iframe width="560" height="315" src="https://www.youtube.com/watch?v=lStGrpg-Knc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
-<!--
+-->
       <td style="width:40%;">
         <table>
           <tbody>
@@ -351,7 +351,7 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Conditional Detailization</b><br><br><a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri<br>IIT Bombay & Adobe Research</a></td>
--->
+
     </tr>
     
     <tr valign="middle" style="background-color:#e2e2df">
