@@ -371,7 +371,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Neural Implicit Representations for 3D Vision</b><br><br><a href="">Andreas Geiger<br>Tübingen/MPI</a></td>
+      <td style="width:35%;"><b>Neural Implicit Representations for 3D Vision</b><br><br><a href="http://www.cvlibs.net/">Andreas Geiger<br>Tübingen/MPI</a></td>
     </tr>
     
     
