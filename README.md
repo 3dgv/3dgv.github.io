@@ -9,7 +9,7 @@
 </table>
 
 <p style="text-align:center;">
-<a href="https://www.youtube.com/watch?v=lStGrpg-Knc" class="button3">Join Youtube Live</a>
+<a href="https://youtu.be/NXMU28MwmJY" class="button3">Join Youtube Live</a>
 </p>
 
 
@@ -356,8 +356,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/andreas_geiger.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/">Carsten Rother</a>(Heidelberg)<br>
+        <a href="https://justusthies.github.io/">Justus Thies</a>(MPI)
       </td>
       <td style="width:40%;">
         <table>
@@ -371,7 +371,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Andreas Geiger<br>Tübingen/MPI</a></td>
+      <td style="width:35%;"><b>Neural Implicit Representations for 3D Vision</b><br><br><a href="">Andreas Geiger<br>Tübingen/MPI</a></td>
     </tr>
     
     
