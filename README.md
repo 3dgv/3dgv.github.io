@@ -357,13 +357,17 @@ How to register for zoom and etc. here.
       <td style="width:35%;"><b>Conditional Detailization</b><br><br><a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri<br>IIT Bombay & Adobe Research</a></td>
 -->
     </tr>
-    
+
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/andreas_geiger.jpg" width="200"/><br>
         [ Panelists ] <br>
         <a href="https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/">Carsten Rother</a>(Heidelberg)<br>
         <a href="https://justusthies.github.io/">Justus Thies</a>(MPI)
       </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/NXMU28MwmJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+<!--      
       <td style="width:40%;">
         <table>
           <tbody>
@@ -377,28 +381,31 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Neural Implicit Representations for 3D Vision</b><br><br><a href="http://www.cvlibs.net/">Andreas Geiger<br>Tübingen/MPI</a></td>
+-->
     </tr>
     
     
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/gul_varol.jpg" width="200"/><br>
+      <!--
         [ Panelists ] <br>
         <a href="">Name</a>(Affiliation)<br>
         <a href="">Name</a>(Affiliation)
+        -->
       </td>
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>04/28 20:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>04/28 18:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>04/28 12:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>04/28 11:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>04/28 06:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>04/28 03:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>04/28 21:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>04/28 19:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>04/28 13:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>04/28 12:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>04/28 07:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>04/28 04:00 Wed</td></tr>
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.robots.ox.ac.uk/~gul/">Gül Varol<br>École des Ponts ParisTech</a></td>
+      <td style="width:35%;"><b>3D Humans in Action</b><br><br><a href="https://www.robots.ox.ac.uk/~gul/">Gül Varol<br>École des Ponts ParisTech</a></td>
     </tr>
 <!--
     <tr valign="middle" style="background-color:white">
