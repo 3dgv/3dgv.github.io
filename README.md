@@ -415,26 +415,6 @@ How to register for zoom and etc. here.
     </tr>    
 -->
     
-    <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="images/yaron_lipman.jpg" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
-      </td>
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>05/05 20:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>05/05 18:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>05/05 12:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>05/05 11:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>05/05 06:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>05/05 03:00 Wed</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="http://www.wisdom.weizmann.ac.il/~ylipman/">Yaron Lipman<br>Weizmann Institute of Science</a></td>
-    </tr>  
     
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="images/saurabh_gupta.png" width="200"/><br>
@@ -455,7 +435,67 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Title</b><br><br><a href="https://saurabhg.web.illinois.edu/">Saurabh Gupta<br>UIUC</a></td>
-    </tr>    
+    </tr>  
+        <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/daniele_panozzo.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>05/19 04:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>05/19 02:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>05/19 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>05/19 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>05/19 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>05/19 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://cims.nyu.edu/gcl/daniele.html">Daniele Panozzo<br>New York University</a></td>
+    </tr>
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/qixing_huang.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>06/02 04:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>06/02 02:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>06/02 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>06/02 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>06/02 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>06/02 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.cs.utexas.edu/~huangqx/">Qixing Huang<br>The University of Texas at Austin</a></td>
+    </tr>  
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/yaron_lipman.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>06/09 20:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>06/09 18:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>06/09 12:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>06/09 11:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>06/09 06:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>06/09 03:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="http://www.wisdom.weizmann.ac.il/~ylipman/">Yaron Lipman<br>Weizmann Institute of Science</a></td>
+    </tr>  
     
   </tbody>
 </table>
