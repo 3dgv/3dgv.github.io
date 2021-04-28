@@ -443,7 +443,7 @@ How to register for zoom and etc. here.
         <a href="">Name</a>(Affiliation)
       </td>
             <td colspan="2">
-        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=_nbDtbmJUss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/nbDtbmJUss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <!--
       <td style="width:40%;">
