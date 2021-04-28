@@ -454,7 +454,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://cims.nyu.edu/gcl/daniele.html">Daniele Panozzo<br>New York University</a></td>
+      <td style="width:35%;"><b>Title:Large Scale Geometry Processing for Geometric Deep Learning</b><br><br><a href="https://cims.nyu.edu/gcl/daniele.html">Daniele Panozzo<br>New York University</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/qixing_huang.jpg" width="200"/><br>
