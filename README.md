@@ -393,6 +393,11 @@ How to register for zoom and etc. here.
         <a href="">Name</a>(Affiliation)
         -->
       </td>
+      
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/AlkbiLCUolE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+      <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -406,6 +411,7 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>3D Humans in Action</b><br><br><a href="https://www.robots.ox.ac.uk/~gul/">Gül Varol<br>École des Ponts ParisTech</a></td>
+      -->
     </tr>
 <!--
     <tr valign="middle" style="background-color:white">
