@@ -28,399 +28,6 @@ How to register for zoom and etc. here.
 
 <table cellpadding="0" cellspacing="0">
   <tbody>
-    <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="images/matthias-niessner.jpg" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra (UCL)</a><br>
-      </td>
-      <td colspan="2">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZhV1Tg_7gww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </td>
-    <!--      
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>01/13 21:30 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>01/13 18:30 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>01/13 11:30 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>01/13 10:30 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>01/13 05:30 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>01/13 02:30 Wed</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>Learning Non-Rigid Reconstruction</b><br><br><a href="https://www.niessnerlab.org/">Matthias Niessner<br>TUM</a></td>
--->
-    </tr>    
-    <tr valign="middle" style="background-color:#e2cfc4">
-      <td><img src="images/hao_su.jpg" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="http://shubhtuls.github.io/">Shubham Tulsiani</a> (FAIR)
-      </td>
-      <td colspan="2">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/MArIHoX3jQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </td>
-<!--      
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>01/21 06:00 Thu</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>01/21 03:00 Thu</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>01/20 20:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>01/20 19:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>01/20 14:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>01/20 11:00 Wed</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>Compositional Generalizability for Geometry and Policy Learning</b><br><br><a href="https://cseweb.ucsd.edu/~haosu/">Hao Su<br>UCSD</a></td>
--->
-    </tr>    
-    
-    <tr valign="middle" style="background-color:white">
-      <td></td>
-      <td><img src="images/break.jpg" width="200"/></td>
-      <td><img src="images/break.jpg" width="200"/></td>
-    </tr>    
-    
-    <tr valign="middle" style="background-color:#c6def1">
-      <td><img src="images/ligang_liu.png" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="https://kevinkaixu.net/">Kai Xu</a> (NUDT)<br>
-        <a href="https://sites.google.com/site/panjia/home">Jia Pan</a> (HKU)
-      </td>
-      
-      <td colspan="2">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/RqSkp-HPSac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </td>
-      <!--
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/03 14:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/03 11:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>02/03 04:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>02/03 03:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>02/02 22:00 Tue</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>02/02 19:00 Tue</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>Robot-oriented Geometry Processing</b><br><br><a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu<br>USTC</a></td>
-      -->
-    </tr>
-
-    <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="images/siyu_tang.jpg" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="http://virtualhumans.mpi-inf.mpg.de/">Gerard Pons-Moll (MPI)</a><br>
-        <a href="https://ait.ethz.ch/">Otmar Hilliges (ETH)</a><br>        
-      </td>
-      <td colspan="2">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/4mjj6DRmKg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </td>
-    <!--
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/10 22:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/10 19:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>02/10 12:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>02/10 11:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>02/10 06:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>02/10 03:00 Wed</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>Generating People Interacting with 3D Scenes and Objects</b><br><br><a href="https://ps.is.mpg.de/~stang">Siyu Tang<br>ETH</a></td>
-      -->
-    </tr>
-    
-    <tr valign="middle" style="background-color:#e2cfc4">
-      <td><img src="images/daniel_ritchie.jpg" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra</a> (UCL)<br>
-        <a href="https://paulguerrero.net/">Paul Guerrero</a> (Adobe Research)
-      </td>
-      <td colspan="2">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/XPJhe7hy_vc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </td>
-      
-      <!--    
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/18 06:00 Thu</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/18 03:00 Thu</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>02/17 20:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>02/17 19:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>02/17 14:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>02/17 11:00 Wed</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b> Neurosymbolic generative models for structured visual content</b><br><br><a href="https://dritchie.github.io/">Daniel Ritchie<br>Brown</a></td>
-      -->
-    </tr>    
-    
-    <tr valign="middle" style="background-color:#c6def1">
-      <td><img src="images/takeo_igarashi.jpg" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu</a> (USTC)<br>
-        <a href="https://songpenghit.github.io/">Peng Song</a> (SUTD)
-      </td>
-      <td colspan="2">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/7CLILIhGRlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </td>
-    <!--
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/24 14:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/24 11:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>   <td>02/24 04:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>02/24 03:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>02/23 22:00 Tue</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>02/23 19:00 Tue</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>Human-in-the-loop Computational Design</b><br><br><a href="https://www-ui.is.s.u-tokyo.ac.jp/~takeo/">Takeo Igarashi<br>U Tokyo</a></td>
-      -->
-    </tr>
-    
-    <!--
-    <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
-      </td>
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>03/03 22:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>03/03 19:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>03/03 12:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>03/03 11:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>03/03 06:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>03/03 03:00 Wed</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
-    </tr>
-    -->
-        
-   <tr valign="middle" style="background-color:white">
-      <td></td>
-      <td><img src="images/break.jpg" width="200"/></td>
-      <td><img src="images/break.jpg" width="200"/></td>
-    </tr>        
-    
-    <tr valign="middle" style="background-color:#e2cfc4">
-      <td><img src="images/noah_snavely.jpg" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="https://pratulsrinivasan.github.io/">Pratul Srinivasan</a>(Google Research)<br>
-        <a href="http://szeliski.org/RichardSzeliski.htm">Rick Szeliski</a>(Facebook)
-      </td>
-      
-      <td colspan="2">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/ToyBeaOUUFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </td>
-
-      <!--
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>03/11 06:00 Thu</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>03/11 03:00 Thu</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>03/10 20:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>03/10 19:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>03/10 14:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>03/10 11:00 Wed</td></tr>
-          </tbody>
-        </table>
-      </td>      
-      <td style="width:35%;"><b>The Plenoptic Camera</b><br><br><a href="http://www.cs.cornell.edu/~snavely/">Noah Snavely<br>Cornell Tech and Google Research</a></td>
-      -->
-    </tr>    
-    
-    <tr valign="middle" style="background-color:white">
-      <td></td>
-      <td><img src="images/break.jpg" width="200"/></td>
-      <td><img src="images/break.jpg" width="200"/></td>
-    </tr>
-    
-    <tr valign="middle" style="background-color:#c6def1">
-      <td><img src="images/tat_jun_chin.png" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a>(NUS)<br>        
-      </td>
-      
-      <td colspan="2">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/5buDn153Hog" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </td>
-
-<!--
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>03/24 13:30 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>03/24 10:30 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>   <td>03/24 03:30 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>03/24 02:30 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>03/23 22:30 Tue</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>03/23 19:30 Tue</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>End-to-End Learnable Geometric Vision</b><br><br><a href="https://cs.adelaide.edu.au/~tjchin">Tat-Jun Chin<br>U Adelaide</a></td>
--->
-    </tr>
-    
-    <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="images/andrew_davison.jpg" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="https://mlr.in.tum.de/home">Stefan Leutenegger</a>(TUM)
-        <!--<br>
-        <a href="">Name</a>(Affiliation)
-        -->
-      </td>
-      <td colspan="2">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/ERCqnJnLH9Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </td>
-<!--
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>03/31 21:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>03/31 18:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>03/31 12:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>03/31 11:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>03/31 06:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>03/31 03:00 Wed</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>Representations and Computational Patterns in Spatial AI</b><br><br><a href="https://www.doc.ic.ac.uk/~ajd/">Andrew Davison<br>Imperial College London</a></td>
--->
-    </tr>      
-    <tr valign="middle" style="background-color:#e2cfc4">
-      <td><img src="images/shuran_song.jpg" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="https://web.eecs.umich.edu/~fouhey/">David Fouhey</a>(Michigan)<br>
-        <a href="https://www.cs.cmu.edu/~dpathak/">Deepak Pathak</a>(CMU)
-      </td>
-      <td colspan="2">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/Ek20Zw77QPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </td>
-<!--
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>04/08 04:00 Thu</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>04/08 02:00 Thu</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>04/07 20:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>04/07 19:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>04/07 14:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>04/07 11:00 Wed</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>Unfolding the Unseen: 3D Perception for Manipulating Deformable Cloth</b><br><br><a href="https://www.cs.columbia.edu/~shurans/">Shuran Song<br>Columbia</a></td>
--->
-    </tr>    
-    
-    <tr valign="middle" style="background-color:#c6def1">
-      <td><img src="images/siddhartha_chaudhuri.jpg" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="https://www.microsoft.com/en-us/research/people/sudipsin/">Sudipta Sinha</a>(Microsoft)<br>
-        <a href="http://www.geometrylearning.com/">Lin Gao</a>(Chinese Academy of Sciences)
-      </td>
-      <td colspan="2">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/lStGrpg-Knc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </td>
-<!--
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>04/14 13:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>04/14 11:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>   <td>04/14 05:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>04/14 04:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>04/13 23:00 Tue</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>04/13 20:00 Tue</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>Conditional Detailization</b><br><br><a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri<br>IIT Bombay & Adobe Research</a></td>
--->
-    </tr>
-
-    <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="images/andreas_geiger.jpg" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/">Carsten Rother</a>(Heidelberg)<br>
-        <a href="https://justusthies.github.io/">Justus Thies</a>(MPI)
-      </td>
-      <td colspan="2">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/NXMU28MwmJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </td>
-<!--      
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>04/21 20:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>04/21 18:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>04/21 12:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>04/21 11:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>04/21 06:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>04/21 03:00 Wed</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>Neural Implicit Representations for 3D Vision</b><br><br><a href="http://www.cvlibs.net/">Andreas Geiger<br>Tübingen/MPI</a></td>
--->
-    </tr>
-    
-    
-    <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="images/gul_varol.jpg" width="200"/><br>
-      <!--
-        [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
-        -->
-      </td>
-      
-      <td colspan="2">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/AlkbiLCUolE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </td>
-      <!--
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>04/28 21:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>04/28 19:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>04/28 13:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>04/28 12:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>04/28 07:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>04/28 04:00 Wed</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>3D Humans in Action</b><br><br><a href="https://www.robots.ox.ac.uk/~gul/">Gül Varol<br>École des Ponts ParisTech</a></td>
-      -->
-    </tr>
-<!--
-    <tr valign="middle" style="background-color:white">
-      <td></td>
-      <td><img src="images/break.jpg" width="200"/></td>
-      <td><img src="images/break.jpg" width="200"/></td>
-    </tr>    
--->
-    
     
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="images/saurabh_gupta.png" width="200"/><br>
@@ -915,6 +522,402 @@ Katerina Fragkiadaki</a>(CMU)<br>
       </td>
 -->
     </tr>
+    
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/matthias-niessner.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra (UCL)</a><br>
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZhV1Tg_7gww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+    <!--      
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>01/13 21:30 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>01/13 18:30 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>01/13 11:30 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>01/13 10:30 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>01/13 05:30 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>01/13 02:30 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Learning Non-Rigid Reconstruction</b><br><br><a href="https://www.niessnerlab.org/">Matthias Niessner<br>TUM</a></td>
+-->
+    </tr>    
+    <tr valign="middle" style="background-color:#e2cfc4">
+      <td><img src="images/hao_su.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="http://shubhtuls.github.io/">Shubham Tulsiani</a> (FAIR)
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/MArIHoX3jQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+<!--      
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>01/21 06:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>01/21 03:00 Thu</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>01/20 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>01/20 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>01/20 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>01/20 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Compositional Generalizability for Geometry and Policy Learning</b><br><br><a href="https://cseweb.ucsd.edu/~haosu/">Hao Su<br>UCSD</a></td>
+-->
+    </tr>    
+    
+    <tr valign="middle" style="background-color:white">
+      <td></td>
+      <td><img src="images/break.jpg" width="200"/></td>
+      <td><img src="images/break.jpg" width="200"/></td>
+    </tr>    
+    
+    <tr valign="middle" style="background-color:#c6def1">
+      <td><img src="images/ligang_liu.png" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="https://kevinkaixu.net/">Kai Xu</a> (NUDT)<br>
+        <a href="https://sites.google.com/site/panjia/home">Jia Pan</a> (HKU)
+      </td>
+      
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/RqSkp-HPSac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+      <!--
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/03 14:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/03 11:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>02/03 04:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>02/03 03:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>02/02 22:00 Tue</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>02/02 19:00 Tue</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Robot-oriented Geometry Processing</b><br><br><a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu<br>USTC</a></td>
+      -->
+    </tr>
+
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/siyu_tang.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="http://virtualhumans.mpi-inf.mpg.de/">Gerard Pons-Moll (MPI)</a><br>
+        <a href="https://ait.ethz.ch/">Otmar Hilliges (ETH)</a><br>        
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/4mjj6DRmKg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+    <!--
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/10 22:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/10 19:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>02/10 12:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>02/10 11:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>02/10 06:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>02/10 03:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Generating People Interacting with 3D Scenes and Objects</b><br><br><a href="https://ps.is.mpg.de/~stang">Siyu Tang<br>ETH</a></td>
+      -->
+    </tr>
+    
+    <tr valign="middle" style="background-color:#e2cfc4">
+      <td><img src="images/daniel_ritchie.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra</a> (UCL)<br>
+        <a href="https://paulguerrero.net/">Paul Guerrero</a> (Adobe Research)
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/XPJhe7hy_vc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+      
+      <!--    
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/18 06:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/18 03:00 Thu</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>02/17 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>02/17 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>02/17 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>02/17 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b> Neurosymbolic generative models for structured visual content</b><br><br><a href="https://dritchie.github.io/">Daniel Ritchie<br>Brown</a></td>
+      -->
+    </tr>    
+    
+    <tr valign="middle" style="background-color:#c6def1">
+      <td><img src="images/takeo_igarashi.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu</a> (USTC)<br>
+        <a href="https://songpenghit.github.io/">Peng Song</a> (SUTD)
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/7CLILIhGRlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+    <!--
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/24 14:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/24 11:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>   <td>02/24 04:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>02/24 03:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>02/23 22:00 Tue</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>02/23 19:00 Tue</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Human-in-the-loop Computational Design</b><br><br><a href="https://www-ui.is.s.u-tokyo.ac.jp/~takeo/">Takeo Igarashi<br>U Tokyo</a></td>
+      -->
+    </tr>
+    
+    <!--
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>03/03 22:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>03/03 19:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>03/03 12:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>03/03 11:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>03/03 06:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>03/03 03:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
+    </tr>
+    -->
+        
+   <tr valign="middle" style="background-color:white">
+      <td></td>
+      <td><img src="images/break.jpg" width="200"/></td>
+      <td><img src="images/break.jpg" width="200"/></td>
+    </tr>        
+    
+    <tr valign="middle" style="background-color:#e2cfc4">
+      <td><img src="images/noah_snavely.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="https://pratulsrinivasan.github.io/">Pratul Srinivasan</a>(Google Research)<br>
+        <a href="http://szeliski.org/RichardSzeliski.htm">Rick Szeliski</a>(Facebook)
+      </td>
+      
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ToyBeaOUUFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+
+      <!--
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>03/11 06:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>03/11 03:00 Thu</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>03/10 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>03/10 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>03/10 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>03/10 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>      
+      <td style="width:35%;"><b>The Plenoptic Camera</b><br><br><a href="http://www.cs.cornell.edu/~snavely/">Noah Snavely<br>Cornell Tech and Google Research</a></td>
+      -->
+    </tr>    
+    
+    <tr valign="middle" style="background-color:white">
+      <td></td>
+      <td><img src="images/break.jpg" width="200"/></td>
+      <td><img src="images/break.jpg" width="200"/></td>
+    </tr>
+    
+    <tr valign="middle" style="background-color:#c6def1">
+      <td><img src="images/tat_jun_chin.png" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a>(NUS)<br>        
+      </td>
+      
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5buDn153Hog" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+
+<!--
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>03/24 13:30 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>03/24 10:30 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>   <td>03/24 03:30 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>03/24 02:30 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>03/23 22:30 Tue</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>03/23 19:30 Tue</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>End-to-End Learnable Geometric Vision</b><br><br><a href="https://cs.adelaide.edu.au/~tjchin">Tat-Jun Chin<br>U Adelaide</a></td>
+-->
+    </tr>
+    
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/andrew_davison.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="https://mlr.in.tum.de/home">Stefan Leutenegger</a>(TUM)
+        <!--<br>
+        <a href="">Name</a>(Affiliation)
+        -->
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ERCqnJnLH9Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+<!--
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>03/31 21:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>03/31 18:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>03/31 12:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>03/31 11:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>03/31 06:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>03/31 03:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Representations and Computational Patterns in Spatial AI</b><br><br><a href="https://www.doc.ic.ac.uk/~ajd/">Andrew Davison<br>Imperial College London</a></td>
+-->
+    </tr>      
+    <tr valign="middle" style="background-color:#e2cfc4">
+      <td><img src="images/shuran_song.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="https://web.eecs.umich.edu/~fouhey/">David Fouhey</a>(Michigan)<br>
+        <a href="https://www.cs.cmu.edu/~dpathak/">Deepak Pathak</a>(CMU)
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Ek20Zw77QPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+<!--
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>04/08 04:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>04/08 02:00 Thu</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>04/07 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>04/07 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>04/07 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>04/07 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Unfolding the Unseen: 3D Perception for Manipulating Deformable Cloth</b><br><br><a href="https://www.cs.columbia.edu/~shurans/">Shuran Song<br>Columbia</a></td>
+-->
+    </tr>    
+    
+    <tr valign="middle" style="background-color:#c6def1">
+      <td><img src="images/siddhartha_chaudhuri.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="https://www.microsoft.com/en-us/research/people/sudipsin/">Sudipta Sinha</a>(Microsoft)<br>
+        <a href="http://www.geometrylearning.com/">Lin Gao</a>(Chinese Academy of Sciences)
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/lStGrpg-Knc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+<!--
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>04/14 13:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>04/14 11:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>   <td>04/14 05:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>04/14 04:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>04/13 23:00 Tue</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>04/13 20:00 Tue</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Conditional Detailization</b><br><br><a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri<br>IIT Bombay & Adobe Research</a></td>
+-->
+    </tr>
+
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/andreas_geiger.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/">Carsten Rother</a>(Heidelberg)<br>
+        <a href="https://justusthies.github.io/">Justus Thies</a>(MPI)
+      </td>
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/NXMU28MwmJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+<!--      
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>04/21 20:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>04/21 18:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>04/21 12:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>04/21 11:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>04/21 06:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>04/21 03:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Neural Implicit Representations for 3D Vision</b><br><br><a href="http://www.cvlibs.net/">Andreas Geiger<br>Tübingen/MPI</a></td>
+-->
+    </tr>
+    
+    
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/gul_varol.jpg" width="200"/><br>
+      <!--
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+        -->
+      </td>
+      
+      <td colspan="2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/AlkbiLCUolE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+      <!--
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>04/28 21:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>04/28 19:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>04/28 13:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>04/28 12:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>04/28 07:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>04/28 04:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>3D Humans in Action</b><br><br><a href="https://www.robots.ox.ac.uk/~gul/">Gül Varol<br>École des Ponts ParisTech</a></td>
+      -->
+    </tr>
+<!--
+    <tr valign="middle" style="background-color:white">
+      <td></td>
+      <td><img src="images/break.jpg" width="200"/></td>
+      <td><img src="images/break.jpg" width="200"/></td>
+    </tr>    
+-->
+    
+    
+    
   </tbody>
 </table>
 
