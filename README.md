@@ -425,9 +425,14 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="images/saurabh_gupta.png" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="https://www.cs.cmu.edu/~katef/">
+Katerina Fragkiadaki</a>(CMU)<br>
+        <a href="https://cseweb.ucsd.edu/~haosu/">Hao Su</a>(UCSD)
       </td>
+      <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=XqJZmOdhEsA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+      <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -441,12 +446,13 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Title</b><br><br><a href="https://saurabhg.web.illinois.edu/">Saurabh Gupta<br>UIUC</a></td>
+      -->
     </tr>  
         <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/daniele_panozzo.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="https://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html">Hao Li</a>(Pinscreen)<br>
+        <a href="http://www.vovakim.com/">Vladimir Kim</a>(Adobe)
       </td>
       <td style="width:40%;">
         <table>
