@@ -134,8 +134,28 @@ Katerina Fragkiadaki</a>(CMU)<br>
         </table>
       </td>
       <td style="width:35%;"><b>Title</b><br><br><a href="http://www.lix.polytechnique.fr/~maks/">Maks Ovsjanikov<br>Ecole Polytechnique in France</a></td>
+    </tr>
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/richard_zhang.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>07/21 04:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>07/21 02:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>07/21 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>07/21 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>07/21 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>07/21 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.cs.sfu.ca/~haoz/">Richard Zhang<br>Simon Fraser University</a></td>
     </tr> 
-          <tr valign="middle" style="background-color:#e2e2df">
+    <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/manolis_savva.jpg" width="200"/><br>
         [ Panelists ] <br>
         <a href="">Name</a>(Affiliation)<br>
