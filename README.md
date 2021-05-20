@@ -61,6 +61,9 @@ Katerina Fragkiadaki</a>(CMU)<br>
         <a href="https://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html">Hao Li</a>(Pinscreen)<br>
         <a href="http://www.vovakim.com/">Vladimir Kim</a>(Adobe)
       </td>
+      <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/nbDtbmJUss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
       <td style="width:40%;">
         <table>
           <tbody>
