@@ -178,6 +178,26 @@ Katerina Fragkiadaki</a>(CMU)<br>
       </td>
       <td style="width:35%;"><b>Title</b><br><br><a href="https://msavva.github.io/">Manolis Savva<br>Simon Fraser University</a></td>
     </tr> 
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/kostas_daniilidis.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/01 04:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/01 02:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/01 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/01 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/01 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/01 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.cis.upenn.edu/~kostas/">Kostas Daniilidis<br>University of Pennsylvania</a></td>
+    </tr> 
   </tbody>
 </table>
  
