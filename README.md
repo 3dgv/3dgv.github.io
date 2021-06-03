@@ -107,16 +107,16 @@ Katerina Fragkiadaki</a>(CMU)<br>
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>06/09 20:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>06/09 18:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>06/09 12:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>06/09 11:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>06/09 06:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>06/09 03:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>06/09 04:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>06/09 02:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>06/09 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>06/09 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>06/09 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>06/09 11:00 Wed</td></tr>
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="http://www.wisdom.weizmann.ac.il/~ylipman/">Yaron Lipman<br>Weizmann Institute of Science</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="http://www.wisdom.weizmann.ac.il/~ylipman/">Yaron Lipman<br>Weizmann Institute of Science and Facebook AI Research</a></td>
     </tr>  
       <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/maks_ovsjanikov.jpg" width="200"/><br>
