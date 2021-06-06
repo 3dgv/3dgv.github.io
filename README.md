@@ -81,8 +81,11 @@ Katerina Fragkiadaki</a>(CMU)<br>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/qixing_huang.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="http://andrewowens.com/">Andrew Owens</a>(UMich)<br>
+        <a href="https://yxw.web.illinois.edu/">Yuxiong Wang</a>(UIUC)
+      </td>
+      <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/etTrIRoJre4&" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <td style="width:40%;">
         <table>
@@ -96,13 +99,13 @@ Katerina Fragkiadaki</a>(CMU)<br>
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.cs.utexas.edu/~huangqx/">Qixing Huang<br>The University of Texas at Austin</a></td>
+      <td style="width:35%;"><b>Title: Hybrid 3D Representations</b><br><br><a href="https://www.cs.utexas.edu/~huangqx/">Qixing Huang<br>The University of Texas at Austin</a></td>
     </tr>  
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/yaron_lipman.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="https://vsitzmann.github.io/">Vincent Sitzmann</a>(MIT)<br>
+        <a href="http://tbirdal.me/">Tolga Birdal</a>(Stanford)
       </td>
       <td style="width:40%;">
         <table>
