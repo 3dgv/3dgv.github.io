@@ -127,8 +127,12 @@ Katerina Fragkiadaki</a>(CMU)<br>
       <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/maks_ovsjanikov.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="http://peterwonka.net/">Peter Wonka</a>(KAUST)<br>
+        <a href="https://www.imperial.ac.uk/people/m.bronstein">Michael Bronstein</a>(ICL)<br>
+        <a href="https://sites.google.com/site/erodola/">Emanuele Rodolà</a>(Sapienza)
+      </td>
+      <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/DsSm6GMBRN0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <td style="width:40%;">
         <table>
