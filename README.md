@@ -208,6 +208,26 @@ Katerina Fragkiadaki</a>(CMU)<br>
       </td>
       <td style="width:35%;"><b>Title</b><br><br><a href="https://www.cis.upenn.edu/~kostas/">Kostas Daniilidis<br>University of Pennsylvania</a></td>
     </tr> 
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/wenping_wang.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/03 04:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/03 02:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>11/03 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/03 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/03 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>11/03 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang<br>Texas A&M</a></td>
+    </tr> 
   </tbody>
 </table>
  
