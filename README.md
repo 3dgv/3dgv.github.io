@@ -206,7 +206,7 @@ Katerina Fragkiadaki</a>(CMU)<br>
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.cis.upenn.edu/~kostas/">Kostas Daniilidis<br>University of Pennsylvania</a></td>
+      <td style="width:35%;"><b>3D Human and Object Pose and Shape</b><br><br><a href="https://www.cis.upenn.edu/~kostas/">Kostas Daniilidis<br>University of Pennsylvania</a></td>
     </tr> 
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/jie_gao.jpg" width="200"/><br>
