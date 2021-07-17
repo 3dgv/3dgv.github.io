@@ -166,7 +166,7 @@ Katerina Fragkiadaki</a>(CMU)<br>
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.cs.sfu.ca/~haoz/">Richard Zhang<br>Simon Fraser University</a></td>
+      <td style="width:35%;"><b>Compactness, Symmetry, and Functionality: An Evolution to 3D Shape Understanding and Representation</b><br><br><a href="https://www.cs.sfu.ca/~haoz/">Richard Zhang<br>Simon Fraser University</a></td>
     </tr> 
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/manolis_savva.jpg" width="200"/><br>
