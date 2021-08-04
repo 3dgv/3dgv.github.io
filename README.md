@@ -171,22 +171,22 @@ Katerina Fragkiadaki</a>(CMU)<br>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/manolis_savva.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="https://cs.dartmouth.edu/~bozhu/">Bo Zhu</a>(Affiliation)<br>
+        <a href="https://cseweb.ucsd.edu/~tzli/">Tzu-Mao Li</a>(Affiliation)
       </td>
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>08/03 04:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>08/03 02:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>08/03 20:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>08/03 19:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>08/03 14:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>08/03 11:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>08/04 04:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>08/04 02:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>08/04 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>08/04 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>08/04 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>08/04 11:00 Wed</td></tr>
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://msavva.github.io/">Manolis Savva<br>Simon Fraser University</a></td>
+      <td style="width:35%;"><b>3D Simulation for Embodied AI: Three Emerging Directions</b><br><br><a href="https://msavva.github.io/">Manolis Savva<br>Simon Fraser University</a></td>
     </tr> 
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/kostas_daniilidis.jpg" width="200"/><br>
