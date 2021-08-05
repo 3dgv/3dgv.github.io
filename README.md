@@ -151,8 +151,11 @@ Katerina Fragkiadaki</a>(CMU)<br>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/richard_zhang.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="http://www.vovakim.com/">Vladimir Kim</a>(Adobe)<br>
+        <a href="https://faculty.idc.ac.il/arik/site/index.asp">Ariel Shamir</a>(IDC Herzliya)
+      </td>
+      <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=gKvxk-Krops" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <td style="width:40%;">
         <table>
@@ -171,8 +174,11 @@ Katerina Fragkiadaki</a>(CMU)<br>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/manolis_savva.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="https://cs.dartmouth.edu/~bozhu/">Bo Zhu</a>(Affiliation)<br>
-        <a href="https://cseweb.ucsd.edu/~tzli/">Tzu-Mao Li</a>(Affiliation)
+        <a href="https://cs.dartmouth.edu/~bozhu/">Bo Zhu</a>(Dartmouth)<br>
+        <a href="https://cseweb.ucsd.edu/~tzli/">Tzu-Mao Li</a>(UCSD)
+      </td>
+      <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=8tTJHDC3HWU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <td style="width:40%;">
         <table>
