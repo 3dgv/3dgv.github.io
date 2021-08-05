@@ -155,7 +155,7 @@ Katerina Fragkiadaki</a>(CMU)<br>
         <a href="https://faculty.idc.ac.il/arik/site/index.asp">Ariel Shamir</a>(IDC Herzliya)
       </td>
       <td colspan="2">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=gKvxk-Krops" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/gKvxk-Krops" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <td style="width:40%;">
         <table>
@@ -178,7 +178,7 @@ Katerina Fragkiadaki</a>(CMU)<br>
         <a href="https://cseweb.ucsd.edu/~tzli/">Tzu-Mao Li</a>(UCSD)
       </td>
       <td colspan="2">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=8tTJHDC3HWU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/8tTJHDC3HWU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <td style="width:40%;">
         <table>
