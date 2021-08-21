@@ -28,8 +28,120 @@ How to register for zoom and etc. here.
 
 <table cellpadding="0" cellspacing="0">
   <tbody>
-    
-    <tr valign="middle" style="background-color:#e2cfc4">
+   
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/kostas_daniilidis.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/01 04:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/01 02:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/01 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/01 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/01 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/01 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>3D Human and Object Pose and Shape</b><br><br><a href="https://www.cis.upenn.edu/~kostas/">Kostas Daniilidis<br>University of Pennsylvania</a></td>
+    </tr> 
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/jie_gao.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/22 04:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/22 02:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/22 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/22 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/22 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/22 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Graph Ricci Flow and Applications in Network Analysis and Learning</b><br><br><a href="https://sites.rutgers.edu/jie-gao/">Jie Gao<br>Rutgers University</a></td>
+    </tr> 
+        <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/hao_li.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/13 04:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>10/13 02:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>10/13 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>10/13 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>10/13 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>10/13 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html">Hao Li<br>Pinscreen</a></td>
+    </tr> 
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/wenping_wang.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/03 04:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/03 02:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>11/03 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/03 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/03 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>11/03 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang<br>Texas A&M</a></td>
+    </tr> 
+     <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/shixia_liu.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/24 22:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/24 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>11/24 14:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/24 13:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/24 8:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>11/24 7:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="http://www.shixialiu.com/">Shixia Liu<br>Tsinghua University</a></td>
+    </tr> 
+  </tbody>
+</table>
+ 
+
+
+
+
+
+
+<h2 style="color:black;">Past talks</h2>
+<table cellpadding="0" cellspacing="0">
+  <tbody>
+        <tr valign="middle" style="background-color:#e2cfc4">
       <td><img src="images/saurabh_gupta.png" width="200"/><br>
         [ Panelists ] <br>
         <a href="https://www.cs.cmu.edu/~katef/">
@@ -194,78 +306,6 @@ Katerina Fragkiadaki</a>(CMU)<br>
       </td>
       <td style="width:35%;"><b>3D Simulation for Embodied AI: Three Emerging Directions</b><br><br><a href="https://msavva.github.io/">Manolis Savva<br>Simon Fraser University</a></td>
     </tr> 
-    <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="images/kostas_daniilidis.jpg" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
-      </td>
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/01 04:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/01 02:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/01 20:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/01 19:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/01 14:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/01 11:00 Wed</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>3D Human and Object Pose and Shape</b><br><br><a href="https://www.cis.upenn.edu/~kostas/">Kostas Daniilidis<br>University of Pennsylvania</a></td>
-    </tr> 
-    <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="images/jie_gao.jpg" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
-      </td>
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/22 04:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/22 02:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/22 20:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/22 19:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/22 14:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/22 11:00 Wed</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>Graph Ricci Flow and Applications in Network Analysis and Learning</b><br><br><a href="https://sites.rutgers.edu/jie-gao/">Jie Gao<br>Rutgers University</a></td>
-    </tr> 
-    <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="images/wenping_wang.jpg" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
-      </td>
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/03 04:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/03 02:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>11/03 20:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/03 19:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/03 14:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>11/03 11:00 Wed</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang<br>Texas A&M</a></td>
-    </tr> 
-  </tbody>
-</table>
- 
-
-
-
-
-
-
-<h2 style="color:black;">Past talks</h2>
-<table cellpadding="0" cellspacing="0">
-  <tbody>
     <tr valign="middle" style="background-color:#e2e2df">
       <td style="width:25%;"><a href="https://people.inf.ethz.ch/pomarc/"><img src="./images/marc_pollefeys.jpg" width="200"/></a></td>
       <td colspan="2">
