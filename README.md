@@ -48,6 +48,26 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>3D Human and Object Pose and Shape</b><br><br><a href="https://www.cis.upenn.edu/~kostas/">Kostas Daniilidis<br>University of Pennsylvania</a></td>
+    </tr>
+        <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/lin_gao.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/08 04:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/08 02:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/08 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/08 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/08 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/08 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="http://geometrylearning.com/lin/">Lin Gao<br>Chinese Academy of Sciences</a></td>
     </tr> 
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/jie_gao.jpg" width="200"/><br>
@@ -68,6 +88,26 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Graph Ricci Flow and Applications in Network Analysis and Learning</b><br><br><a href="https://sites.rutgers.edu/jie-gao/">Jie Gao<br>Rutgers University</a></td>
+    </tr> 
+        <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/peter_wonka.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/29 04:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/29 02:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/29 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/29 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/29 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/29 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Recent Advances in Urban Modeling</b><br><br><a href="http://peterwonka.net/">Peter Wonka<br>KAUST</a></td>
     </tr> 
         <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/hao_li.jpg" width="200"/><br>
@@ -108,7 +148,27 @@ How to register for zoom and etc. here.
         </table>
       </td>
       <td style="width:35%;"><b>Title</b><br><br><a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang<br>Texas A&M</a></td>
-    </tr> 
+    </tr>
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/ruizhen_hu.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/10 22:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/10 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>11/10 14:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/10 13:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/10 8:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>11/10 7:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang<br>Texas A&M</a></td>
+    </tr>
      <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/shixia_liu.jpg" width="200"/><br>
         [ Panelists ] <br>
