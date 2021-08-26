@@ -167,7 +167,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang<br>Texas A&M</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="http://csse.szu.edu.cn/staff/ruizhenhu/">Ruizhen Hu<br>Shenzhen University</a></td>
     </tr>
      <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/shixia_liu.jpg" width="200"/><br>
