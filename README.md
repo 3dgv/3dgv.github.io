@@ -69,6 +69,26 @@ How to register for zoom and etc. here.
       </td>
       <td style="width:35%;"><b>Title</b><br><br><a href="http://geometrylearning.com/lin/">Lin Gao<br>Chinese Academy of Sciences</a></td>
     </tr> 
+            <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/gerard_pons_moll.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/15 04:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/15 02:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/15 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/15 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/15 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/15 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="http://virtualhumans.mpi-inf.mpg.de/">Gerard Pons-Moll<br>University of Tübingen</a></td>
+    </tr> 
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/jie_gao.jpg" width="200"/><br>
         [ Panelists ] <br>
