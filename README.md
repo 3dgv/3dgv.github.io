@@ -52,8 +52,8 @@ How to register for zoom and etc. here.
         <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/lin_gao.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="https://www.cs.stanford.edu/~kaichun/">Mo Kaichun</a>(Stanford)<br>
+        <a href="https://ericyi.github.io/">Li Yi</a>(Tsinghua University)
       </td>
       <td style="width:40%;">
         <table>
