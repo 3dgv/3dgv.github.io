@@ -58,16 +58,16 @@ How to register for zoom and etc. here.
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/08 04:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/08 02:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/08 20:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/08 19:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/08 14:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/08 11:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/08 12:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/08 10:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/08 04:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/08 03:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/07 22:00 Tue</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/07 19:00 Tue</td></tr>
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="http://geometrylearning.com/lin/">Lin Gao<br>Chinese Academy of Sciences</a></td>
+      <td style="width:35%;"><b>3D Deep Deformable Generative Mesh Models with Geometry and Texture</b><br><br><a href="http://geometrylearning.com/lin/">Lin Gao<br>Chinese Academy of Sciences</a></td>
     </tr> 
             <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/gerard_pons_moll.jpg" width="200"/><br>
