@@ -72,8 +72,8 @@ How to register for zoom and etc. here.
             <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/gerard_pons_moll.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="https://vlg.inf.ethz.ch/">Siyu Tang</a>(ETH)<br>
+        <a href="http://www0.cs.ucl.ac.uk/staff/L.Agapito/">Lourdes Agapito</a>(UCL)        
       </td>
       <td style="width:40%;">
         <table>
@@ -87,7 +87,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="http://virtualhumans.mpi-inf.mpg.de/">Gerard Pons-Moll<br>University of Tübingen</a></td>
+      <td style="width:35%;"><b>Generalized Neural Implicits, and Humans Interacting in the 3D World</b><br><br><a href="http://virtualhumans.mpi-inf.mpg.de/">Gerard Pons-Moll<br>University of Tübingen</a></td>
     </tr> 
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/jie_gao.jpg" width="200"/><br>
