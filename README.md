@@ -36,7 +36,7 @@ How to register for zoom and etc. here.
         <a href="https://eng.ucmerced.edu/people/jyang44">Jimei Yang</a>(Adobe)
       </td>
             <td colspan="2">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=by5E64WgZwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/by5E64WgZwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <td style="width:40%;">
         <table>
@@ -59,7 +59,7 @@ How to register for zoom and etc. here.
         <a href="https://ericyi.github.io/">Li Yi</a>(Tsinghua University)
       </td>
             <td colspan="2">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=-0WpU5_vN5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/-0WpU5_vN5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <td style="width:40%;">
         <table>
@@ -82,7 +82,7 @@ How to register for zoom and etc. here.
         <a href="http://www0.cs.ucl.ac.uk/staff/L.Agapito/">Lourdes Agapito</a>(UCL)        
       </td>
           <td colspan="2">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=1s2EXW2Td5c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/1s2EXW2Td5c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <td style="width:40%;">
         <table>
@@ -105,7 +105,7 @@ How to register for zoom and etc. here.
         <a href="https://sites.math.rutgers.edu/~fluo/">Feng Luo</a>(Rutgers)
       </td>
           <td colspan="2">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=jZWKicMwodA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/jZWKicMwodA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <td style="width:40%;">
         <table>
