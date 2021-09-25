@@ -35,6 +35,10 @@ How to register for zoom and etc. here.
         <a href="https://ps.is.tuebingen.mpg.de/person/szuffi">Silvia Zuffi</a>(MPI)<br>
         <a href="https://eng.ucmerced.edu/people/jyang44">Jimei Yang</a>(Adobe)
       </td>
+            <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=by5E64WgZwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+        <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -55,6 +59,10 @@ How to register for zoom and etc. here.
         <a href="https://www.cs.stanford.edu/~kaichun/">Mo Kaichun</a>(Stanford)<br>
         <a href="https://ericyi.github.io/">Li Yi</a>(Tsinghua University)
       </td>
+            <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=-0WpU5_vN5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+        <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -75,6 +83,10 @@ How to register for zoom and etc. here.
         <a href="https://vlg.inf.ethz.ch/">Siyu Tang</a>(ETH)<br>
         <a href="http://www0.cs.ucl.ac.uk/staff/L.Agapito/">Lourdes Agapito</a>(UCL)        
       </td>
+          <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=1s2EXW2Td5c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+        <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -92,9 +104,13 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/jie_gao.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="https://www3.cs.stonybrook.edu/~gu/">Xianfeng Gu</a>(Stony Brook)<br>
+        <a href="https://sites.math.rutgers.edu/~fluo/">Feng Luo</a>(Rutgers)
       </td>
+          <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=jZWKicMwodA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+        <!--
       <td style="width:40%;">
         <table>
           <tbody>
