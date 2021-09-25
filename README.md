@@ -209,6 +209,46 @@ How to register for zoom and etc. here.
       </td>
       <td style="width:35%;"><b>Title</b><br><br><a href="http://www.shixialiu.com/">Shixia Liu<br>Tsinghua University</a></td>
     </tr> 
+    <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/shubham_tulsiani.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>12/01 22:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>12/01 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>12/01 14:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>12/01 13:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>12/01 8:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>12/01 7:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://shubhtuls.github.io/">Shubham Tulsiani<br>Carnegie Mellon University</a></td>
+    </tr> 
+        <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/aniket_bera.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>12/01 22:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>12/01 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>12/01 14:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>12/01 13:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>12/01 8:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>12/01 7:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.cs.umd.edu/~ab/">Aniket Bera<br>University of Maryland</a></td>
+    </tr> 
   </tbody>
 </table>
  
