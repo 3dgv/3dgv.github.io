@@ -32,8 +32,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/kostas_daniilidis.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="https://ps.is.tuebingen.mpg.de/person/szuffi">Silvia Zuffi</a>(MPI)<br>
+        <a href="https://eng.ucmerced.edu/people/jyang44">Jimei Yang</a>(Adobe)
       </td>
       <td style="width:40%;">
         <table>
