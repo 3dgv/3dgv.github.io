@@ -38,7 +38,6 @@ How to register for zoom and etc. here.
             <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/watch?v=by5E64WgZwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
-        <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -62,7 +61,6 @@ How to register for zoom and etc. here.
             <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/watch?v=-0WpU5_vN5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
-        <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -86,7 +84,6 @@ How to register for zoom and etc. here.
           <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/watch?v=1s2EXW2Td5c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
-        <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -110,7 +107,6 @@ How to register for zoom and etc. here.
           <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/watch?v=jZWKicMwodA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
-        <!--
       <td style="width:40%;">
         <table>
           <tbody>
@@ -263,7 +259,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.cs.umd.edu/~ab/">Aniket Bera<br>University of Maryland</a></td>
+      <td style="width:35%;"><b>Learning Affective Human Gaits and Gestures</b><br><br><a href="https://www.cs.umd.edu/~ab/">Aniket Bera<br>University of Maryland</a></td>
     </tr> 
   </tbody>
 </table>
