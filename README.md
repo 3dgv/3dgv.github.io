@@ -58,9 +58,6 @@ How to register for zoom and etc. here.
         <a href="https://www.cs.stanford.edu/~kaichun/">Mo Kaichun</a>(Stanford)<br>
         <a href="https://ericyi.github.io/">Li Yi</a>(Tsinghua University)
       </td>
-            <td colspan="2">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/-0WpU5_vN5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </td>
       <td style="width:40%;">
         <table>
           <tbody>
@@ -73,6 +70,9 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
+            <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/-0WpU5_vN5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
       <td style="width:35%;"><b>3D Deep Deformable Generative Mesh Models with Geometry and Texture</b><br><br><a href="http://geometrylearning.com/lin/">Lin Gao<br>Chinese Academy of Sciences</a></td>
     </tr> 
             <tr valign="middle" style="background-color:#e2e2df">
@@ -80,9 +80,6 @@ How to register for zoom and etc. here.
         [ Panelists ] <br>
         <a href="https://vlg.inf.ethz.ch/">Siyu Tang</a>(ETH)<br>
         <a href="http://www0.cs.ucl.ac.uk/staff/L.Agapito/">Lourdes Agapito</a>(UCL)        
-      </td>
-          <td colspan="2">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/1s2EXW2Td5c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <td style="width:40%;">
         <table>
@@ -96,6 +93,9 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
+          <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/1s2EXW2Td5c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
       <td style="width:35%;"><b>Generalized Neural Implicits, and Humans Interacting in the 3D World</b><br><br><a href="http://virtualhumans.mpi-inf.mpg.de/">Gerard Pons-Moll<br>University of Tübingen</a></td>
     </tr> 
     <tr valign="middle" style="background-color:#e2e2df">
@@ -103,9 +103,6 @@ How to register for zoom and etc. here.
         [ Panelists ] <br>
         <a href="https://www3.cs.stonybrook.edu/~gu/">Xianfeng Gu</a>(Stony Brook)<br>
         <a href="https://sites.math.rutgers.edu/~fluo/">Feng Luo</a>(Rutgers)
-      </td>
-          <td colspan="2">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/jZWKicMwodA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <td style="width:40%;">
         <table>
@@ -118,6 +115,9 @@ How to register for zoom and etc. here.
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/22 11:00 Wed</td></tr>
           </tbody>
         </table>
+      </td>
+          <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/jZWKicMwodA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <td style="width:35%;"><b>Graph Ricci Flow and Applications in Network Analysis and Learning</b><br><br><a href="https://sites.rutgers.edu/jie-gao/">Jie Gao<br>Rutgers University</a></td>
     </tr> 
