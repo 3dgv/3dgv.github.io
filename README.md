@@ -28,15 +28,11 @@ How to register for zoom and etc. here.
 
 <table cellpadding="0" cellspacing="0">
   <tbody>
-   
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/kostas_daniilidis.jpg" width="200"/><br>
         [ Panelists ] <br>
         <a href="https://ps.is.tuebingen.mpg.de/person/szuffi">Silvia Zuffi</a>(MPI)<br>
         <a href="https://eng.ucmerced.edu/people/jyang44">Jimei Yang</a>(Adobe)
-      </td>
-            <td colspan="2">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/by5E64WgZwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <td style="width:40%;">
         <table>
@@ -49,6 +45,10 @@ How to register for zoom and etc. here.
             <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/01 11:00 Wed</td></tr>
           </tbody>
         </table>
+      </td>
+      
+      <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/by5E64WgZwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <td style="width:35%;"><b>3D Human and Object Pose and Shape</b><br><br><a href="https://www.cis.upenn.edu/~kostas/">Kostas Daniilidis<br>University of Pennsylvania</a></td>
     </tr>
