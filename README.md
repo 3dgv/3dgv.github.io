@@ -71,13 +71,12 @@ How to register for zoom and etc. here.
         <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/peter_wonka.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
+        <a href="https://3d.bk.tudelft.nl/liangliang/">LiangLiang Nan</a>(TU Delft)<br>
         <a href="">Name</a>(Affiliation)
       </td>
                 <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/watch?v=jsFztFXiPTM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
-      <td style="width:35%;"><b>Recent Advances in Urban Modeling</b><br><br><a href="http://peterwonka.net/">Peter Wonka<br>KAUST</a></td>
     </tr> 
         <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/hao_li.jpg" width="200"/><br>
