@@ -34,7 +34,7 @@ How to register for zoom and etc. here.
         <a href="https://ps.is.tuebingen.mpg.de/person/szuffi">Silvia Zuffi</a>(MPI)<br>
         <a href="https://eng.ucmerced.edu/people/jyang44">Jimei Yang</a>(Adobe)
       </td>
-      <td style="width:40%;">
+      <td style="width:50%;">
         <table>
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/01 04:00 Wed</td></tr>
@@ -58,7 +58,7 @@ How to register for zoom and etc. here.
         <a href="https://www.cs.stanford.edu/~kaichun/">Mo Kaichun</a>(Stanford)<br>
         <a href="https://ericyi.github.io/">Li Yi</a>(Tsinghua University)
       </td>
-      <td style="width:40%;">
+      <td style="width:50%;">
         <table>
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/08 12:00 Wed</td></tr>
@@ -81,7 +81,7 @@ How to register for zoom and etc. here.
         <a href="https://vlg.inf.ethz.ch/">Siyu Tang</a>(ETH)<br>
         <a href="http://www0.cs.ucl.ac.uk/staff/L.Agapito/">Lourdes Agapito</a>(UCL)        
       </td>
-      <td style="width:40%;">
+      <td style="width:50%;">
         <table>
           <tbody>
             <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/15 04:00 Wed</td></tr>
