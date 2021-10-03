@@ -72,10 +72,9 @@ How to register for zoom and etc. here.
       <td><img src="images/peter_wonka.jpg" width="200"/><br>
         [ Panelists ] <br>
         <a href="https://3d.bk.tudelft.nl/liangliang/">LiangLiang Nan</a>(TU Delft)<br>
-        <a href="">Name</a>(Affiliation)
       </td>
                 <td colspan="2">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=jsFztFXiPTM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/jsFztFXiPTM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr> 
         <tr valign="middle" style="background-color:#e2e2df">
@@ -116,7 +115,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://people.cs.uchicago.edu/~ranahanocka/">Hao Li<br>University of Chicago</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://people.cs.uchicago.edu/~ranahanocka/">Rana Hanocka<br>University of Chicago</a></td>
     </tr> 
             <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/xiaowei_zhou.jpg" width="200"/><br>
