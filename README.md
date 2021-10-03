@@ -98,6 +98,46 @@ How to register for zoom and etc. here.
       </td>
       <td style="width:35%;"><b>Title</b><br><br><a href="https://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html">Hao Li<br>Pinscreen</a></td>
     </tr> 
+            <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/rana_hanocka.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/20 04:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>10/20 02:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>10/20 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>10/20 19:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>10/20 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>10/20 11:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://people.cs.uchicago.edu/~ranahanocka/">Hao Li<br>University of Chicago</a></td>
+    </tr> 
+            <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/xiaowei_zhou.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/27 22:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>10/27 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>10/27 14:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>10/27 11:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>10/27 8:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>10/27 5:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://xzhou.me/">Xiaowei Zhou<br>Zhejiang University</a></td>
+    </tr> 
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/wenping_wang.jpg" width="200"/><br>
         [ Panelists ] <br>
