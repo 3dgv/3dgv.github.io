@@ -34,23 +34,9 @@ How to register for zoom and etc. here.
         <a href="https://ps.is.tuebingen.mpg.de/person/szuffi">Silvia Zuffi</a>(MPI)<br>
         <a href="https://eng.ucmerced.edu/people/jyang44">Jimei Yang</a>(Adobe)
       </td>
-      <td style="width:300">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/01 04:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/01 02:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/01 20:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/01 19:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/01 14:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/01 11:00 Wed</td></tr>
-          </tbody>
-        </table>
-      </td>
-      
       <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/by5E64WgZwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
-      <td style="width:35%;"><b>3D Human and Object Pose and Shape</b><br><br><a href="https://www.cis.upenn.edu/~kostas/">Kostas Daniilidis<br>University of Pennsylvania</a></td>
     </tr>
         <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/lin_gao.jpg" width="200"/><br>
@@ -58,22 +44,9 @@ How to register for zoom and etc. here.
         <a href="https://www.cs.stanford.edu/~kaichun/">Mo Kaichun</a>(Stanford)<br>
         <a href="https://ericyi.github.io/">Li Yi</a>(Tsinghua University)
       </td>
-      <td style="width:300">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>09/08 12:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>09/08 10:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>09/08 04:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>09/08 03:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>09/07 22:00 Tue</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>09/07 19:00 Tue</td></tr>
-          </tbody>
-        </table>
-      </td>
-            <td colspan="2">
+          <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/-0WpU5_vN5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
-      <td style="width:35%;"><b>3D Deep Deformable Generative Mesh Models with Geometry and Texture</b><br><br><a href="http://geometrylearning.com/lin/">Lin Gao<br>Chinese Academy of Sciences</a></td>
     </tr> 
             <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/gerard_pons_moll.jpg" width="200"/><br>
