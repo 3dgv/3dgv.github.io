@@ -83,19 +83,9 @@ How to register for zoom and etc. here.
         <a href="">Name</a>(Affiliation)<br>
         <a href="">Name</a>(Affiliation)
       </td>
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/13 04:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>10/13 02:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>10/13 20:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>10/13 19:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>10/13 14:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>10/13 11:00 Wed</td></tr>
-          </tbody>
-        </table>
+      <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/bnEXtzB-M2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html">Hao Li<br>Pinscreen</a></td>
     </tr> 
             <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/rana_hanocka.jpg" width="200"/><br>
