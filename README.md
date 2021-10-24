@@ -88,7 +88,7 @@ How to register for zoom and etc. here.
             <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/rana_hanocka.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="https://orlitany.github.io/">Or Litany</a>(Or Litany)
+        <a href="https://orlitany.github.io/">Or Litany</a>(NVIDIA)
       </td>
       <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/3MUE75qGg7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
