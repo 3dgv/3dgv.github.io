@@ -79,9 +79,7 @@ How to register for zoom and etc. here.
     </tr> 
         <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/hao_li.jpg" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        [ Panelists ] 
       </td>
       <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/bnEXtzB-M2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -90,8 +88,7 @@ How to register for zoom and etc. here.
             <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/rana_hanocka.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="https://orlitany.github.io/">Or Litany</a>(Or Litany)
       </td>
       <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/3MUE75qGg7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
