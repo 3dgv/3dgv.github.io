@@ -103,12 +103,12 @@ How to register for zoom and etc. here.
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/27 22:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>10/27 20:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>10/27 14:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>10/27 11:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>10/27 8:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>10/27 5:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/27 12:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>10/28 10:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>10/28 04:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>10/28 03:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>10/27 22:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>10/27 19:00 Wed</td></tr>
           </tbody>
         </table>
       </td>
