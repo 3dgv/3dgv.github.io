@@ -97,8 +97,8 @@ How to register for zoom and etc. here.
             <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/xiaowei_zhou.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="http://liuyebin.com/">Yebin Liu</a>(Tsinghua)<br>
+        <a href="https://www.xu-lan.com/">Lan Xu</a>(ShanghaiTech)
       </td>
       <td style="width:40%;">
         <table>
