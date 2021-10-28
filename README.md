@@ -112,7 +112,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://xzhou.me/">Xiaowei Zhou<br>Zhejiang University</a></td>
+      <td style="width:35%;"><b>Towards More Accessible 3D Digitalization of Humans and Scenes</b><br><br><a href="https://xzhou.me/">Xiaowei Zhou<br>Zhejiang University</a></td>
     </tr> 
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/wenping_wang.jpg" width="200"/><br>
