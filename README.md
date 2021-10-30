@@ -9,7 +9,7 @@
 </table>
 
 <p style="text-align:center;">
-<a href="https://www.youtube.com/watch?v=_G4RLBTSXNA" class="button3">Join Youtube Live</a>
+<a href="https://www.youtube.com/watch?v=REA_VAZI_Zc" class="button3">Join Youtube Live</a>
 </p>
 
 
@@ -100,19 +100,9 @@ How to register for zoom and etc. here.
         <a href="http://liuyebin.com/">Yebin Liu</a>(Tsinghua)<br>
         <a href="https://www.xu-lan.com/">Lan Xu</a>(ShanghaiTech)
       </td>
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>10/27 12:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>10/28 10:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>10/28 04:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>10/28 03:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>10/27 22:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>10/27 19:00 Wed</td></tr>
-          </tbody>
-        </table>
+      <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/_G4RLBTSXNA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
-      <td style="width:35%;"><b>Towards More Accessible 3D Digitalization of Humans and Scenes</b><br><br><a href="https://xzhou.me/">Xiaowei Zhou<br>Zhejiang University</a></td>
     </tr> 
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/wenping_wang.jpg" width="200"/><br>
