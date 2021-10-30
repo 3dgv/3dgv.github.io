@@ -122,7 +122,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang<br>Texas A&M</a></td>
+      <td style="width:35%;"><b>Studies on 3D Reconstruction</b><br><br><a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang<br>Texas A&M</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/ruizhen_hu.jpg" width="200"/><br>
@@ -182,7 +182,7 @@ How to register for zoom and etc. here.
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="https://shubhtuls.github.io/">Shubham Tulsiani<br>Carnegie Mellon University</a></td>
+      <td style="width:35%;"><b>Reconstructing Everyday Objects</b><br><br><a href="https://shubhtuls.github.io/">Shubham Tulsiani<br>Carnegie Mellon University</a></td>
     </tr> 
         <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/aniket_bera.jpg" width="200"/><br>
