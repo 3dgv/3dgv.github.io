@@ -124,26 +124,6 @@ How to register for zoom and etc. here.
       </td>
       <td style="width:35%;"><b>Studies on 3D Reconstruction</b><br><br><a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang<br>Texas A&M</a></td>
     </tr>
-    <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="images/ruizhen_hu.jpg" width="200"/><br>
-        [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
-      </td>
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/17 22:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/17 20:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>11/17 14:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/17 13:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/17 8:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>11/17 7:00 Wed</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="http://csse.szu.edu.cn/staff/ruizhenhu/">Ruizhen Hu<br>Shenzhen University</a></td>
-    </tr>
      <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/shixia_liu.jpg" width="200"/><br>
         [ Panelists ] <br>
@@ -204,6 +184,26 @@ How to register for zoom and etc. here.
       </td>
       <td style="width:35%;"><b>Learning Affective Human Gaits and Gestures</b><br><br><a href="https://www.cs.umd.edu/~ab/">Aniket Bera<br>University of Maryland</a></td>
     </tr> 
+        <tr valign="middle" style="background-color:#e2e2df">
+      <td><img src="images/ruizhen_hu.jpg" width="200"/><br>
+        [ Panelists ] <br>
+        <a href="">Name</a>(Affiliation)<br>
+        <a href="">Name</a>(Affiliation)
+      </td>
+      <td style="width:40%;">
+        <table>
+          <tbody>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>12/15 22:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>12/15 20:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>12/15 14:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>12/15 13:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>12/15 8:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>12/15 7:00 Wed</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="http://csse.szu.edu.cn/staff/ruizhenhu/">Ruizhen Hu<br>Shenzhen University</a></td>
+    </tr>
   </tbody>
 </table>
  
