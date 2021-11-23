@@ -125,7 +125,7 @@ How to register for zoom and etc. here.
       <td style="width:35%;"><b>Studies on 3D Reconstruction</b><br><br><a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang<br>Texas A&M</a></td>
     </tr>
      <tr valign="middle" style="background-color:#e2e2df">
-      <td><img src="images/shixia_liu.jpg" width="200"/><br>
+      <td><img src="images/kai_xu.jpg" width="200"/><br>
         [ Panelists ] <br>
         <a href="">Name</a>(Affiliation)<br>
         <a href="">Name</a>(Affiliation)
@@ -133,16 +133,16 @@ How to register for zoom and etc. here.
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/24 22:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/24 20:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>11/24 14:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/24 13:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/24 8:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>11/24 7:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/24 12:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/24 10:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>11/24 4:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/24 3:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/23 21:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>11/23 18:00 Wed</td></tr>
           </tbody>
         </table>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="http://www.shixialiu.com/">Shixia Liu<br>Tsinghua University</a></td>
+      <td style="width:35%;"><b>Title</b><br><br><a href="https://kevinkaixu.net/">Kai Xu<br>National University of Defense Technology</a></td>
     </tr> 
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/shubham_tulsiani.jpg" width="200"/><br>
