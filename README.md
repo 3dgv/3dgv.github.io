@@ -110,19 +110,9 @@ How to register for zoom and etc. here.
         <a href="">Name</a>(Affiliation)<br>
         <a href="">Name</a>(Affiliation)
       </td>
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>11/03 04:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>11/03 02:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>11/03 20:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>11/03 19:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>11/03 14:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>11/03 11:00 Wed</td></tr>
-          </tbody>
-        </table>
+      <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/REA_VAZI_Zc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
-      <td style="width:35%;"><b>Studies on 3D Reconstruction</b><br><br><a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang<br>Texas A&M</a></td>
     </tr>
      <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/kai_xu.jpg" width="200"/><br>
