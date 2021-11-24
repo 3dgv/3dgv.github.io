@@ -107,8 +107,8 @@ How to register for zoom and etc. here.
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/wenping_wang.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="https://gaoxifeng.github.io/">Xifeng Gao</a>(Tencent America)<br>
+        <a href="https://yangzzzy.github.io/">Yin Yang</a>(Clemson)
       </td>
       <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/REA_VAZI_Zc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -120,6 +120,7 @@ How to register for zoom and etc. here.
         <a href="http://www.bdeng.me/">Bailin Deng</a>(Cardiff)<br>
         <a href="https://www.cs.utexas.edu/~huangqx/">Qixing Huang</a>(UT Austin)
       </td>
+       <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/m_wLsHJszNg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>       
     </tr> 
     <tr valign="middle" style="background-color:#e2e2df">
