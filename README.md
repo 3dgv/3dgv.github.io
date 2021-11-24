@@ -206,7 +206,6 @@ Katerina Fragkiadaki</a>(CMU)<br>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/XqJZmOdhEsA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <!--
-      <td style="width:35%;"><b>Representations for Visual Navigation and How to Train Them</b><br><br><a href="https://saurabhg.web.illinois.edu/">Saurabh Gupta<br>UIUC</a></td>
       -->
     </tr>  
         <tr valign="middle" style="background-color:#e2e2df">
@@ -218,7 +217,6 @@ Katerina Fragkiadaki</a>(CMU)<br>
       <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/_nbDtbmJUss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
-      <td style="width:35%;"><b>Title:Large Scale Geometry Processing for Geometric Deep Learning</b><br><br><a href="https://cims.nyu.edu/gcl/daniele.html">Daniele Panozzo<br>New York University</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/qixing_huang.jpg" width="200"/><br>
@@ -229,7 +227,6 @@ Katerina Fragkiadaki</a>(CMU)<br>
       <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/etTrIRoJre4&" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
-      <td style="width:35%;"><b>Title: Hybrid 3D Representations</b><br><br><a href="https://www.cs.utexas.edu/~huangqx/">Qixing Huang<br>The University of Texas at Austin</a></td>
     </tr>  
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/yaron_lipman.jpg" width="200"/><br>
@@ -240,7 +237,6 @@ Katerina Fragkiadaki</a>(CMU)<br>
       <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/lmjpyIWIsZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="http://www.wisdom.weizmann.ac.il/~ylipman/">Yaron Lipman<br>Weizmann Institute of Science and Facebook AI Research</a></td>
     </tr>  
       <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/maks_ovsjanikov.jpg" width="200"/><br>
@@ -252,7 +248,6 @@ Katerina Fragkiadaki</a>(CMU)<br>
       <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/DsSm6GMBRN0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </td>
-      <td style="width:35%;"><b>Title</b><br><br><a href="http://www.lix.polytechnique.fr/~maks/">Maks Ovsjanikov<br>Ecole Polytechnique in France</a></td>
     </tr>
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/richard_zhang.jpg" width="200"/><br>
@@ -263,7 +258,6 @@ Katerina Fragkiadaki</a>(CMU)<br>
       <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/gKvxk-Krops" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
-      <td style="width:35%;"><b>Compactness, Symmetry, and Functionality: An Evolution to 3D Shape Understanding and Representation</b><br><br><a href="https://www.cs.sfu.ca/~haoz/">Richard Zhang<br>Simon Fraser University</a></td>
     </tr> 
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/manolis_savva.jpg" width="200"/><br>
@@ -274,7 +268,6 @@ Katerina Fragkiadaki</a>(CMU)<br>
       <td colspan="2">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/8tTJHDC3HWU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
-      <td style="width:35%;"><b>3D Simulation for Embodied AI: Three Emerging Directions</b><br><br><a href="https://msavva.github.io/">Manolis Savva<br>Simon Fraser University</a></td>
     </tr> 
     <tr valign="middle" style="background-color:#e2e2df">
       <td style="width:25%;"><a href="https://people.inf.ethz.ch/pomarc/"><img src="./images/marc_pollefeys.jpg" width="200"/></a></td>
