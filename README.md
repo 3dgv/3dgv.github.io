@@ -9,7 +9,7 @@
 </table>
 
 <p style="text-align:center;">
-<a href="https://www.youtube.com/watch?v=m_wLsHJszNg" class="button3">Join Youtube Live</a>
+<a href="https://www.youtube.com/watch?v=xIUgZiMoFAs" class="button3">Join Youtube Live</a>
 </p>
 
 
@@ -121,43 +121,32 @@ How to register for zoom and etc. here.
         <a href="https://www.cs.utexas.edu/~huangqx/">Qixing Huang</a>(UT Austin)
       </td>
        <td colspan="2">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/m_wLsHJszNg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>       
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/m_wLsHJszNg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+         </td>
     </tr> 
     <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/shubham_tulsiani.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="http://people.csail.mit.edu/tfxue/">Tianfan Xue</a>(Google Research)
       </td>
-      <td style="width:40%;">
-        <table>
-          <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>12/01 22:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>12/01 20:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>12/01 14:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>12/01 13:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>12/01 8:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>12/01 7:00 Wed</td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width:35%;"><b>Reconstructing Everyday Objects</b><br><br><a href="https://shubhtuls.github.io/">Shubham Tulsiani<br>Carnegie Mellon University</a></td>
+       <td colspan="2">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/_M21DcHaMrg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+         </td>
     </tr> 
         <tr valign="middle" style="background-color:#e2e2df">
       <td><img src="images/aniket_bera.jpg" width="200"/><br>
         [ Panelists ] <br>
-        <a href="">Name</a>(Affiliation)<br>
-        <a href="">Name</a>(Affiliation)
+        <a href="http://angelxuanchang.github.io/">Angel Chang</a>(SFU)
       </td>
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>12/08 22:00 Wed</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>12/08 20:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>France</td>  <td>12/08 14:00 Wed</td></tr>
-            <tr style="background-color:#e2e2df"><td>UK</td>      <td>12/08 13:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>12/08 8:00 Wed</td></tr>
-            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>12/08 7:00 Wed</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>12/08 05:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>12/08 03:00 Thu</td></tr>
+            <tr style="background-color:#e2e2df"><td>France</td>  <td>12/08 08:00 Wed</td></tr>
+            <tr style="background-color:#e2e2df"><td>UK</td>      <td>12/08 07:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>12/08 14:00 Wed</td></tr>
+            <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>12/08 11:00 Wed</td></tr>
           </tbody>
         </table>
       </td>
