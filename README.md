@@ -141,8 +141,8 @@ How to register for zoom and etc. here.
       <td style="width:40%;">
         <table>
           <tbody>
-            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>12/08 05:00 Thu</td></tr>
-            <tr style="background-color:#c6def1"><td>Beijing</td> <td>12/08 03:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Sydney</td>  <td>12/09 05:00 Thu</td></tr>
+            <tr style="background-color:#c6def1"><td>Beijing</td> <td>12/09 03:00 Thu</td></tr>
             <tr style="background-color:#e2e2df"><td>France</td>  <td>12/08 08:00 Wed</td></tr>
             <tr style="background-color:#e2e2df"><td>UK</td>      <td>12/08 07:00 Wed</td></tr>
             <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>12/08 14:00 Wed</td></tr>
